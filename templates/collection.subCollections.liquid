@@ -1,0 +1,9 @@
+{{ collection.title }}
+
+<ul>
+{% for link in linklists[collection.handle].links %}
+{% assign sub_collection = link.object %}
+<li><a href="{{ link.url }}">{{ link.title }}</a></li>
+  {% section 'image-with-text' %}
+{% endfor %}
+</ul>

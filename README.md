@@ -1,2 +1,0 @@
-# techna
-Techna Theme Dev

@@ -256,7 +256,7 @@
       },
       "settings": {
         "access_token": {
-          "info": "Eventbriteアカウントにログインし、[Access token here](https://www.eventbrite.com/platform/)を取得します。",
+          "info": "Eventbriteアカウントにログインし、[Access token here](https:\/\/www.eventbrite.com\/platform\/)を取得します。",
           "label": "アクセストークン"
         },
         "aspect_ratio": {
@@ -414,7 +414,7 @@
           "name": "購入ボタン",
           "settings": {
             "show_dynamic_checkout": {
-              "info": "ストアで利用可能な決済方法を使用すると、お客様にはPayPalやApple Payなど、希望のオプションが表示されます。[詳しくはこちら](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)",
+              "info": "ストアで利用可能な決済方法を使用すると、お客様にはPayPalやApple Payなど、希望のオプションが表示されます。[詳しくはこちら](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)",
               "label": "動的チェックアウトボタンを表示するs"
             }
           }
@@ -440,11 +440,11 @@
           "name": "ストックレベルインジケータ",
           "settings": {
             "inventory_max": {
-              "info": "製品在庫の初期数量を入力してください。複数の製品で異なる数量を選択するための「ダイナミックソース」を挿入します。  [詳しくはこちら](https://fluorescent.co/help/spark/product-pages#stock-level-indicator).",
+              "info": "製品在庫の初期数量を入力してください。複数の製品で異なる数量を選択するための「ダイナミックソース」を挿入します。  [詳しくはこちら](https:\/\/fluorescent.co\/help\/spark\/product-pages#stock-level-indicator).",
               "label": "在庫のベース量"
             },
             "low_inventory_threshold": {
-              "info": "数量不足のメッセージが表示される製品の数量レベルを選択します。複数の製品で異なる数量を選択するための「ダイナミックソース」を挿入します。  [詳しくはこちら](https://fluorescent.co/help/spark/product-pages#stock-level-indicator).",
+              "info": "数量不足のメッセージが表示される製品の数量レベルを選択します。複数の製品で異なる数量を選択するための「ダイナミックソース」を挿入します。  [詳しくはこちら](https:\/\/fluorescent.co\/help\/spark\/product-pages#stock-level-indicator).",
               "label": "低在庫閾値"
             },
             "show_labels": {
@@ -470,10 +470,10 @@
           "name": "Share",
           "settings": {
             "paragraph__1": {
-              "content": "SNSの投稿にリンクを含めると、そのページの記事のサムネイルがプレビュー画像として表示されます。[詳しくはこちら](https://help.shopify.com/en/manual/online-store/images/showing-social-media-thumbnail-images)。"
+              "content": "SNSの投稿にリンクを含めると、そのページの記事のサムネイルがプレビュー画像として表示されます。[詳しくはこちら](https:\/\/help.shopify.com\/en\/manual\/online-store\/images\/showing-social-media-thumbnail-images)。"
             },
             "paragraph__2": {
-              "content": "オンラインストアのタイトルと説明を設定します。[詳しくはこちら](https://help.shopify.com/ja/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)"
+              "content": "オンラインストアのタイトルと説明を設定します。[詳しくはこちら](https:\/\/help.shopify.com\/ja\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)"
             }
           }
         },
@@ -524,7 +524,7 @@
       },
       "settings": {
         "enable_payment_button": {
-          "info": "ストアで利用可能な決済方法を使用すると、お客様にはPayPalやApple Payなど、希望のオプションが表示されます。[もっと詳しく](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)",
+          "info": "ストアで利用可能な決済方法を使用すると、お客様にはPayPalやApple Payなど、希望のオプションが表示されます。[もっと詳しく](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)",
           "label": "動的チェックアウトボタンを表示する"
         },
         "enable_product_lightbox": {
@@ -537,7 +537,7 @@
           "content": "メディア"
         },
         "media__paragraph": {
-          "content": "[メディアタイプ](https://help.shopify.com/manual/products/product-media) について詳しくはこちら"
+          "content": "[メディアタイプ](https:\/\/help.shopify.com\/manual\/products\/product-media) について詳しくはこちら"
         },
         "product": {
           "label": "商品"
@@ -623,11 +623,11 @@
       "settings": {
         "currency__header": {
           "content": "通貨セレクター",
-          "info": "通貨を追加するには、[支払い設定](/admin/settings/payments) で行ってください。"
+          "info": "通貨を追加するには、[支払い設定](\/admin\/settings\/payments) で行ってください。"
         },
         "language__header": {
           "content": "言語セレクター",
-          "info": "言語を追加するには、[言語設定](/admin/settings/languages) に移動します"
+          "info": "言語を追加するには、[言語設定](\/admin\/settings\/languages) に移動します"
         },
         "payment__header": {
           "content": "支払いタイプ",
@@ -763,8 +763,8 @@
         },
         "image_width": {
           "label": "画像の幅",
-          "options__1": "1/2",
-          "options__2": "2/3"
+          "options__1": "1\/2",
+          "options__2": "2\/3"
         },
         "section_contrast": {
           "label": "代替のセクション色を使用する"
@@ -843,8 +843,8 @@
         },
         "image_width": {
           "label": "画像の幅",
-          "options__1": "1/2",
-          "options__2": "2/3"
+          "options__1": "1\/2",
+          "options__2": "2\/3"
         },
         "section_contrast": {
           "label": "代替のセクション色を使用する"
@@ -1135,7 +1135,7 @@
       "name": "ページ",
       "settings": {
         "content_max_width": {
-          "info": "ページのコンテンツの最大幅を調整する。 [ページの詳細情報を表示しています](https://help.shopify.com/ja/manual/online-store/pages)。",
+          "info": "ページのコンテンツの最大幅を調整する。 [ページの詳細情報を表示しています](https:\/\/help.shopify.com\/ja\/manual\/online-store\/pages)。",
           "label": "コンテンツの最大幅"
         }
       }
@@ -1149,7 +1149,7 @@
               "label": "画像"
             },
             "video_url": {
-              "info": ".mp4の動画ファイルへの直接リンクを使用してください。 [詳しくはこちら](https://fluorescent.co/help/spark/video-hero#add-a-video).",
+              "info": ".mp4の動画ファイルへの直接リンクを使用してください。 [詳しくはこちら](https:\/\/fluorescent.co\/help\/spark\/video-hero#add-a-video).",
               "label": "動画リンク"
             }
           }
@@ -1158,7 +1158,7 @@
       "name": "Aboutページ",
       "settings": {
         "content_max_width": {
-          "info": "ページのコンテンツの最大幅を調整する。 [ページの詳細情報を表示しています](https://help.shopify.com/ja/manual/online-store/pages)。",
+          "info": "ページのコンテンツの最大幅を調整する。 [ページの詳細情報を表示しています](https:\/\/help.shopify.com\/ja\/manual\/online-store\/pages)。",
           "label": "コンテンツの最大幅"
         },
         "intro": {
@@ -1317,7 +1317,7 @@
               "options__5": "配送"
             },
             "show_estimator": {
-              "info": "送料の見積もりは、送料が存在する場合にのみ表示されます [詳しくはこちら](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/setting-up-shipping-rates).",
+              "info": "送料の見積もりは、送料が存在する場合にのみ表示されます [詳しくはこちら](https:\/\/help.shopify.com\/en\/manual\/shipping\/setting-up-and-managing-your-shipping\/setting-up-shipping-rates).",
               "label": "配送料予測を表示"
             },
             "text": {
@@ -1362,7 +1362,7 @@
           "name": "購入ボタン",
           "settings": {
             "show_dynamic_checkout": {
-              "info": "ストアで利用可能な決済方法を使用すると、お客様にはPayPalやApple Payなど、希望のオプションが表示されます。[詳しくはこちら](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)",
+              "info": "ストアで利用可能な決済方法を使用すると、お客様にはPayPalやApple Payなど、希望のオプションが表示されます。[詳しくはこちら](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)",
               "label": "動的チェックアウトボタンを表示するs"
             }
           }
@@ -1410,13 +1410,13 @@
               "label": "表示する最大製品数"
             },
             "product_source": {
-              "info": "補完的な製品を選択するには、Search & Discoveryアプリを追加してください。[詳しくはこちら](https://help.shopify.com/en/manual/online-store/search-and-discovery/product-recommendations)",
+              "info": "補完的な製品を選択するには、Search & Discoveryアプリを追加してください。[詳しくはこちら](https:\/\/help.shopify.com\/en\/manual\/online-store\/search-and-discovery\/product-recommendations)",
               "label": "展示する製品",
               "option_app_recommendations": "サーチ＆ディスカバリーアプリのおすすめ",
               "option_custom_product_list": "カスタム製品リスト"
             },
             "products_list": {
-              "info": "商品ごとに異なる項目を設定するための[商品参照](/admin/metafields/product/create)メタフィールドの追加(商品一覧)",
+              "info": "商品ごとに異なる項目を設定するための[商品参照](\/admin\/metafields\/product\/create)メタフィールドの追加(商品一覧)",
               "label": "カスタム製品リスト"
             }
           }
@@ -1425,7 +1425,7 @@
           "name": "カスタムテキストフィールド",
           "settings": {
             "line_properties__paragraph": {
-              "content": "ラインアイテムプロパティ](https://shopify.dev/themes/architecture/templates/product#line-item-properties)についてはこちらをご覧ください。"
+              "content": "ラインアイテムプロパティ](https:\/\/shopify.dev\/themes\/architecture\/templates\/product#line-item-properties)についてはこちらをご覧ください。"
             },
             "placeholder": {
               "label": "フィールドのプレースホルダー"
@@ -1457,11 +1457,11 @@
           "name": "ストックレベルインジケータ",
           "settings": {
             "inventory_max": {
-              "info": "製品在庫の初期数量を入力してください。複数の製品で異なる数量を選択するための「ダイナミックソース」を挿入します。  [詳しくはこちら](https://fluorescent.co/help/spark/product-pages#stock-level-indicator)",
+              "info": "製品在庫の初期数量を入力してください。複数の製品で異なる数量を選択するための「ダイナミックソース」を挿入します。  [詳しくはこちら](https:\/\/fluorescent.co\/help\/spark\/product-pages#stock-level-indicator)",
               "label": "在庫のベース量"
             },
             "low_inventory_threshold": {
-              "info": "数量不足のメッセージが表示される製品の数量レベルを選択します。複数の製品で異なる数量を選択するための「ダイナミックソース」を挿入します。  [詳しくはこちら](https://fluorescent.co/help/spark/product-pages#stock-level-indicator)",
+              "info": "数量不足のメッセージが表示される製品の数量レベルを選択します。複数の製品で異なる数量を選択するための「ダイナミックソース」を挿入します。  [詳しくはこちら](https:\/\/fluorescent.co\/help\/spark\/product-pages#stock-level-indicator)",
               "label": "低在庫閾値"
             },
             "show_labels": {
@@ -1548,10 +1548,10 @@
           "name": "共有",
           "settings": {
             "paragraph__1": {
-              "content": "SNSの投稿にリンクを含めると、そのページの記事のサムネイルがプレビュー画像として表示されます。[詳しくはこちら](https://help.shopify.com/en/manual/online-store/images/showing-social-media-thumbnail-images)。"
+              "content": "SNSの投稿にリンクを含めると、そのページの記事のサムネイルがプレビュー画像として表示されます。[詳しくはこちら](https:\/\/help.shopify.com\/en\/manual\/online-store\/images\/showing-social-media-thumbnail-images)。"
             },
             "paragraph__2": {
-              "content": "オンラインストアのタイトルと説明を設定します。[詳しくはこちら](https://help.shopify.com/ja/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)"
+              "content": "オンラインストアのタイトルと説明を設定します。[詳しくはこちら](https:\/\/help.shopify.com\/ja\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)"
             }
           }
         },
@@ -1572,7 +1572,7 @@
               "options__5": "配送"
             },
             "show_estimator": {
-              "info": "Estimator will appear only if shipping rates exist [learn more](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/setting-up-shipping-rates).",
+              "info": "Estimator will appear only if shipping rates exist [learn more](https:\/\/help.shopify.com\/en\/manual\/shipping\/setting-up-and-managing-your-shipping\/setting-up-shipping-rates).",
               "label": "配送料予測を表示"
             },
             "style": {
@@ -1607,7 +1607,7 @@
           "settings": {
             "header__siblings": {
               "content": "兄弟商品見本",
-              "info": "類似商品をスウォッチとして表示します。 「兄弟」コレクションを設定して、メタフィールドを使用して個別のバリエーション商品をグループ化します。 [詳細](http://fluorescent.co/help/stiletto/sibling-product-swatches)"
+              "info": "類似商品をスウォッチとして表示します。 「兄弟」コレクションを設定して、メタフィールドを使用して個別のバリエーション商品をグループ化します。 [詳細](http:\/\/fluorescent.co\/help\/stiletto\/sibling-product-swatches)"
             },
             "popup__header": {
               "content": "情報ポップアップ",
@@ -1676,7 +1676,7 @@
           "content": "メディア"
         },
         "media__paragraph": {
-          "content": "[メディアタイプ](https://help.shopify.com/manual/products/product-media) について詳しくはこちら"
+          "content": "[メディアタイプ](https:\/\/help.shopify.com\/manual\/products\/product-media) について詳しくはこちら"
         },
         "mobile_gallery_style": {
           "label": "モバイルギャラリースタイル",
@@ -1703,7 +1703,7 @@
       "name": "検索ページ",
       "settings": {
         "enable_filtering": {
-          "info": "[フィルター](/admin/menus）をカスタマイズする",
+          "info": "[フィルター](\/admin\/menus）をカスタマイズする",
           "label": "フィルタリングを有効にする"
         },
         "enable_sorting": {
@@ -1742,7 +1742,7 @@
       },
       "settings": {
         "api_key": {
-          "info": "地図を表示するにはGoogle Maps APIキーに登録してください。詳しくはこちら： [Google Maps APIキーに登録する](https://help.shopify.com/en/manual/online-store/themes/os/customize/map-section-api-key).",
+          "info": "地図を表示するにはGoogle Maps APIキーに登録してください。詳しくはこちら： [Google Maps APIキーに登録する](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/os\/customize\/map-section-api-key).",
           "label": "Google Maps APIキー"
         },
         "header": {
@@ -1758,7 +1758,7 @@
           "label": "地図住所"
         },
         "map_json": {
-          "info": "（任意）カスタム [地図スタイル](https://mapstyle.withgoogle.com/) を追加",
+          "info": "（任意）カスタム [地図スタイル](https:\/\/mapstyle.withgoogle.com\/) を追加",
           "label": "カスタムマップ JSON"
         },
         "section_contrast": {
@@ -1863,7 +1863,7 @@
               "label": "見出し"
             },
             "video_url": {
-              "info": ".mp4の動画ファイルへの直接リンクを使用してください。 [詳しくはこちら](https://fluorescent.co/help/spark/video-hero#add-a-video).",
+              "info": ".mp4の動画ファイルへの直接リンクを使用してください。 [詳しくはこちら](https:\/\/fluorescent.co\/help\/spark\/video-hero#add-a-video).",
               "label": "動画リンク"
             }
           }
@@ -1898,7 +1898,7 @@
       },
       "settings": {
         "paragraph": {
-          "content": "購読する顧客の電子メールアドレスは[メール購読](/admin/customers?query=&accepts_marketing=1) リストに追加されます。"
+          "content": "購読する顧客の電子メールアドレスは[メール購読](\/admin\/customers?query=&accepts_marketing=1) リストに追加されます。"
         },
         "section_contrast": {
           "label": "代替のセクション色を使用する"
@@ -2011,10 +2011,10 @@
           "label": "最大製品"
         },
         "paragraph__customization": {
-          "content": "補完する商品を選択するには、Search & Discoveryアプリを追加してください。[詳しくはこちら](https://help.shopify.com/en/manual/online-store/search-and-discovery/product-recommendations)"
+          "content": "補完する商品を選択するには、Search & Discoveryアプリを追加してください。[詳しくはこちら](https:\/\/help.shopify.com\/en\/manual\/online-store\/search-and-discovery\/product-recommendations)"
         },
         "paragraph__intro": {
-          "content": "動的レコメンデーションでは、注文や商品の情報を利用して、時間の経過とともに変化し改善していきます。[詳しくはこちら](https://shopify.dev/themes/product-merchandising/recommendations)"
+          "content": "動的レコメンデーションでは、注文や商品の情報を利用して、時間の経過とともに変化し改善していきます。[詳しくはこちら](https:\/\/shopify.dev\/themes\/product-merchandising\/recommendations)"
         },
         "section_contrast": {
           "label": "代替のセクション色を使用する"
@@ -2192,8 +2192,8 @@
         },
         "image_width": {
           "label": "画像幅",
-          "options__1": "1/2",
-          "options__2": "2/3"
+          "options__1": "1\/2",
+          "options__2": "2\/3"
         },
         "link": {
           "label": "ボタンリンク"
@@ -2480,7 +2480,7 @@
               "label": "画像"
             },
             "likes": {
-              "info": "偽の数字で顧客の誤解を招くことは [FTC法](https://ca.practicallaw.thomsonreuters.com/w-007-7584) の『不公正または欺瞞的な行為または慣行の規制』に該当する可能性があります。",
+              "info": "偽の数字で顧客の誤解を招くことは [FTC法](https:\/\/ca.practicallaw.thomsonreuters.com\/w-007-7584) の『不公正または欺瞞的な行為または慣行の規制』に該当する可能性があります。",
               "label": "いいねの数"
             },
             "link": {
@@ -2783,7 +2783,7 @@
           "option_2": "元の"
         },
         "video_url": {
-          "info": ".mp4の動画ファイルへの直接リンクを使用してください。 [詳しくはこちら](https://fluorescent.co/help/spark/video-hero#add-a-video).",
+          "info": ".mp4の動画ファイルへの直接リンクを使用してください。 [詳しくはこちら](https:\/\/fluorescent.co\/help\/spark\/video-hero#add-a-video).",
           "label": "動画リンク"
         }
       }
@@ -3008,7 +3008,7 @@
           "label": "ツールチップのバリアントオプション"
         },
         "custom_swatch_colors": {
-          "info": "1 行に 1 色追加します。正確なバリアント オプション名の後にコロンと 16 進コードを入力します。例：「スカイブルー：#87CEEB」。 [詳細](http://fluorescent.co/help/stiletto/swatches)",
+          "info": "1 行に 1 色追加します。正確なバリアント オプション名の後にコロンと 16 進コードを入力します。例：「スカイブルー：#87CEEB」。 [詳細](http:\/\/fluorescent.co\/help\/stiletto\/swatches)",
           "label": "カスタム色見本"
         },
         "enable_dynamic_product_options": {
@@ -3057,7 +3057,7 @@
           "label": "マウスオーバー時に2番目の画像を表示する"
         },
         "show_swatches_and_chips": {
-          "info": "商品オプションの上にカーソルを乗せると表示されます。スウォッチやツールチップを設定することについては、[ドキュメンテーション](https://fluorescent.co/help/spark/product-pages#set-up-product-chips) をご覧ください。",
+          "info": "商品オプションの上にカーソルを乗せると表示されます。スウォッチやツールチップを設定することについては、[ドキュメンテーション](https:\/\/fluorescent.co\/help\/spark\/product-pages#set-up-product-chips) をご覧ください。",
           "label": "スウォッチとツールチップを表示"
         }
       }
@@ -3083,43 +3083,43 @@
           "content": "アカウントリンク"
         },
         "social_facebook_link": {
-          "info": "https://facebook.com/shopify",
+          "info": "https:\/\/facebook.com\/shopify",
           "label": "Facebookリンク"
         },
         "social_instagram_link": {
-          "info": "https://www.instagram.com/shopify/",
+          "info": "https:\/\/www.instagram.com\/shopify\/",
           "label": "Instagramリンク"
         },
         "social_linkedin_link": {
-          "info": "https://linkedin.com/company/shopify",
+          "info": "https:\/\/linkedin.com\/company\/shopify",
           "label": "LinkedInリンク"
         },
         "social_pinterest_link": {
-          "info": "https://pinterest.com/shopify",
+          "info": "https:\/\/pinterest.com\/shopify",
           "label": "Pinterestリンク"
         },
         "social_snapchat_link": {
-          "info": "https://snapchat.com/add/shopify",
+          "info": "https:\/\/snapchat.com\/add\/shopify",
           "label": "Snapchatリンク"
         },
         "social_tiktok_link": {
-          "info": "https://tiktok.com/@shopify",
+          "info": "https:\/\/tiktok.com\/@shopify",
           "label": "TikTokリンク"
         },
         "social_tumblr_link": {
-          "info": "https://shopify.tumblr.com",
+          "info": "https:\/\/shopify.tumblr.com",
           "label": "Tumblrリンク"
         },
         "social_twitter_link": {
-          "info": "https://twitter.com/shopify",
+          "info": "https:\/\/twitter.com\/shopify",
           "label": "Twitterリンク"
         },
         "social_vimeo_link": {
-          "info": "https://vimeo.com/shopify",
+          "info": "https:\/\/vimeo.com\/shopify",
           "label": "Vimeoリンク"
         },
         "social_youtube_link": {
-          "info": "https://youtube.com/shopify",
+          "info": "https:\/\/youtube.com\/shopify",
           "label": "Youtubeリンク"
         }
       }
@@ -3419,11 +3419,11 @@
         },
         "header__country": {
           "content": "国セレクター",
-          "info": "国を追加するには、[マーケット設定](/admin/settings/markets) に移動します。"
+          "info": "国を追加するには、[マーケット設定](\/admin\/settings\/markets) に移動します。"
         },
         "header__language": {
           "content": "言語セレクター",
-          "info": "言語を追加するには、[言語設定]（/ admin / settings / languages）に移動します"
+          "info": "言語を追加するには、[言語設定]（\/ admin \/ settings \/ languages）に移動します"
         }
       },
       "header__color": {

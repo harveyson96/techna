@@ -256,7 +256,7 @@
       },
       "settings": {
         "access_token": {
-          "info": "Accedi al tuo account Eventbrite per ottenere il tuo [Accesso token qui](https://www.eventbrite.com/platform/).",
+          "info": "Accedi al tuo account Eventbrite per ottenere il tuo [Accesso token qui](https:\/\/www.eventbrite.com\/platform\/).",
           "label": "Token di accesso"
         },
         "aspect_ratio": {
@@ -414,7 +414,7 @@
           "name": "Buy button",
           "settings": {
             "show_dynamic_checkout": {
-              "info": "Using the payment methods available on your store, customers see their preferred option, like PayPal or Apple Pay. [Learn more](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)",
+              "info": "Using the payment methods available on your store, customers see their preferred option, like PayPal or Apple Pay. [Learn more](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)",
               "label": "Mostra pulsanti di check-out dinamico"
             }
           }
@@ -440,11 +440,11 @@
           "name": "Indicatore del livello delle scorte",
           "settings": {
             "inventory_max": {
-              "info": "Inserisci la quantità di origine del tuo stock di prodotti. Inserire una \"fonte dinamica\" per selezionare quantità diverse per diversi prodotti. [Maggiori informazioni](https://fluorescent.co/help/spark/product-pages#stock-level-indicator).",
+              "info": "Inserisci la quantità di origine del tuo stock di prodotti. Inserire una \"fonte dinamica\" per selezionare quantità diverse per diversi prodotti. [Maggiori informazioni](https:\/\/fluorescent.co\/help\/spark\/product-pages#stock-level-indicator).",
               "label": "Quantità di base dello stock"
             },
             "low_inventory_threshold": {
-              "info": "Seleziona la quantità di prodotto che dovrebbe far scattare un messaggio di bassa quantità. Aggiungere una \"fonte dinamica\" per selezionare quantità diverse per più prodotti. [Maggiori informazioni](https://fluorescent.co/help/spark/product-pages#stock-level-indicator).",
+              "info": "Seleziona la quantità di prodotto che dovrebbe far scattare un messaggio di bassa quantità. Aggiungere una \"fonte dinamica\" per selezionare quantità diverse per più prodotti. [Maggiori informazioni](https:\/\/fluorescent.co\/help\/spark\/product-pages#stock-level-indicator).",
               "label": "Soglia di scorte basse"
             },
             "show_labels": {
@@ -470,10 +470,10 @@
           "name": "Condividi",
           "settings": {
             "paragraph__1": {
-              "content": "Se includi un link nei post sui social media, l'immagine in evidenza della pagina verrà mostrata come immagine di anteprima. [Maggiori informazioni](https://help.shopify.com/manual/online-store/images/showing-social-media-thumbnail-images)"
+              "content": "Se includi un link nei post sui social media, l'immagine in evidenza della pagina verrà mostrata come immagine di anteprima. [Maggiori informazioni](https:\/\/help.shopify.com\/manual\/online-store\/images\/showing-social-media-thumbnail-images)"
             },
             "paragraph__2": {
-              "content": "Insieme all'immagine di anteprima sono inclusi un titolo e una descrizione del negozio. [Maggiori informazioni](https://help.shopify.com/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)"
+              "content": "Insieme all'immagine di anteprima sono inclusi un titolo e una descrizione del negozio. [Maggiori informazioni](https:\/\/help.shopify.com\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)"
             }
           }
         },
@@ -524,7 +524,7 @@
       },
       "settings": {
         "enable_payment_button": {
-          "info": "Utilizzando i metodi di pagamento disponibili sul tuo negozio, i clienti vedranno la propria opzione preferita, ad esempio PayPal o Apple Pay. [Maggiori informazioni](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)",
+          "info": "Utilizzando i metodi di pagamento disponibili sul tuo negozio, i clienti vedranno la propria opzione preferita, ad esempio PayPal o Apple Pay. [Maggiori informazioni](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)",
           "label": "Mostra pulsanti di check-out dinamico"
         },
         "enable_product_lightbox": {
@@ -537,7 +537,7 @@
           "content": "Contenuti multimediali"
         },
         "media__paragraph": {
-          "content": "Maggiori informazioni sui [tipi di contenuti multimediali](https://help.shopify.com/manual/products/product-media)."
+          "content": "Maggiori informazioni sui [tipi di contenuti multimediali](https:\/\/help.shopify.com\/manual\/products\/product-media)."
         },
         "product": {
           "label": "Prodotto"
@@ -623,11 +623,11 @@
       "settings": {
         "currency__header": {
           "content": "Selettore di valuta",
-          "info": "Per aggiungere una valuta, vai alle tue [payment settings](/admin/settings/payments)"
+          "info": "Per aggiungere una valuta, vai alle tue [payment settings](\/admin\/settings\/payments)"
         },
         "language__header": {
           "content": "Selettore di lingua",
-          "info": "Per aggiungere una lingua, vai alle [impostazioni lingua.](/admin/settings/languages)"
+          "info": "Per aggiungere una lingua, vai alle [impostazioni lingua.](\/admin\/settings\/languages)"
         },
         "payment__header": {
           "content": "Metodi di pagamento",
@@ -763,8 +763,8 @@
         },
         "image_width": {
           "label": "Larghezza dell'immagine",
-          "options__1": "1/2",
-          "options__2": "2/3"
+          "options__1": "1\/2",
+          "options__2": "2\/3"
         },
         "section_contrast": {
           "label": "Usa il colore alternativo della sezione"
@@ -843,8 +843,8 @@
         },
         "image_width": {
           "label": "Larghezza dell'immagine",
-          "options__1": "1/2",
-          "options__2": "2/3"
+          "options__1": "1\/2",
+          "options__2": "2\/3"
         },
         "section_contrast": {
           "label": "Usa il colore alternativo della sezione"
@@ -1135,7 +1135,7 @@
       "name": "Pagina",
       "settings": {
         "content_max_width": {
-          "info": "Regola la larghezza del contenuto della pagina. [Per saperne di più](https://help.shopify.com/en/manual/online-store/pages).",
+          "info": "Regola la larghezza del contenuto della pagina. [Per saperne di più](https:\/\/help.shopify.com\/en\/manual\/online-store\/pages).",
           "label": "Larghezza massima del contenuto"
         }
       }
@@ -1149,7 +1149,7 @@
               "label": "Immagine"
             },
             "video_url": {
-              "info": "Usa un link diretto a un file video .mp4. [Maggiori informazioni](https://fluorescent.co/help/spark/video-hero#add-a-video).",
+              "info": "Usa un link diretto a un file video .mp4. [Maggiori informazioni](https:\/\/fluorescent.co\/help\/spark\/video-hero#add-a-video).",
               "label": "Link Video"
             }
           }
@@ -1158,7 +1158,7 @@
       "name": "Info sulla pagina",
       "settings": {
         "content_max_width": {
-          "info": "Regola la larghezza del contenuto della pagina. [Per saperne di più](https://help.shopify.com/en/manual/online-store/pages).",
+          "info": "Regola la larghezza del contenuto della pagina. [Per saperne di più](https:\/\/help.shopify.com\/en\/manual\/online-store\/pages).",
           "label": "Larghezza massima del contenuto"
         },
         "intro": {
@@ -1172,7 +1172,7 @@
           "name": "Immagine",
           "settings": {
             "image": {
-              "info": "Usa un'immagine con un rapporto larghezza/altezza di 2:3 (consigliato).",
+              "info": "Usa un'immagine con un rapporto larghezza\/altezza di 2:3 (consigliato).",
               "label": "Immagine"
             }
           }
@@ -1317,7 +1317,7 @@
               "options__5": "Spedizione"
             },
             "show_estimator": {
-              "info": "L'estimatore apparirà solo se le tariffe di spedizione esistono. [Maggiori informazioni](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/setting-up-shipping-rates).",
+              "info": "L'estimatore apparirà solo se le tariffe di spedizione esistono. [Maggiori informazioni](https:\/\/help.shopify.com\/en\/manual\/shipping\/setting-up-and-managing-your-shipping\/setting-up-shipping-rates).",
               "label": "Mostra il preventivo di spedizione"
             },
             "text": {
@@ -1362,7 +1362,7 @@
           "name": "Buy button",
           "settings": {
             "show_dynamic_checkout": {
-              "info": "Using the payment methods available on your store, customers see their preferred option, like PayPal or Apple Pay. [Learn more](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)",
+              "info": "Using the payment methods available on your store, customers see their preferred option, like PayPal or Apple Pay. [Learn more](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)",
               "label": "Mostra pulsanti di check-out dinamico"
             }
           }
@@ -1410,13 +1410,13 @@
               "label": "Prodotti massimi da mostrare"
             },
             "product_source": {
-              "info": "Per selezionare i prodotti complementari, aggiungere l'app Search & Discovery. [Per saperne di più](https://help.shopify.com/en/manual/online-store/search-and-discovery/product-recommendations)",
+              "info": "Per selezionare i prodotti complementari, aggiungere l'app Search & Discovery. [Per saperne di più](https:\/\/help.shopify.com\/en\/manual\/online-store\/search-and-discovery\/product-recommendations)",
               "label": "Prodotti da mostrare",
               "option_app_recommendations": "Raccomandazioni sulle app di ricerca e scoperta",
               "option_custom_product_list": "Elenco prodotti personalizzato"
             },
             "products_list": {
-              "info": "Aggiungere un meta-campo [riferimento prodotto](/admin/metafields/product/create) (elenco di prodotti) per impostare voci diverse per ogni prodotto",
+              "info": "Aggiungere un meta-campo [riferimento prodotto](\/admin\/metafields\/product\/create) (elenco di prodotti) per impostare voci diverse per ogni prodotto",
               "label": "Elenco prodotti personalizzato"
             }
           }
@@ -1425,7 +1425,7 @@
           "name": "Campo di testo personalizzato",
           "settings": {
             "line_properties__paragraph": {
-              "content": "Per saperne di più sulle [proprietà delle voci di linea](https://shopify.dev/themes/architecture/templates/product#line-item-properties)."
+              "content": "Per saperne di più sulle [proprietà delle voci di linea](https:\/\/shopify.dev\/themes\/architecture\/templates\/product#line-item-properties)."
             },
             "placeholder": {
               "label": "Campo contrassegnato"
@@ -1457,11 +1457,11 @@
           "name": "Indicatore del livello delle scorte",
           "settings": {
             "inventory_max": {
-              "info": "Inserisci la quantità di origine del tuo stock di prodotti. Inserire una \"fonte dinamica\" per selezionare quantità diverse per diversi prodotti. [Maggiori informazioni](https://fluorescent.co/help/spark/product-pages#stock-level-indicator).",
+              "info": "Inserisci la quantità di origine del tuo stock di prodotti. Inserire una \"fonte dinamica\" per selezionare quantità diverse per diversi prodotti. [Maggiori informazioni](https:\/\/fluorescent.co\/help\/spark\/product-pages#stock-level-indicator).",
               "label": "Quantità di base dello stock"
             },
             "low_inventory_threshold": {
-              "info": "Seleziona la quantità di prodotto che dovrebbe far scattare un messaggio di bassa quantità. Aggiungere una \"fonte dinamica\" per selezionare quantità diverse per più prodotti. [Maggiori informazioni](https://fluorescent.co/help/spark/product-pages#stock-level-indicator)",
+              "info": "Seleziona la quantità di prodotto che dovrebbe far scattare un messaggio di bassa quantità. Aggiungere una \"fonte dinamica\" per selezionare quantità diverse per più prodotti. [Maggiori informazioni](https:\/\/fluorescent.co\/help\/spark\/product-pages#stock-level-indicator)",
               "label": "Soglia di scorte basse"
             },
             "show_labels": {
@@ -1548,10 +1548,10 @@
           "name": "Condividi",
           "settings": {
             "paragraph__1": {
-              "content": "Se includi un link nei post sui social media, l'immagine in evidenza della pagina verrà mostrata come immagine di anteprima. [Maggiori informazioni](https://help.shopify.com/manual/online-store/images/showing-social-media-thumbnail-images)"
+              "content": "Se includi un link nei post sui social media, l'immagine in evidenza della pagina verrà mostrata come immagine di anteprima. [Maggiori informazioni](https:\/\/help.shopify.com\/manual\/online-store\/images\/showing-social-media-thumbnail-images)"
             },
             "paragraph__2": {
-              "content": "Insieme all'immagine di anteprima sono inclusi un titolo e una descrizione del negozio. [Maggiori informazioni](https://help.shopify.com/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)"
+              "content": "Insieme all'immagine di anteprima sono inclusi un titolo e una descrizione del negozio. [Maggiori informazioni](https:\/\/help.shopify.com\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)"
             }
           }
         },
@@ -1572,7 +1572,7 @@
               "options__5": "Spedizione"
             },
             "show_estimator": {
-              "info": "L'estimatore apparirà solo se le tariffe di spedizione esistono. [Maggiori informazioni](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/setting-up-shipping-rates).",
+              "info": "L'estimatore apparirà solo se le tariffe di spedizione esistono. [Maggiori informazioni](https:\/\/help.shopify.com\/en\/manual\/shipping\/setting-up-and-managing-your-shipping\/setting-up-shipping-rates).",
               "label": "Mostra il preventivo di spedizione"
             },
             "style": {
@@ -1607,7 +1607,7 @@
           "settings": {
             "header__siblings": {
               "content": "Campioni di prodotti fratelli",
-              "info": "Mostra prodotti simili come campioni. Imposta raccolte \"di pari livello\" per raggruppare varianti di prodotti separate utilizzando i metafield. [Ulteriori informazioni](http://fluorescent.co/help/stiletto/sibling-product-swatches)"
+              "info": "Mostra prodotti simili come campioni. Imposta raccolte \"di pari livello\" per raggruppare varianti di prodotti separate utilizzando i metafield. [Ulteriori informazioni](http:\/\/fluorescent.co\/help\/stiletto\/sibling-product-swatches)"
             },
             "popup__header": {
               "content": "Popup informativo",
@@ -1676,7 +1676,7 @@
           "content": "Contenuti multimediali"
         },
         "media__paragraph": {
-          "content": "Maggiori informazioni sui [tipi di contenuti multimediali](https://help.shopify.com/manual/products/product-media)."
+          "content": "Maggiori informazioni sui [tipi di contenuti multimediali](https:\/\/help.shopify.com\/manual\/products\/product-media)."
         },
         "mobile_gallery_style": {
           "label": "Stile galleria mobile",
@@ -1703,7 +1703,7 @@
       "name": "Cerca nella pagina",
       "settings": {
         "enable_filtering": {
-          "info": "[Personalizza i filtri](/admin/menus)",
+          "info": "[Personalizza i filtri](\/admin\/menus)",
           "label": "Abilita i filtri"
         },
         "enable_sorting": {
@@ -1742,7 +1742,7 @@
       },
       "settings": {
         "api_key": {
-          "info": "Registra una chiave API di Google Maps per visualizzare la mappa. [Maggiori informazioni](https://help.shopify.com/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)",
+          "info": "Registra una chiave API di Google Maps per visualizzare la mappa. [Maggiori informazioni](https:\/\/help.shopify.com\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)",
           "label": "Chiave API di Google Maps"
         },
         "header": {
@@ -1758,7 +1758,7 @@
           "label": "Indirizzo della mappa"
         },
         "map_json": {
-          "info": "Aggiungi personalizzazione [map styles](https://mapstyle.withgoogle.com/).",
+          "info": "Aggiungi personalizzazione [map styles](https:\/\/mapstyle.withgoogle.com\/).",
           "label": "Mappa personalizzata JSON"
         },
         "section_contrast": {
@@ -1863,7 +1863,7 @@
               "label": "Titolo"
             },
             "video_url": {
-              "info": "Usa un link diretto a un file video .mp4. [Maggiori informazioni](https://fluorescent.co/help/spark/video-hero#add-a-video).",
+              "info": "Usa un link diretto a un file video .mp4. [Maggiori informazioni](https:\/\/fluorescent.co\/help\/spark\/video-hero#add-a-video).",
               "label": "Link Video"
             }
           }
@@ -1898,7 +1898,7 @@
       },
       "settings": {
         "paragraph": {
-          "content": "Ogni abbonamento email crea un account cliente. [Maggiori informazioni](https://help.shopify.com/manual/customers)"
+          "content": "Ogni abbonamento email crea un account cliente. [Maggiori informazioni](https:\/\/help.shopify.com\/manual\/customers)"
         },
         "section_contrast": {
           "label": "Usa il colore alternativo della sezione"
@@ -2011,10 +2011,10 @@
           "label": "Max prodotti"
         },
         "paragraph__customization": {
-          "content": "Aggiungi l'app Search & Discovery per selezionare i prodotti complementari. [Maggiori informazioni](https://help.shopify.com/en/manual/online-store/search-and-discovery/product-recommendations)"
+          "content": "Aggiungi l'app Search & Discovery per selezionare i prodotti complementari. [Maggiori informazioni](https:\/\/help.shopify.com\/en\/manual\/online-store\/search-and-discovery\/product-recommendations)"
         },
         "paragraph__intro": {
-          "content": "Le raccomandazioni dinamiche utilizzano i dati di ordini e prodotti per cambiare e migliorare nel tempo. [Maggiori informazioni](https://shopify.dev/themes/product-merchandising/recommendations)"
+          "content": "Le raccomandazioni dinamiche utilizzano i dati di ordini e prodotti per cambiare e migliorare nel tempo. [Maggiori informazioni](https:\/\/shopify.dev\/themes\/product-merchandising\/recommendations)"
         },
         "section_contrast": {
           "label": "Usa il colore alternativo della sezione"
@@ -2192,8 +2192,8 @@
         },
         "image_width": {
           "label": "Larghezza dell'immagine",
-          "options__1": "1/2",
-          "options__2": "2/3"
+          "options__1": "1\/2",
+          "options__2": "2\/3"
         },
         "link": {
           "label": "Link pulsante"
@@ -2480,7 +2480,7 @@
               "label": "Immagine"
             },
             "likes": {
-              "info": "Ingannare i clienti con numeri falsi potrebbe cadere sotto \"atti o pratiche sleali o ingannevoli\" nel [FTC Act](https://ca.practicallaw.thomsonreuters.com/w-007-7584).",
+              "info": "Ingannare i clienti con numeri falsi potrebbe cadere sotto \"atti o pratiche sleali o ingannevoli\" nel [FTC Act](https:\/\/ca.practicallaw.thomsonreuters.com\/w-007-7584).",
               "label": "Numero di Mi Piace"
             },
             "link": {
@@ -2783,7 +2783,7 @@
           "option_2": "Originale"
         },
         "video_url": {
-          "info": "Usa un link diretto a un file video .mp4. [Maggiori informazioni](https://fluorescent.co/help/spark/video-hero#add-a-video).",
+          "info": "Usa un link diretto a un file video .mp4. [Maggiori informazioni](https:\/\/fluorescent.co\/help\/spark\/video-hero#add-a-video).",
           "label": "Link Video"
         }
       }
@@ -3008,7 +3008,7 @@
           "label": "Opzione per i campioni (chips)"
         },
         "custom_swatch_colors": {
-          "info": "Aggiungi un colore per riga. Inserisci il nome esatto dell'opzione variante seguito dai due punti e dal codice esadecimale. Es: \"Azzurro: #87CEEB\". [Ulteriori informazioni](http://fluorescent.co/help/stiletto/swatches)",
+          "info": "Aggiungi un colore per riga. Inserisci il nome esatto dell'opzione variante seguito dai due punti e dal codice esadecimale. Es: \"Azzurro: #87CEEB\". [Ulteriori informazioni](http:\/\/fluorescent.co\/help\/stiletto\/swatches)",
           "label": "Colori campione personalizzati"
         },
         "enable_dynamic_product_options": {
@@ -3057,7 +3057,7 @@
           "label": "Mostra immagine secondaria al passaggio del mouse"
         },
         "show_swatches_and_chips": {
-          "info": "Rivela le opzioni del prodotto al passaggio del mouse. [Maggiori informazioni](https://fluorescent.co/help/spark/product-pages#variant-chips).",
+          "info": "Rivela le opzioni del prodotto al passaggio del mouse. [Maggiori informazioni](https:\/\/fluorescent.co\/help\/spark\/product-pages#variant-chips).",
           "label": "Mostra i campioni e i pulsanti"
         }
       }
@@ -3083,43 +3083,43 @@
           "content": "Link all'account"
         },
         "social_facebook_link": {
-          "info": "https://facebook.com/shopify",
+          "info": "https:\/\/facebook.com\/shopify",
           "label": "Link Facebook"
         },
         "social_instagram_link": {
-          "info": "https://www.instagram.com/shopify/",
+          "info": "https:\/\/www.instagram.com\/shopify\/",
           "label": "Link Instagram"
         },
         "social_linkedin_link": {
-          "info": "https://linkedin.com/company/shopify",
+          "info": "https:\/\/linkedin.com\/company\/shopify",
           "label": "Link LinkedIn"
         },
         "social_pinterest_link": {
-          "info": "https://pinterest.com/shopify",
+          "info": "https:\/\/pinterest.com\/shopify",
           "label": "Link Pinterest"
         },
         "social_snapchat_link": {
-          "info": "https://snapchat.com/add/shopify",
+          "info": "https:\/\/snapchat.com\/add\/shopify",
           "label": "Link Snapchat"
         },
         "social_tiktok_link": {
-          "info": "https://tiktok.com/@shopify",
+          "info": "https:\/\/tiktok.com\/@shopify",
           "label": "Link TikTok"
         },
         "social_tumblr_link": {
-          "info": "https://shopify.tumblr.com",
+          "info": "https:\/\/shopify.tumblr.com",
           "label": "Link Tumblr"
         },
         "social_twitter_link": {
-          "info": "https://twitter.com/shopify",
+          "info": "https:\/\/twitter.com\/shopify",
           "label": "Link Twitter"
         },
         "social_vimeo_link": {
-          "info": "https://vimeo.com/shopify",
+          "info": "https:\/\/vimeo.com\/shopify",
           "label": "Link Vimeo"
         },
         "social_youtube_link": {
-          "info": "https://youtube.com/shopify",
+          "info": "https:\/\/youtube.com\/shopify",
           "label": "Link Youtube"
         }
       }
@@ -3419,11 +3419,11 @@
         },
         "header__country": {
           "content": "Selettore Paese",
-          "info": "Per aggiungere un paese, vai alle tue [impostazioni mercati.](/admin/settings/markets)"
+          "info": "Per aggiungere un paese, vai alle tue [impostazioni mercati.](\/admin\/settings\/markets)"
         },
         "header__language": {
           "content": "Selettore della lingua",
-          "info": "Per aggiungere una lingua, vai alle tue [impostazioni della lingua.](/admin/settings/languages)"
+          "info": "Per aggiungere una lingua, vai alle tue [impostazioni della lingua.](\/admin\/settings\/languages)"
         }
       },
       "header__color": {

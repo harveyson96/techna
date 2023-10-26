@@ -44,6 +44,50 @@
         "enable_animation": true
       }
     },
+    "df60d9c4-29bd-4772-9b8c-6e72e3741fe3": {
+      "type": "video-hero2",
+      "blocks": {
+        "fb3aebae-3e82-4402-862f-e22004323080": {
+          "type": "heading",
+          "settings": {
+            "title": "Techna Galaxy",
+            "heading_text_size": 64,
+            "text_max_width": 40
+          }
+        },
+        "376023b6-cd6e-4d66-9e8b-ac8d8f666a5b": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<p>High-tech sectionals starting from $3000<\/p>",
+            "text_max_width": 40
+          }
+        },
+        "3759061a-0300-4808-b638-a906a95e43f4": {
+          "type": "button",
+          "settings": {
+            "link_text": "Shop Now",
+            "link": "shopify:\/\/collections\/techna-galaxy",
+            "link_text2": "View Gallery",
+            "link2": "shopify:\/\/pages\/techna-galaxy"
+          }
+        }
+      },
+      "block_order": [
+        "fb3aebae-3e82-4402-862f-e22004323080",
+        "376023b6-cd6e-4d66-9e8b-ac8d8f666a5b",
+        "3759061a-0300-4808-b638-a906a95e43f4"
+      ],
+      "settings": {
+        "video_aspect": "custom",
+        "desktop_height": 100,
+        "mobile_height": 100,
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/f2e96c2f02b8451393628f949738863e.mp4",
+        "video_url2": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/e887379f55134eb394511c5bcc345121.mp4",
+        "color_text": "#ffffff",
+        "overlay_opacity": 30,
+        "enable_animation": true
+      }
+    },
     "22b38c6c-128c-4a91-b4e1-8854bfb7bad0": {
       "type": "collection-list",
       "blocks": {
@@ -589,6 +633,7 @@
   },
   "order": [
     "6af3d1ae-bb9c-4521-b194-ed0bd885e950",
+    "df60d9c4-29bd-4772-9b8c-6e72e3741fe3",
     "22b38c6c-128c-4a91-b4e1-8854bfb7bad0",
     "14623fde-2497-4af8-8e57-d140999eea7f",
     "9eff5816-f397-44f9-86f5-9a63c5bf114b",

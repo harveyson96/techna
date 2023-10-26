@@ -1,1 +1,62 @@
-{"type":"header","name":"t:groups.header_group.name","sections":{"announcement-bar":{"type":"announcement-bar","blocks":{"announcement-0":{"type":"announcement","settings":{"title":"Techna Next-gen Modern Sectional","link":"","color_background":"#ffffff","color_text":"#000000"}},"announcement-1":{"type":"announcement","settings":{"title":"Flat rate shipping for Lower 48 States","link":"","color_background":"#ffffff","color_text":"#191919"}}},"block_order":["announcement-0","announcement-1"],"settings":{"timing":4}},"header":{"type":"header","settings":{"logo_max_width":200,"menu":"main-menu","secondary_menu":"","style":"inline","navigation_position":"inline","logo_position":"left","enable_locale_selector":true,"enable_country_selector":true,"enable_transparent_home":true,"color_text_transparent":"#000000","color_icon_transparent":"#000000","color_count_transparent":"#ffffff","color_border_transparent":"#ffffff","opacity_border_transparent":0}}},"order":["announcement-bar","header"]}
+{
+  "type": "header",
+  "name": "t:groups.header_group.name",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement-0": {
+          "type": "announcement",
+          "settings": {
+            "title": "Techna Next-gen Modern Sectional",
+            "link": "",
+            "color_background": "#ffffff",
+            "color_text": "#000000"
+          }
+        },
+        "announcement-1": {
+          "type": "announcement",
+          "settings": {
+            "title": "Flat rate shipping for Lower 48 States",
+            "link": "",
+            "color_background": "#ffffff",
+            "color_text": "#191919"
+          }
+        }
+      },
+      "block_order": [
+        "announcement-0",
+        "announcement-1"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "timing": 4
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "logo_max_width": 200,
+        "menu": "main-menu",
+        "secondary_menu": "",
+        "style": "inline",
+        "navigation_position": "inline",
+        "logo_position": "left",
+        "enable_locale_selector": true,
+        "enable_country_selector": true,
+        "enable_transparent_home": true,
+        "color_text_transparent": "#000000",
+        "color_icon_transparent": "#000000",
+        "color_count_transparent": "#ffffff",
+        "color_border_transparent": "#ffffff",
+        "opacity_border_transparent": 0
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}

@@ -1,9 +1,8 @@
 {% for block in section.blocks %}
   <div {{ block.shopify_attributes }}>
-    <div class="robin-pro" id="{{ block.settings.gallery_id }}"></div>
+    <div class="robin-pro {% if block.settings.width == 'page' %}page-width{% endif %}" id="{{ block.settings.gallery_id }}"></div>
   </div>
 {% endfor %}
-
 
 {% schema %}
   {
@@ -19,10 +18,30 @@
             "id": "gallery_id",
             "options": [
 {
+  "value": "bd90e2f4-f071-4819-a40f-2205c7cadfe1",
+  "label": "Techna Galaxy"
+},
+{
   "value": "8465b889-c211-470e-b32e-38c7c746adc6",
   "label": "Customer Gallery"
 }
             ]
+          },
+          {
+            "type": "radio",
+            "id": "width",
+            "label": "Width",
+            "options": [
+              {
+                "value": "page",
+                "label": "Page width"
+              },
+              {
+                "value": "full",
+                "label": "Full width"
+              }
+            ],
+            "default": "page"
           }
         ]
       }

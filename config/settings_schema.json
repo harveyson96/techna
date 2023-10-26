@@ -4,8 +4,8 @@
     "theme_name": "Spark",
     "theme_version": "3.1.0",
     "theme_author": "Fluorescent Design Inc.",
-    "theme_documentation_url": "https://fluorescent.co/help/spark",
-    "theme_support_url": "https://fluorescent.co/help/contact"
+    "theme_documentation_url": "https:\/\/fluorescent.co\/help\/spark",
+    "theme_support_url": "https:\/\/fluorescent.co\/help\/contact"
   },
   {
     "name": "t:settings_schema.colors.name",

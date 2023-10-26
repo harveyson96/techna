@@ -256,7 +256,7 @@
       },
       "settings": {
         "access_token": {
-          "info": "Войдите в свою учетную запись Eventbrite, чтобы получить [маркер доступа здесь](https://www.eventbrite.com/platform/).",
+          "info": "Войдите в свою учетную запись Eventbrite, чтобы получить [маркер доступа здесь](https:\/\/www.eventbrite.com\/platform\/).",
           "label": "Токен доступа"
         },
         "aspect_ratio": {
@@ -414,7 +414,7 @@
           "name": "Кнопки покупки",
           "settings": {
             "show_dynamic_checkout": {
-              "info": "Используя доступные в вашем магазине способы оплаты, покупатели видят предпочтительный вариант, например PayPal или Apple Pay. [Узнать больше](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)",
+              "info": "Используя доступные в вашем магазине способы оплаты, покупатели видят предпочтительный вариант, например PayPal или Apple Pay. [Узнать больше](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)",
               "label": "Показывать динамические кнопки оформления заказа"
             }
           }
@@ -440,11 +440,11 @@
           "name": "Индикатор уровня запасов",
           "settings": {
             "inventory_max": {
-              "info": "Введите начальное количество инвентаря вашего товара. Вставьте \"Динамический источник\", чтобы выбрать разное количество для нескольких продуктов. [Узнать больше](https://fluorescent.co/help/spark/product-pages#stock-level-indicator).",
+              "info": "Введите начальное количество инвентаря вашего товара. Вставьте \"Динамический источник\", чтобы выбрать разное количество для нескольких продуктов. [Узнать больше](https:\/\/fluorescent.co\/help\/spark\/product-pages#stock-level-indicator).",
               "label": "Количество базовых запасов"
             },
             "low_inventory_threshold": {
-              "info": "Выберите уровень количества продукта, который будет вызывать сообщение о низком количестве. Вставьте \"Динамический источник\", чтобы выбрать разное количество для нескольких продуктов. [Узнать больше](https://fluorescent.co/help/spark/product-pages#stock-level-indicator).",
+              "info": "Выберите уровень количества продукта, который будет вызывать сообщение о низком количестве. Вставьте \"Динамический источник\", чтобы выбрать разное количество для нескольких продуктов. [Узнать больше](https:\/\/fluorescent.co\/help\/spark\/product-pages#stock-level-indicator).",
               "label": "Порог низкого уровня запасов"
             },
             "show_labels": {
@@ -470,10 +470,10 @@
           "name": "Поделиться",
           "settings": {
             "paragraph__1": {
-              "content": "Если вы указываете ссылку в сообщениях в социальных сетях, в качестве изображения предварительного просмотра будет показано главное изображение страницы. [Подробнее](https://help.shopify.com/en/manual/online-store/images/showing-social-media-thumbnail-images)."
+              "content": "Если вы указываете ссылку в сообщениях в социальных сетях, в качестве изображения предварительного просмотра будет показано главное изображение страницы. [Подробнее](https:\/\/help.shopify.com\/en\/manual\/online-store\/images\/showing-social-media-thumbnail-images)."
             },
             "paragraph__2": {
-              "content": "Название и описание магазина будут включены в изображение предварительного просмотра. [Подробнее](https://help.shopify.com/en/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)."
+              "content": "Название и описание магазина будут включены в изображение предварительного просмотра. [Подробнее](https:\/\/help.shopify.com\/en\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)."
             }
           }
         },
@@ -524,7 +524,7 @@
       },
       "settings": {
         "enable_payment_button": {
-          "info": "Позволяет покупателям напрямую оплачивать покупки, используя привычный способ оплаты. [Подробнее](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)",
+          "info": "Позволяет покупателям напрямую оплачивать покупки, используя привычный способ оплаты. [Подробнее](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)",
           "label": "Показать динамическую кнопку оформления заказа"
         },
         "enable_product_lightbox": {
@@ -537,7 +537,7 @@
           "content": "Медиа"
         },
         "media__paragraph": {
-          "content": "Узнайте больше о [типах медиа](https://help.shopify.com/en/manual/products/product-media)"
+          "content": "Узнайте больше о [типах медиа](https:\/\/help.shopify.com\/en\/manual\/products\/product-media)"
         },
         "product": {
           "label": "Продукт"
@@ -623,11 +623,11 @@
       "settings": {
         "currency__header": {
           "content": "Выбор валюты",
-          "info": "Чтобы добавить валюту, перейдите в раздел [настройки оплаты](/admin/settings/payments)"
+          "info": "Чтобы добавить валюту, перейдите в раздел [настройки оплаты](\/admin\/settings\/payments)"
         },
         "language__header": {
           "content": "Выбор языка",
-          "info": "Чтобы добавить язык, зайдите в [языковые настройки](/admin/settings/languages)."
+          "info": "Чтобы добавить язык, зайдите в [языковые настройки](\/admin\/settings\/languages)."
         },
         "payment__header": {
           "content": "Типы оплаты",
@@ -763,8 +763,8 @@
         },
         "image_width": {
           "label": "Ширина изображения",
-          "options__1": "1/2",
-          "options__2": "2/3"
+          "options__1": "1\/2",
+          "options__2": "2\/3"
         },
         "section_contrast": {
           "label": "Использовать альтернативный цвет разделов"
@@ -843,8 +843,8 @@
         },
         "image_width": {
           "label": "Ширина изображения",
-          "options__1": "1/2",
-          "options__2": "2/3"
+          "options__1": "1\/2",
+          "options__2": "2\/3"
         },
         "section_contrast": {
           "label": "Использовать альтернативный цвет разделов"
@@ -1135,7 +1135,7 @@
       "name": "Страница",
       "settings": {
         "content_max_width": {
-          "info": "Настройте максимальную ширину содержимого страницы. [Узнайте больше о страницах](https://help.shopify.com/ru/manual/online-store/pages).",
+          "info": "Настройте максимальную ширину содержимого страницы. [Узнайте больше о страницах](https:\/\/help.shopify.com\/ru\/manual\/online-store\/pages).",
           "label": "Максимальная ширина содержимого"
         }
       }
@@ -1149,7 +1149,7 @@
               "label": "Изображение"
             },
             "video_url": {
-              "info": "Используйте прямую ссылку на видеофайл .mp4. [Узнайте больше здесь](https://fluorescent.co/help/spark/video-hero#add-a-video).",
+              "info": "Используйте прямую ссылку на видеофайл .mp4. [Узнайте больше здесь](https:\/\/fluorescent.co\/help\/spark\/video-hero#add-a-video).",
               "label": "Ссылка на видео"
             }
           }
@@ -1158,7 +1158,7 @@
       "name": "О странице",
       "settings": {
         "content_max_width": {
-          "info": "Настройте максимальную ширину содержимого страницы. [Узнайте больше о страницах](https://help.shopify.com/ru/manual/online-store/pages).",
+          "info": "Настройте максимальную ширину содержимого страницы. [Узнайте больше о страницах](https:\/\/help.shopify.com\/ru\/manual\/online-store\/pages).",
           "label": "Максимальная ширина содержимого"
         },
         "intro": {
@@ -1317,7 +1317,7 @@
               "options__5": "Доставка"
             },
             "show_estimator": {
-              "info": "Оценщик доставки будет отображаться только в том случае, если существуют тарифы на доставку [подробнее](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/setting-up-shipping-rates).",
+              "info": "Оценщик доставки будет отображаться только в том случае, если существуют тарифы на доставку [подробнее](https:\/\/help.shopify.com\/en\/manual\/shipping\/setting-up-and-managing-your-shipping\/setting-up-shipping-rates).",
               "label": "Показывать расчет доставки"
             },
             "text": {
@@ -1362,7 +1362,7 @@
           "name": "Кнопки покупки",
           "settings": {
             "show_dynamic_checkout": {
-              "info": "Используя доступные в вашем магазине способы оплаты, покупатели видят предпочтительный вариант, например PayPal или Apple Pay. [Узнать больше](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)",
+              "info": "Используя доступные в вашем магазине способы оплаты, покупатели видят предпочтительный вариант, например PayPal или Apple Pay. [Узнать больше](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)",
               "label": "Показывать динамические кнопки оформления заказа"
             }
           }
@@ -1410,13 +1410,13 @@
               "label": "Максимальное количество продуктов для показа"
             },
             "product_source": {
-              "info": "Чтобы выбрать дополнительные продукты, добавьте приложение Search & Discovery. [Подробнее](https://help.shopify.com/en/manual/online-store/search-and-discovery/product-recommendations)",
+              "info": "Чтобы выбрать дополнительные продукты, добавьте приложение Search & Discovery. [Подробнее](https:\/\/help.shopify.com\/en\/manual\/online-store\/search-and-discovery\/product-recommendations)",
               "label": "Продукты для демонстрации",
               "option_app_recommendations": "Поиск и рекомендации приложений Discovery",
               "option_custom_product_list": "Пользовательский список продуктов"
             },
             "products_list": {
-              "info": "Добавьте метаполе [product reference](/admin/metafields/product/create) (список продуктов) для установки различных элементов для каждого продукта",
+              "info": "Добавьте метаполе [product reference](\/admin\/metafields\/product\/create) (список продуктов) для установки различных элементов для каждого продукта",
               "label": "Пользовательский список продуктов"
             }
           }
@@ -1425,7 +1425,7 @@
           "name": "Пользовательское текстовое поле",
           "settings": {
             "line_properties__paragraph": {
-              "content": "Узнайте больше о [свойствах элемента строки](https://shopify.dev/themes/architecture/templates/product#line-item-properties)."
+              "content": "Узнайте больше о [свойствах элемента строки](https:\/\/shopify.dev\/themes\/architecture\/templates\/product#line-item-properties)."
             },
             "placeholder": {
               "label": "Заполнитель поля"
@@ -1457,11 +1457,11 @@
           "name": "Индикатор уровня запасов",
           "settings": {
             "inventory_max": {
-              "info": "Введите начальное количество инвентаря вашего товара. Вставьте \"Динамический источник\", чтобы выбрать разное количество для нескольких продуктов. [Узнать больше](https://fluorescent.co/help/spark/product-pages#stock-level-indicator)",
+              "info": "Введите начальное количество инвентаря вашего товара. Вставьте \"Динамический источник\", чтобы выбрать разное количество для нескольких продуктов. [Узнать больше](https:\/\/fluorescent.co\/help\/spark\/product-pages#stock-level-indicator)",
               "label": "Количество базовых запасов"
             },
             "low_inventory_threshold": {
-              "info": "Выберите уровень количества продукта, который будет вызывать сообщение о низком количестве. Вставьте \"Динамический источник\", чтобы выбрать разное количество для нескольких продуктов. [Узнать больше](https://fluorescent.co/help/spark/product-pages#stock-level-indicator)",
+              "info": "Выберите уровень количества продукта, который будет вызывать сообщение о низком количестве. Вставьте \"Динамический источник\", чтобы выбрать разное количество для нескольких продуктов. [Узнать больше](https:\/\/fluorescent.co\/help\/spark\/product-pages#stock-level-indicator)",
               "label": "Порог низкого уровня запасов"
             },
             "show_labels": {
@@ -1548,10 +1548,10 @@
           "name": "Поделиться",
           "settings": {
             "paragraph__1": {
-              "content": "Если вы указываете ссылку в сообщениях в социальных сетях, в качестве изображения предварительного просмотра будет показано главное изображение страницы. [Подробнее](https://help.shopify.com/en/manual/online-store/images/showing-social-media-thumbnail-images)."
+              "content": "Если вы указываете ссылку в сообщениях в социальных сетях, в качестве изображения предварительного просмотра будет показано главное изображение страницы. [Подробнее](https:\/\/help.shopify.com\/en\/manual\/online-store\/images\/showing-social-media-thumbnail-images)."
             },
             "paragraph__2": {
-              "content": "Название и описание магазина будут включены в изображение предварительного просмотра. [Подробнее](https://help.shopify.com/en/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)."
+              "content": "Название и описание магазина будут включены в изображение предварительного просмотра. [Подробнее](https:\/\/help.shopify.com\/en\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)."
             }
           }
         },
@@ -1572,7 +1572,7 @@
               "options__5": "Доставка"
             },
             "show_estimator": {
-              "info": "Estimator will appear only if shipping rates exist [learn more](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/setting-up-shipping-rates).",
+              "info": "Estimator will appear only if shipping rates exist [learn more](https:\/\/help.shopify.com\/en\/manual\/shipping\/setting-up-and-managing-your-shipping\/setting-up-shipping-rates).",
               "label": "Показывать расчет доставки"
             },
             "style": {
@@ -1607,7 +1607,7 @@
           "settings": {
             "header__siblings": {
               "content": "Образцы родственного продукта",
-              "info": "Отображать похожие товары в виде образцов. Настройте «родственные» коллекции, чтобы сгруппировать отдельные варианты продуктов с помощью метаполей. [Подробнее](http://fluorescent.co/help/stiletto/sibling-product-swatches)"
+              "info": "Отображать похожие товары в виде образцов. Настройте «родственные» коллекции, чтобы сгруппировать отдельные варианты продуктов с помощью метаполей. [Подробнее](http:\/\/fluorescent.co\/help\/stiletto\/sibling-product-swatches)"
             },
             "popup__header": {
               "content": "Всплывающее окно с информацией",
@@ -1676,7 +1676,7 @@
           "content": "Медиа"
         },
         "media__paragraph": {
-          "content": "Узнайте больше о [типах медиа](https://help.shopify.com/en/manual/products/product-media)"
+          "content": "Узнайте больше о [типах медиа](https:\/\/help.shopify.com\/en\/manual\/products\/product-media)"
         },
         "mobile_gallery_style": {
           "label": "Стиль мобильной галереи",
@@ -1703,7 +1703,7 @@
       "name": "Страница поиска",
       "settings": {
         "enable_filtering": {
-          "info": "Настроить [фильтры](/admin/menus)",
+          "info": "Настроить [фильтры](\/admin\/menus)",
           "label": "Включить фильтрацию"
         },
         "enable_sorting": {
@@ -1742,7 +1742,7 @@
       },
       "settings": {
         "api_key": {
-          "info": "Зарегистрируйте ключ Google Maps API для отображения карты. Узнайте больше о [регистрации ключа Google Maps API](https://help.shopify.com/en/manual/online-store/themes/os/customize/map-section-api-key).",
+          "info": "Зарегистрируйте ключ Google Maps API для отображения карты. Узнайте больше о [регистрации ключа Google Maps API](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/os\/customize\/map-section-api-key).",
           "label": "Ключ Google Maps API"
         },
         "header": {
@@ -1758,7 +1758,7 @@
           "label": "Адрес на карте"
         },
         "map_json": {
-          "info": "(По желанию) Добавьте некоторые пользовательские [стили карты](https://mapstyle.withgoogle.com/).",
+          "info": "(По желанию) Добавьте некоторые пользовательские [стили карты](https:\/\/mapstyle.withgoogle.com\/).",
           "label": "Пользовательская карта JSON"
         },
         "section_contrast": {
@@ -1863,7 +1863,7 @@
               "label": "Заголовок"
             },
             "video_url": {
-              "info": "Используйте прямую ссылку на видеофайл .mp4. [Узнайте больше здесь](https://fluorescent.co/help/spark/video-hero#add-a-video).",
+              "info": "Используйте прямую ссылку на видеофайл .mp4. [Узнайте больше здесь](https:\/\/fluorescent.co\/help\/spark\/video-hero#add-a-video).",
               "label": "Ссылка на видео"
             }
           }
@@ -1898,7 +1898,7 @@
       },
       "settings": {
         "paragraph": {
-          "content": "Клиенты, которые подпишутся, добавят свой адрес электронной почты в раздел ‘участие в маркетинге’ [список клиентов](/admin/customers?query=&accepts_marketing=1)."
+          "content": "Клиенты, которые подпишутся, добавят свой адрес электронной почты в раздел ‘участие в маркетинге’ [список клиентов](\/admin\/customers?query=&accepts_marketing=1)."
         },
         "section_contrast": {
           "label": "Использовать альтернативный цвет разделов"
@@ -2011,10 +2011,10 @@
           "label": "Максимальное количество продуктов"
         },
         "paragraph__customization": {
-          "content": "Чтобы выбрать дополнительные продукты, добавьте приложение Search & Discovery. [Узнать больше](https://help.shopify.com/en/manual/online-store/search-and-discovery/product-recommendations)"
+          "content": "Чтобы выбрать дополнительные продукты, добавьте приложение Search & Discovery. [Узнать больше](https:\/\/help.shopify.com\/en\/manual\/online-store\/search-and-discovery\/product-recommendations)"
         },
         "paragraph__intro": {
-          "content": "Динамические рекомендации используют информацию о заказах и товарах, изменяясь и совершенствуясь с течением времени. [Узнать больше](https://shopify.dev/themes/product-merchandising/recommendations)"
+          "content": "Динамические рекомендации используют информацию о заказах и товарах, изменяясь и совершенствуясь с течением времени. [Узнать больше](https:\/\/shopify.dev\/themes\/product-merchandising\/recommendations)"
         },
         "section_contrast": {
           "label": "Использовать альтернативный цвет разделов"
@@ -2192,8 +2192,8 @@
         },
         "image_width": {
           "label": "Ширина изображения",
-          "options__1": "1/2",
-          "options__2": "2/3"
+          "options__1": "1\/2",
+          "options__2": "2\/3"
         },
         "link": {
           "label": "Ссылка кнопки"
@@ -2480,7 +2480,7 @@
               "label": "Изображение"
             },
             "likes": {
-              "info": "Введение клиентов в заблуждение с помощью поддельных номеров может подпадать под 'нечестные или обманные действия или методы' согласно [Закону о Федеральной торговой комиссии](https://ca.practicallaw.thomsonreuters.com/w-007-7584)",
+              "info": "Введение клиентов в заблуждение с помощью поддельных номеров может подпадать под 'нечестные или обманные действия или методы' согласно [Закону о Федеральной торговой комиссии](https:\/\/ca.practicallaw.thomsonreuters.com\/w-007-7584)",
               "label": "Количество лайков"
             },
             "link": {
@@ -2783,7 +2783,7 @@
           "option_2": "оригинал"
         },
         "video_url": {
-          "info": "Используйте прямую ссылку на видеофайл .mp4. [Узнайте больше здесь](https://fluorescent.co/help/spark/video-hero#add-a-video).",
+          "info": "Используйте прямую ссылку на видеофайл .mp4. [Узнайте больше здесь](https:\/\/fluorescent.co\/help\/spark\/video-hero#add-a-video).",
           "label": "Ссылка на видео"
         }
       }
@@ -3008,7 +3008,7 @@
           "label": "Вариант параметра для кнопок выбора"
         },
         "custom_swatch_colors": {
-          "info": "Добавляйте по одному цвету в каждой строке. Введите точное имя варианта варианта, затем двоеточие и шестнадцатеричный код. Пример: «Небесно-голубой: # 87CEEB». [Подробнее](http://fluorescent.co/help/stiletto/swatches)",
+          "info": "Добавляйте по одному цвету в каждой строке. Введите точное имя варианта варианта, затем двоеточие и шестнадцатеричный код. Пример: «Небесно-голубой: # 87CEEB». [Подробнее](http:\/\/fluorescent.co\/help\/stiletto\/swatches)",
           "label": "Пользовательские образцы цветов"
         },
         "enable_dynamic_product_options": {
@@ -3057,7 +3057,7 @@
           "label": "Показывать вторичное изображение при наведении"
         },
         "show_swatches_and_chips": {
-          "info": "Отображать параметры товара при наведении курсора. Чтобы узнать больше о настройке образцов и кнопок выбора, ознакомьтесь с нашей [документацией](https://fluorescent.co/help/spark/product-pages#set-up-product-chips).",
+          "info": "Отображать параметры товара при наведении курсора. Чтобы узнать больше о настройке образцов и кнопок выбора, ознакомьтесь с нашей [документацией](https:\/\/fluorescent.co\/help\/spark\/product-pages#set-up-product-chips).",
           "label": "Показывать образцы и кнопки выбора"
         }
       }
@@ -3083,43 +3083,43 @@
           "content": "Ссылки на аккаунты"
         },
         "social_facebook_link": {
-          "info": "https://facebook.com/shopify",
+          "info": "https:\/\/facebook.com\/shopify",
           "label": "Ссылка на Facebook"
         },
         "social_instagram_link": {
-          "info": "https://www.instagram.com/shopify/",
+          "info": "https:\/\/www.instagram.com\/shopify\/",
           "label": "Ссылка на Instagram"
         },
         "social_linkedin_link": {
-          "info": "https://linkedin.com/company/shopify",
+          "info": "https:\/\/linkedin.com\/company\/shopify",
           "label": "Ссылка на LinkedIn"
         },
         "social_pinterest_link": {
-          "info": "https://pinterest.com/shopify",
+          "info": "https:\/\/pinterest.com\/shopify",
           "label": "Ссылка на Pinterest"
         },
         "social_snapchat_link": {
-          "info": "https://snapchat.com/add/shopify",
+          "info": "https:\/\/snapchat.com\/add\/shopify",
           "label": "Ссылка на Snapchat"
         },
         "social_tiktok_link": {
-          "info": "https://tiktok.com/@shopify",
+          "info": "https:\/\/tiktok.com\/@shopify",
           "label": "Ссылка на TikTok"
         },
         "social_tumblr_link": {
-          "info": "https://shopify.tumblr.com",
+          "info": "https:\/\/shopify.tumblr.com",
           "label": "Ссылка на Tumblr"
         },
         "social_twitter_link": {
-          "info": "https://twitter.com/shopify",
+          "info": "https:\/\/twitter.com\/shopify",
           "label": "Ссылка на Twitter"
         },
         "social_vimeo_link": {
-          "info": "https://vimeo.com/shopify",
+          "info": "https:\/\/vimeo.com\/shopify",
           "label": "Ссылка на Vimeo"
         },
         "social_youtube_link": {
-          "info": "https://youtube.com/shopify",
+          "info": "https:\/\/youtube.com\/shopify",
           "label": "Ссылка на Youtube"
         }
       }
@@ -3419,11 +3419,11 @@
         },
         "header__country": {
           "content": "выбор страны",
-          "info": "Чтобы добавить страну, перейдите в [настройки рынков](/admin/settings/markets)"
+          "info": "Чтобы добавить страну, перейдите в [настройки рынков](\/admin\/settings\/markets)"
         },
         "header__language": {
           "content": "Селектор языка",
-          "info": "Чтобы добавить язык, перейдите в [языковые настройки.](/admin/settings/languages)"
+          "info": "Чтобы добавить язык, перейдите в [языковые настройки.](\/admin\/settings\/languages)"
         }
       },
       "header__color": {

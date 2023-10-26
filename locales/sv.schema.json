@@ -256,7 +256,7 @@
       },
       "settings": {
         "access_token": {
-          "info": "Logga in på ditt Eventbrite-konto för att få din [Access token here] (https://www.eventbrite.com/platform/).",
+          "info": "Logga in på ditt Eventbrite-konto för att få din [Access token here] (https:\/\/www.eventbrite.com\/platform\/).",
           "label": "Åtkomsttoken"
         },
         "aspect_ratio": {
@@ -414,7 +414,7 @@
           "name": "Knapp för att betala i kassan",
           "settings": {
             "show_dynamic_checkout": {
-              "info": "Genom att använda tillgängliga betalningsmetoder i butiken kan kunder se valt alternativ, till exempel PayPal eller Apple Pay. [Läs mer](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)",
+              "info": "Genom att använda tillgängliga betalningsmetoder i butiken kan kunder se valt alternativ, till exempel PayPal eller Apple Pay. [Läs mer](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)",
               "label": "Visa dynamiska kassaknappar"
             }
           }
@@ -440,11 +440,11 @@
           "name": "Indikator för lagernivå",
           "settings": {
             "inventory_max": {
-              "info": "Ange den ursprungliga kvantiteten för din produktinventering. Infoga en \"dynamisk källa\" för att välja olika kvantiteter för flera produkter. [Läs mer](https://fluorescent.co/help/spark/product-pages#stock-level-indicator).",
+              "info": "Ange den ursprungliga kvantiteten för din produktinventering. Infoga en \"dynamisk källa\" för att välja olika kvantiteter för flera produkter. [Läs mer](https:\/\/fluorescent.co\/help\/spark\/product-pages#stock-level-indicator).",
               "label": "Baskvantitet av lager"
             },
             "low_inventory_threshold": {
-              "info": "Välj den produktkvantitetsnivå som ska utlösa ett meddelande om låg kvantitet. Infoga en \"dynamisk källa\" för att välja olika kvantiteter för flera produkter. [Läs mer](https://fluorescent.co/help/spark/product-pages#stock-level-indicator).",
+              "info": "Välj den produktkvantitetsnivå som ska utlösa ett meddelande om låg kvantitet. Infoga en \"dynamisk källa\" för att välja olika kvantiteter för flera produkter. [Läs mer](https:\/\/fluorescent.co\/help\/spark\/product-pages#stock-level-indicator).",
               "label": "Tröskelvärde för lågt lager"
             },
             "show_labels": {
@@ -470,10 +470,10 @@
           "name": "Dela",
           "settings": {
             "paragraph__1": {
-              "content": "Om du inkluderar en länk i inlägg på sociala medier kommer sidans utvalda bild att visas som förhandsgranskningsbild. [Läs mer](https://help.shopify.com/en/manual/online-store/images/showing-social-media-thumbnail-images)."
+              "content": "Om du inkluderar en länk i inlägg på sociala medier kommer sidans utvalda bild att visas som förhandsgranskningsbild. [Läs mer](https:\/\/help.shopify.com\/en\/manual\/online-store\/images\/showing-social-media-thumbnail-images)."
             },
             "paragraph__2": {
-              "content": "Ett butiksnamn och en beskrivning inkluderas med förhandsgranskningsbilden. [Läs mer](https://help.shopify.com/en/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)."
+              "content": "Ett butiksnamn och en beskrivning inkluderas med förhandsgranskningsbilden. [Läs mer](https:\/\/help.shopify.com\/en\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)."
             }
           }
         },
@@ -524,7 +524,7 @@
       },
       "settings": {
         "enable_payment_button": {
-          "info": "Genom att använda tillgängliga betalningsmetoder i butiken kan kunder se valt alternativ, till exempel PayPal eller Apple Pay. [Läs mer](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)",
+          "info": "Genom att använda tillgängliga betalningsmetoder i butiken kan kunder se valt alternativ, till exempel PayPal eller Apple Pay. [Läs mer](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)",
           "label": "Visa dynamiska utcheckningsknappar"
         },
         "enable_product_lightbox": {
@@ -537,7 +537,7 @@
           "content": "Media"
         },
         "media__paragraph": {
-          "content": "Läs mer om [mediatyper](https://help.shopify.com/manual/products/product-media)"
+          "content": "Läs mer om [mediatyper](https:\/\/help.shopify.com\/manual\/products\/product-media)"
         },
         "product": {
           "label": "Produkt"
@@ -623,11 +623,11 @@
       "settings": {
         "currency__header": {
           "content": "Valutaväljare",
-          "info": "För att lägga till en valuta går du till dina  [betalningsinställningar.](/admin/settings/payments)"
+          "info": "För att lägga till en valuta går du till dina  [betalningsinställningar.](\/admin\/settings\/payments)"
         },
         "language__header": {
           "content": "Språkväljare",
-          "info": "Om du vill lägga till ett språk går du till dina [språkinställningar.](/admin/settings/languages)"
+          "info": "Om du vill lägga till ett språk går du till dina [språkinställningar.](\/admin\/settings\/languages)"
         },
         "payment__header": {
           "content": "Betalningsmetoder",
@@ -763,8 +763,8 @@
         },
         "image_width": {
           "label": "Bildbredd",
-          "options__1": "1/2",
-          "options__2": "2/3"
+          "options__1": "1\/2",
+          "options__2": "2\/3"
         },
         "section_contrast": {
           "label": "Använd alternativ sektionsfärg"
@@ -843,8 +843,8 @@
         },
         "image_width": {
           "label": "Bildbredd",
-          "options__1": "1/2",
-          "options__2": "2/3"
+          "options__1": "1\/2",
+          "options__2": "2\/3"
         },
         "section_contrast": {
           "label": "Använd alternativ sektionsfärg"
@@ -1135,7 +1135,7 @@
       "name": "Sida",
       "settings": {
         "content_max_width": {
-          "info": "Justera sidans maximala innehållsbredd. [Lär mer om sidor](https://help.shopify.com/sv/manual/online-store/pages).",
+          "info": "Justera sidans maximala innehållsbredd. [Lär mer om sidor](https:\/\/help.shopify.com\/sv\/manual\/online-store\/pages).",
           "label": "Maximal innehållsbredd"
         }
       }
@@ -1149,7 +1149,7 @@
               "label": "Bild"
             },
             "video_url": {
-              "info": "Använd en direktlänk till en .mp4 -videofil. [Läs mer här](https://fluorescent.co/help/spark/video-hero#add-a-video).",
+              "info": "Använd en direktlänk till en .mp4 -videofil. [Läs mer här](https:\/\/fluorescent.co\/help\/spark\/video-hero#add-a-video).",
               "label": "Videolänk"
             }
           }
@@ -1158,7 +1158,7 @@
       "name": "Om sidan",
       "settings": {
         "content_max_width": {
-          "info": "Justera sidans maximala innehållsbredd. [Lär mer om sidor](https://help.shopify.com/sv/manual/online-store/pages).",
+          "info": "Justera sidans maximala innehållsbredd. [Lär mer om sidor](https:\/\/help.shopify.com\/sv\/manual\/online-store\/pages).",
           "label": "Maximal innehållsbredd"
         },
         "intro": {
@@ -1317,7 +1317,7 @@
               "options__5": "Leverans"
             },
             "show_estimator": {
-              "info": "Leveransberäkningen visas endast om det finns fraktpriser [läs mer](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/setting-up-shipping-rates).",
+              "info": "Leveransberäkningen visas endast om det finns fraktpriser [läs mer](https:\/\/help.shopify.com\/en\/manual\/shipping\/setting-up-and-managing-your-shipping\/setting-up-shipping-rates).",
               "label": "Visa leveransberäknare"
             },
             "text": {
@@ -1362,7 +1362,7 @@
           "name": "Knapp för att betala i kassan",
           "settings": {
             "show_dynamic_checkout": {
-              "info": "Genom att använda tillgängliga betalningsmetoder i butiken kan kunder se valt alternativ, till exempel PayPal eller Apple Pay. [Läs mer](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)",
+              "info": "Genom att använda tillgängliga betalningsmetoder i butiken kan kunder se valt alternativ, till exempel PayPal eller Apple Pay. [Läs mer](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)",
               "label": "Visa dynamiska kassaknappar"
             }
           }
@@ -1410,13 +1410,13 @@
               "label": "Maximalt antal produkter som ska visas"
             },
             "product_source": {
-              "info": "Lägg till appen Search & Discovery för att välja kompletterande produkter. [Läs mer] (https://help.shopify.com/en/manual/online-store/search-and-discovery/product-recommendations)",
+              "info": "Lägg till appen Search & Discovery för att välja kompletterande produkter. [Läs mer] (https:\/\/help.shopify.com\/en\/manual\/online-store\/search-and-discovery\/product-recommendations)",
               "label": "Produkter som ska visas",
               "option_app_recommendations": "Rekommendationer för appar för sökning och upptäckt",
               "option_custom_product_list": "Anpassad produktlista"
             },
             "products_list": {
-              "info": "Lägg till ett metafält [produktreferens](/admin/metafält/produkt/skapa) (lista över produkter) för att ställa in olika objekt för varje produkt.",
+              "info": "Lägg till ett metafält [produktreferens](\/admin\/metafält\/produkt\/skapa) (lista över produkter) för att ställa in olika objekt för varje produkt.",
               "label": "Anpassad produktlista"
             }
           }
@@ -1425,7 +1425,7 @@
           "name": "Anpassat textfält",
           "settings": {
             "line_properties__paragraph": {
-              "content": "Läs mer om [egenskaper för linjeelement] (https://shopify.dev/themes/architecture/templates/product#line-item-properties)."
+              "content": "Läs mer om [egenskaper för linjeelement] (https:\/\/shopify.dev\/themes\/architecture\/templates\/product#line-item-properties)."
             },
             "placeholder": {
               "label": "Fältets platshållare"
@@ -1457,11 +1457,11 @@
           "name": "Indikator för lagernivå",
           "settings": {
             "inventory_max": {
-              "info": "Ange den ursprungliga kvantiteten för din produktinventering. Infoga en \"dynamisk källa\" för att välja olika kvantiteter för flera produkter. [Läs mer](https://fluorescent.co/help/spark/product-pages#stock-level-indicator)",
+              "info": "Ange den ursprungliga kvantiteten för din produktinventering. Infoga en \"dynamisk källa\" för att välja olika kvantiteter för flera produkter. [Läs mer](https:\/\/fluorescent.co\/help\/spark\/product-pages#stock-level-indicator)",
               "label": "Baskvantitet av lager"
             },
             "low_inventory_threshold": {
-              "info": "Välj den produktkvantitetsnivå som ska utlösa ett meddelande om låg kvantitet. Infoga en \"dynamisk källa\" för att välja olika kvantiteter för flera produkter. [Läs mer](https://fluorescent.co/help/spark/product-pages#stock-level-indicator)",
+              "info": "Välj den produktkvantitetsnivå som ska utlösa ett meddelande om låg kvantitet. Infoga en \"dynamisk källa\" för att välja olika kvantiteter för flera produkter. [Läs mer](https:\/\/fluorescent.co\/help\/spark\/product-pages#stock-level-indicator)",
               "label": "Tröskelvärde för lågt lager"
             },
             "show_labels": {
@@ -1548,10 +1548,10 @@
           "name": "Dela",
           "settings": {
             "paragraph__1": {
-              "content": "Om du inkluderar en länk i inlägg på sociala medier kommer sidans utvalda bild att visas som förhandsgranskningsbild. [Läs mer](https://help.shopify.com/en/manual/online-store/images/showing-social-media-thumbnail-images)."
+              "content": "Om du inkluderar en länk i inlägg på sociala medier kommer sidans utvalda bild att visas som förhandsgranskningsbild. [Läs mer](https:\/\/help.shopify.com\/en\/manual\/online-store\/images\/showing-social-media-thumbnail-images)."
             },
             "paragraph__2": {
-              "content": "Ett butiksnamn och en beskrivning inkluderas med förhandsgranskningsbilden. [Läs mer](https://help.shopify.com/en/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)."
+              "content": "Ett butiksnamn och en beskrivning inkluderas med förhandsgranskningsbilden. [Läs mer](https:\/\/help.shopify.com\/en\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)."
             }
           }
         },
@@ -1572,7 +1572,7 @@
               "options__5": "Leverans"
             },
             "show_estimator": {
-              "info": "Estimator will appear only if shipping rates exist [learn more](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/setting-up-shipping-rates).",
+              "info": "Estimator will appear only if shipping rates exist [learn more](https:\/\/help.shopify.com\/en\/manual\/shipping\/setting-up-and-managing-your-shipping\/setting-up-shipping-rates).",
               "label": "Visa leveransberäknare"
             },
             "style": {
@@ -1607,7 +1607,7 @@
           "settings": {
             "header__siblings": {
               "content": "Syskonproduktprover",
-              "info": "Visa liknande produkter som swatches. Ställ in \"syskonsamlingar\" för att gruppera separata variantprodukter med hjälp av metafält. [Läs mer](http://fluorescent.co/help/stiletto/sibling-product-swatches)"
+              "info": "Visa liknande produkter som swatches. Ställ in \"syskonsamlingar\" för att gruppera separata variantprodukter med hjälp av metafält. [Läs mer](http:\/\/fluorescent.co\/help\/stiletto\/sibling-product-swatches)"
             },
             "popup__header": {
               "content": "Informationspopup",
@@ -1676,7 +1676,7 @@
           "content": "Media"
         },
         "media__paragraph": {
-          "content": "Läs mer om [mediatyper](https://help.shopify.com/manual/products/product-media)."
+          "content": "Läs mer om [mediatyper](https:\/\/help.shopify.com\/manual\/products\/product-media)."
         },
         "mobile_gallery_style": {
           "label": "Mobil galleristil",
@@ -1703,7 +1703,7 @@
       "name": "Sök sida",
       "settings": {
         "enable_filtering": {
-          "info": "Anpassa [filter](/admin/menyer)",
+          "info": "Anpassa [filter](\/admin\/menyer)",
           "label": "Aktivera filtrering"
         },
         "enable_sorting": {
@@ -1742,7 +1742,7 @@
       },
       "settings": {
         "api_key": {
-          "info": "Registrera en Google Maps API-nyckel för att visa kartan. Läs mer om [att registrera en Google Maps API-nyckel](https://help.shopify.com/en/manual/online-store/themes/os/customize/map-section-api-key).",
+          "info": "Registrera en Google Maps API-nyckel för att visa kartan. Läs mer om [att registrera en Google Maps API-nyckel](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/os\/customize\/map-section-api-key).",
           "label": "Google Maps API-nyckel"
         },
         "header": {
@@ -1758,7 +1758,7 @@
           "label": "Kartadress"
         },
         "map_json": {
-          "info": "(Valfritt) Lägg till några anpassade [kartstilar](https://mapstyle.withgoogle.com/).",
+          "info": "(Valfritt) Lägg till några anpassade [kartstilar](https:\/\/mapstyle.withgoogle.com\/).",
           "label": "Anpassad karta JSON"
         },
         "section_contrast": {
@@ -1863,7 +1863,7 @@
               "label": "Rubrik"
             },
             "video_url": {
-              "info": "Använd en direktlänk till en .mp4 -videofil. [Läs mer här](https://fluorescent.co/help/spark/video-hero#add-a-video).",
+              "info": "Använd en direktlänk till en .mp4 -videofil. [Läs mer här](https:\/\/fluorescent.co\/help\/spark\/video-hero#add-a-video).",
               "label": "Videolänk"
             }
           }
@@ -1898,7 +1898,7 @@
       },
       "settings": {
         "paragraph": {
-          "content": "Kunder som prenumererar kommer att lägga till sin e-postadress i ‘accepterar marknadsföring’ [kundlista](/admin/customers?query=&accepts_marketing=1)."
+          "content": "Kunder som prenumererar kommer att lägga till sin e-postadress i ‘accepterar marknadsföring’ [kundlista](\/admin\/customers?query=&accepts_marketing=1)."
         },
         "section_contrast": {
           "label": "Använd alternativ sektionsfärg"
@@ -2011,10 +2011,10 @@
           "label": "Max produkter"
         },
         "paragraph__customization": {
-          "content": "Lägg till appen Search & Discovery för att välja tilläggsprodukter. [Mer information](https://help.shopify.com/en/manual/online-store/search-and-discovery/product-recommendations)"
+          "content": "Lägg till appen Search & Discovery för att välja tilläggsprodukter. [Mer information](https:\/\/help.shopify.com\/en\/manual\/online-store\/search-and-discovery\/product-recommendations)"
         },
         "paragraph__intro": {
-          "content": "Dynamiska rekommendationer använder order- och produktinformation för att ändras och förbättras över tid. [Läs mer](https://shopify.dev/themes/product-merchandising/recommendations)"
+          "content": "Dynamiska rekommendationer använder order- och produktinformation för att ändras och förbättras över tid. [Läs mer](https:\/\/shopify.dev\/themes\/product-merchandising\/recommendations)"
         },
         "section_contrast": {
           "label": "Använd alternativ sektionsfärg"
@@ -2192,8 +2192,8 @@
         },
         "image_width": {
           "label": "Bildens bredd",
-          "options__1": "1/2",
-          "options__2": "2/3"
+          "options__1": "1\/2",
+          "options__2": "2\/3"
         },
         "link": {
           "label": "Knapplänk"
@@ -2480,7 +2480,7 @@
               "label": "Bild"
             },
             "likes": {
-              "info": "Att vilseleda kunder med falska nummer kan hamna under ‘orättvisa eller vilseledande handlingar eller metoder’ i [FTC Lagen](https://ca.practicallaw.thomsonreuters.com/w-007-7584).",
+              "info": "Att vilseleda kunder med falska nummer kan hamna under ‘orättvisa eller vilseledande handlingar eller metoder’ i [FTC Lagen](https:\/\/ca.practicallaw.thomsonreuters.com\/w-007-7584).",
               "label": "Antal gillanden"
             },
             "link": {
@@ -2783,7 +2783,7 @@
           "option_2": "Original"
         },
         "video_url": {
-          "info": "Använd en direktlänk till en .mp4 -videofil. [Läs mer här](https://fluorescent.co/help/spark/video-hero#add-a-video).",
+          "info": "Använd en direktlänk till en .mp4 -videofil. [Läs mer här](https:\/\/fluorescent.co\/help\/spark\/video-hero#add-a-video).",
           "label": "Videolänk"
         }
       }
@@ -3008,7 +3008,7 @@
           "label": "Variant alternativ för variantknappar"
         },
         "custom_swatch_colors": {
-          "info": "Lägg till en färg per rad. Ange det exakta variantalternativets namn följt av ett kolon och hex-kod. Ex: \"Himmelsblå: #87CEEB\". [Läs mer](http://fluorescent.co/help/stiletto/swatches)",
+          "info": "Lägg till en färg per rad. Ange det exakta variantalternativets namn följt av ett kolon och hex-kod. Ex: \"Himmelsblå: #87CEEB\". [Läs mer](http:\/\/fluorescent.co\/help\/stiletto\/swatches)",
           "label": "Anpassade swatch-färger"
         },
         "enable_dynamic_product_options": {
@@ -3057,7 +3057,7 @@
           "label": "Visa andra bild på hovring"
         },
         "show_swatches_and_chips": {
-          "info": "Avslöjar produktalternativ vid svävning. För att lära dig mer om hur du konfigurerar färgrutor och variantknappar, kolla in vår [dokumentation](https://fluorescent.co/help/spark/product-pages#set-up-product-chips).",
+          "info": "Avslöjar produktalternativ vid svävning. För att lära dig mer om hur du konfigurerar färgrutor och variantknappar, kolla in vår [dokumentation](https:\/\/fluorescent.co\/help\/spark\/product-pages#set-up-product-chips).",
           "label": "Visa färgrutor och variantknappar"
         }
       }
@@ -3083,43 +3083,43 @@
           "content": "Kontolänkar"
         },
         "social_facebook_link": {
-          "info": "https://facebook.com/shopify",
+          "info": "https:\/\/facebook.com\/shopify",
           "label": "Facebook länk"
         },
         "social_instagram_link": {
-          "info": "https://www.instagram.com/shopify/",
+          "info": "https:\/\/www.instagram.com\/shopify\/",
           "label": "Instagram länk"
         },
         "social_linkedin_link": {
-          "info": "https://linkedin.com/company/shopify",
+          "info": "https:\/\/linkedin.com\/company\/shopify",
           "label": "LinkedIn länk"
         },
         "social_pinterest_link": {
-          "info": "https://pinterest.com/shopify",
+          "info": "https:\/\/pinterest.com\/shopify",
           "label": "Pinterest länk"
         },
         "social_snapchat_link": {
-          "info": "https://snapchat.com/add/shopify",
+          "info": "https:\/\/snapchat.com\/add\/shopify",
           "label": "Snapchat länk"
         },
         "social_tiktok_link": {
-          "info": "https://tiktok.com/@shopify",
+          "info": "https:\/\/tiktok.com\/@shopify",
           "label": "TikTok llänk"
         },
         "social_tumblr_link": {
-          "info": "https://shopify.tumblr.com",
+          "info": "https:\/\/shopify.tumblr.com",
           "label": "Tumblr länk"
         },
         "social_twitter_link": {
-          "info": "https://twitter.com/shopify",
+          "info": "https:\/\/twitter.com\/shopify",
           "label": "Twitter länk"
         },
         "social_vimeo_link": {
-          "info": "https://vimeo.com/shopify",
+          "info": "https:\/\/vimeo.com\/shopify",
           "label": "Vimeo länk"
         },
         "social_youtube_link": {
-          "info": "https://youtube.com/shopify",
+          "info": "https:\/\/youtube.com\/shopify",
           "label": "Youtube länk"
         }
       }
@@ -3419,11 +3419,11 @@
         },
         "header__country": {
           "content": "Landsväljare",
-          "info": "För att lägga till ett land, gå till dina [marknadsinställningar.](/admin/settings/markets)"
+          "info": "För att lägga till ett land, gå till dina [marknadsinställningar.](\/admin\/settings\/markets)"
         },
         "header__language": {
           "content": "Språkväljare",
-          "info": "För att lägga till ett språk, gå till dina [språkinställningar.](/admin/settings/languages)"
+          "info": "För att lägga till ett språk, gå till dina [språkinställningar.](\/admin\/settings\/languages)"
         }
       },
       "header__color": {

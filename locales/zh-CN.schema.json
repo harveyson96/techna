@@ -256,7 +256,7 @@
       },
       "settings": {
         "access_token": {
-          "info": "登录您的Eventbrite账户，获取您的[此处的访问令牌](https://www.eventbrite.com/platform/)。",
+          "info": "登录您的Eventbrite账户，获取您的[此处的访问令牌](https:\/\/www.eventbrite.com\/platform\/)。",
           "label": "访问令牌"
         },
         "aspect_ratio": {
@@ -414,7 +414,7 @@
           "name": "Buy buttons",
           "settings": {
             "show_dynamic_checkout": {
-              "info": "通过使用您商店中提供的付款方式，客户会看到他们的首选付款方式，例如 PayPal 或 Apple Pay。[了解详细信息](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)",
+              "info": "通过使用您商店中提供的付款方式，客户会看到他们的首选付款方式，例如 PayPal 或 Apple Pay。[了解详细信息](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)",
               "label": "显示动态结账按钮"
             }
           }
@@ -440,11 +440,11 @@
           "name": "库存水平指示器",
           "settings": {
             "inventory_max": {
-              "info": "输入你的产品库存的初始数量。 插入一个 \"动态源\"，为多个产品选择不同的数量。 [了解详细信息](https://fluorescent.co/help/spark/product-pages#stock-level-indicator).",
+              "info": "输入你的产品库存的初始数量。 插入一个 \"动态源\"，为多个产品选择不同的数量。 [了解详细信息](https:\/\/fluorescent.co\/help\/spark\/product-pages#stock-level-indicator).",
               "label": "库存基础数量"
             },
             "low_inventory_threshold": {
-              "info": "选择将触发低数量信息的产品数量水平。 插入一个 \"动态源\"，为多个产品选择不同的数量。 [了解详细信息](https://fluorescent.co/help/spark/product-pages#stock-level-indicator).",
+              "info": "选择将触发低数量信息的产品数量水平。 插入一个 \"动态源\"，为多个产品选择不同的数量。 [了解详细信息](https:\/\/fluorescent.co\/help\/spark\/product-pages#stock-level-indicator).",
               "label": "低库存阈值"
             },
             "show_labels": {
@@ -470,10 +470,10 @@
           "name": "分享",
           "settings": {
             "paragraph__1": {
-              "content": "如果您在社交媒体帖子中包含链接，该页面的配图将作为预览图片显示。[了解详细信息](https://help.shopify.com/en/manual/online-store/images/showing-social-media-thumbnail-images)。"
+              "content": "如果您在社交媒体帖子中包含链接，该页面的配图将作为预览图片显示。[了解详细信息](https:\/\/help.shopify.com\/en\/manual\/online-store\/images\/showing-social-media-thumbnail-images)。"
             },
             "paragraph__2": {
-              "content": "预览图片中包含商店标题和描述。[了解详细信息](https://help.shopify.com/en/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)。"
+              "content": "预览图片中包含商店标题和描述。[了解详细信息](https:\/\/help.shopify.com\/en\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)。"
             }
           }
         },
@@ -524,7 +524,7 @@
       },
       "settings": {
         "enable_payment_button": {
-          "info": "通过使用您商店中提供的付款方式，客户会看到他们的首选付款方式，例如 PayPal 或 Apple Pay。[了解详细信息](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)",
+          "info": "通过使用您商店中提供的付款方式，客户会看到他们的首选付款方式，例如 PayPal 或 Apple Pay。[了解详细信息](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)",
           "label": "显示动态结账按钮"
         },
         "enable_product_lightbox": {
@@ -537,7 +537,7 @@
           "content": "媒体文件"
         },
         "media__paragraph": {
-          "content": "详细了解 [媒体文件类型](https://help.shopify.com/manual/products/product-media)"
+          "content": "详细了解 [媒体文件类型](https:\/\/help.shopify.com\/manual\/products\/product-media)"
         },
         "product": {
           "label": "产品"
@@ -623,11 +623,11 @@
       "settings": {
         "currency__header": {
           "content": "货币选择器",
-          "info": "要添加一种货币，请进入您的 [支付设置](/admin/settings/payments)"
+          "info": "要添加一种货币，请进入您的 [支付设置](\/admin\/settings\/payments)"
         },
         "language__header": {
           "content": "语言选择器",
-          "info": "若要添加语言，请转到您的 [语言设置](/admin/settings/languages)。"
+          "info": "若要添加语言，请转到您的 [语言设置](\/admin\/settings\/languages)。"
         },
         "payment__header": {
           "content": "支付类型",
@@ -763,8 +763,8 @@
         },
         "image_width": {
           "label": "图片宽度",
-          "options__1": "1/2",
-          "options__2": "2/3"
+          "options__1": "1\/2",
+          "options__2": "2\/3"
         },
         "section_contrast": {
           "label": "使用备用部分的颜色"
@@ -843,8 +843,8 @@
         },
         "image_width": {
           "label": "图片宽度",
-          "options__1": "1/2",
-          "options__2": "2/3"
+          "options__1": "1\/2",
+          "options__2": "2\/3"
         },
         "section_contrast": {
           "label": "使用备用部分的颜色"
@@ -1135,7 +1135,7 @@
       "name": "页面",
       "settings": {
         "content_max_width": {
-          "info": "调整页面的最大内容宽度。 [关于页面的更多信息](https://help.shopify.com/en/manual/online-store/pages)。",
+          "info": "调整页面的最大内容宽度。 [关于页面的更多信息](https:\/\/help.shopify.com\/en\/manual\/online-store\/pages)。",
           "label": "最大内容宽度"
         }
       }
@@ -1149,7 +1149,7 @@
               "label": "图片"
             },
             "video_url": {
-              "info": "使用直接链接到一个.mp4视频文件。[在这里了解更多](https://fluorescent.co/help/spark/video-hero#add-a-video).",
+              "info": "使用直接链接到一个.mp4视频文件。[在这里了解更多](https:\/\/fluorescent.co\/help\/spark\/video-hero#add-a-video).",
               "label": "视频链接"
             }
           }
@@ -1158,7 +1158,7 @@
       "name": "关于页面",
       "settings": {
         "content_max_width": {
-          "info": "调整页面的最大内容宽度。 [关于页面的更多信息](https://help.shopify.com/en/manual/online-store/pages)。",
+          "info": "调整页面的最大内容宽度。 [关于页面的更多信息](https:\/\/help.shopify.com\/en\/manual\/online-store\/pages)。",
           "label": "最大内容宽度"
         },
         "intro": {
@@ -1317,7 +1317,7 @@
               "options__5": "运输"
             },
             "show_estimator": {
-              "info": "只有当运费存在时，才会出现运费估算器[了解更多](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/setting-up-shipping-rates).",
+              "info": "只有当运费存在时，才会出现运费估算器[了解更多](https:\/\/help.shopify.com\/en\/manual\/shipping\/setting-up-and-managing-your-shipping\/setting-up-shipping-rates).",
               "label": "显示运费估算器"
             },
             "text": {
@@ -1362,7 +1362,7 @@
           "name": "Buy buttons",
           "settings": {
             "show_dynamic_checkout": {
-              "info": "通过使用您商店中提供的付款方式，客户会看到他们的首选付款方式，例如 PayPal 或 Apple Pay。[了解详细信息](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)",
+              "info": "通过使用您商店中提供的付款方式，客户会看到他们的首选付款方式，例如 PayPal 或 Apple Pay。[了解详细信息](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)",
               "label": "显示动态结账按钮"
             }
           }
@@ -1410,13 +1410,13 @@
               "label": "展示的最大产品"
             },
             "product_source": {
-              "info": "要选择互补的产品，请添加搜索与发现应用程序。[了解更多](https://help.shopify.com/en/manual/online-store/search-and-discovery/product-recommendations)",
+              "info": "要选择互补的产品，请添加搜索与发现应用程序。[了解更多](https:\/\/help.shopify.com\/en\/manual\/online-store\/search-and-discovery\/product-recommendations)",
               "label": "要展示的产品",
               "option_app_recommendations": "搜索和发现应用推荐",
               "option_custom_product_list": "自定义产品列表"
             },
             "products_list": {
-              "info": "添加一个[产品参考](/admin/metafields/product/create)(产品列表)元字段，为每个产品设置不同的项目",
+              "info": "添加一个[产品参考](\/admin\/metafields\/product\/create)(产品列表)元字段，为每个产品设置不同的项目",
               "label": "自定义产品列表"
             }
           }
@@ -1425,7 +1425,7 @@
           "name": "自定义文本字段",
           "settings": {
             "line_properties__paragraph": {
-              "content": "了解更多关于[行项目属性](https://shopify.dev/themes/architecture/templates/product#line-item-properties)。"
+              "content": "了解更多关于[行项目属性](https:\/\/shopify.dev\/themes\/architecture\/templates\/product#line-item-properties)。"
             },
             "placeholder": {
               "label": "字段占位符"
@@ -1457,11 +1457,11 @@
           "name": "库存水平指示器",
           "settings": {
             "inventory_max": {
-              "info": "输入你的产品库存的初始数量。 插入一个 \"动态源\"，为多个产品选择不同的数量。 [了解详细信息](https://fluorescent.co/help/spark/product-pages#stock-level-indicator)",
+              "info": "输入你的产品库存的初始数量。 插入一个 \"动态源\"，为多个产品选择不同的数量。 [了解详细信息](https:\/\/fluorescent.co\/help\/spark\/product-pages#stock-level-indicator)",
               "label": "库存基础数量"
             },
             "low_inventory_threshold": {
-              "info": "选择将触发低数量信息的产品数量水平。 插入一个 \"动态源\"，为多个产品选择不同的数量。 [了解详细信息](https://fluorescent.co/help/spark/product-pages#stock-level-indicator)",
+              "info": "选择将触发低数量信息的产品数量水平。 插入一个 \"动态源\"，为多个产品选择不同的数量。 [了解详细信息](https:\/\/fluorescent.co\/help\/spark\/product-pages#stock-level-indicator)",
               "label": "低库存阈值"
             },
             "show_labels": {
@@ -1548,10 +1548,10 @@
           "name": "分享",
           "settings": {
             "paragraph__1": {
-              "content": "如果您在社交媒体帖子中包含链接，该页面的配图将作为预览图片显示。[了解详细信息](https://help.shopify.com/en/manual/online-store/images/showing-social-media-thumbnail-images)。"
+              "content": "如果您在社交媒体帖子中包含链接，该页面的配图将作为预览图片显示。[了解详细信息](https:\/\/help.shopify.com\/en\/manual\/online-store\/images\/showing-social-media-thumbnail-images)。"
             },
             "paragraph__2": {
-              "content": "预览图片中包含商店标题和描述。[了解详细信息](https://help.shopify.com/en/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)。"
+              "content": "预览图片中包含商店标题和描述。[了解详细信息](https:\/\/help.shopify.com\/en\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)。"
             }
           }
         },
@@ -1572,7 +1572,7 @@
               "options__5": "运输"
             },
             "show_estimator": {
-              "info": "Estimator will appear only if shipping rates exist [learn more](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/setting-up-shipping-rates).",
+              "info": "Estimator will appear only if shipping rates exist [learn more](https:\/\/help.shopify.com\/en\/manual\/shipping\/setting-up-and-managing-your-shipping\/setting-up-shipping-rates).",
               "label": "显示运费估算器"
             },
             "style": {
@@ -1607,7 +1607,7 @@
           "settings": {
             "header__siblings": {
               "content": "兄弟产品样本",
-              "info": "将类似的产品显示为样本。设置“兄弟”集合以使用元字段对单独的变体产品进行分组。 [了解更多](http://fluorescent.co/help/stiletto/sibling-product-swatches)"
+              "info": "将类似的产品显示为样本。设置“兄弟”集合以使用元字段对单独的变体产品进行分组。 [了解更多](http:\/\/fluorescent.co\/help\/stiletto\/sibling-product-swatches)"
             },
             "popup__header": {
               "content": "信息弹出窗口",
@@ -1676,7 +1676,7 @@
           "content": "媒体文件"
         },
         "media__paragraph": {
-          "content": "详细了解 [媒体文件类型](https://help.shopify.com/manual/products/product-media)."
+          "content": "详细了解 [媒体文件类型](https:\/\/help.shopify.com\/manual\/products\/product-media)."
         },
         "mobile_gallery_style": {
           "label": "移动画廊风格",
@@ -1703,7 +1703,7 @@
       "name": "搜索页面",
       "settings": {
         "enable_filtering": {
-          "info": "自定义[过滤器](/admin/menus)",
+          "info": "自定义[过滤器](\/admin\/menus)",
           "label": "启用过滤"
         },
         "enable_sorting": {
@@ -1742,7 +1742,7 @@
       },
       "settings": {
         "api_key": {
-          "info": "注册一个谷歌地图API密钥来显示地图。了解更多关于 [注册谷歌地图API密钥](https://help.shopify.com/en/manual/online-store/themes/os/customize/map-section-api-key) 的信息",
+          "info": "注册一个谷歌地图API密钥来显示地图。了解更多关于 [注册谷歌地图API密钥](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/os\/customize\/map-section-api-key) 的信息",
           "label": "谷歌地图API密钥"
         },
         "header": {
@@ -1758,7 +1758,7 @@
           "label": "地图地址"
         },
         "map_json": {
-          "info": "(可选）添加一些自定义 [地图样式](https://mapstyle.withgoogle.com/).",
+          "info": "(可选）添加一些自定义 [地图样式](https:\/\/mapstyle.withgoogle.com\/).",
           "label": "自定义地图JSON"
         },
         "section_contrast": {
@@ -1863,7 +1863,7 @@
               "label": "标题"
             },
             "video_url": {
-              "info": "使用直接链接到一个.mp4视频文件。[在这里了解更多](https://fluorescent.co/help/spark/video-hero#add-a-video).",
+              "info": "使用直接链接到一个.mp4视频文件。[在这里了解更多](https:\/\/fluorescent.co\/help\/spark\/video-hero#add-a-video).",
               "label": "视频链接"
             }
           }
@@ -1898,7 +1898,7 @@
       },
       "settings": {
         "paragraph": {
-          "content": "订阅的客户将把他们的电子邮件地址添加到 接受营销 [客户名单](/admin/customers?query=&accepts_marketing=1) 中。"
+          "content": "订阅的客户将把他们的电子邮件地址添加到 接受营销 [客户名单](\/admin\/customers?query=&accepts_marketing=1) 中。"
         },
         "section_contrast": {
           "label": "使用备用部分的颜色"
@@ -2011,10 +2011,10 @@
           "label": "最大产品"
         },
         "paragraph__customization": {
-          "content": "若要选择互补产品，请添加 Search & Discovery 应用。[了解详细信息](https://help.shopify.com/en/manual/online-store/search-and-discovery/product-recommendations)"
+          "content": "若要选择互补产品，请添加 Search & Discovery 应用。[了解详细信息](https:\/\/help.shopify.com\/en\/manual\/online-store\/search-and-discovery\/product-recommendations)"
         },
         "paragraph__intro": {
-          "content": "动态推荐使用订单和产品信息来随着时间而变化和改进。[了解详细信息](https://shopify.dev/themes/product-merchandising/recommendations)"
+          "content": "动态推荐使用订单和产品信息来随着时间而变化和改进。[了解详细信息](https:\/\/shopify.dev\/themes\/product-merchandising\/recommendations)"
         },
         "section_contrast": {
           "label": "使用备用部分的颜色"
@@ -2192,8 +2192,8 @@
         },
         "image_width": {
           "label": "图像宽度",
-          "options__1": "1/2",
-          "options__2": "2/3"
+          "options__1": "1\/2",
+          "options__2": "2\/3"
         },
         "link": {
           "label": "按钮链接"
@@ -2480,7 +2480,7 @@
               "label": "图片"
             },
             "likes": {
-              "info": "用假号码误导客户可能属于[FTC法案](https://ca.practicallaw.thomsonreuters.com/w-007-7584) 中的 ‘不公平或欺骗性行为或做法’",
+              "info": "用假号码误导客户可能属于[FTC法案](https:\/\/ca.practicallaw.thomsonreuters.com\/w-007-7584) 中的 ‘不公平或欺骗性行为或做法’",
               "label": "喜欢的数量"
             },
             "link": {
@@ -2783,7 +2783,7 @@
           "option_2": "原版的"
         },
         "video_url": {
-          "info": "使用直接链接到一个.mp4视频文件。[在这里了解更多](https://fluorescent.co/help/spark/video-hero#add-a-video).",
+          "info": "使用直接链接到一个.mp4视频文件。[在这里了解更多](https:\/\/fluorescent.co\/help\/spark\/video-hero#add-a-video).",
           "label": "视频链接"
         }
       }
@@ -3008,7 +3008,7 @@
           "label": "芯片的变体选项"
         },
         "custom_swatch_colors": {
-          "info": "每行添加一种颜色。输入确切的变体选项名称，后跟冒号和十六进制代码。例如：“天蓝色：#87CEEB”。 [了解更多](http://fluorescent.co/help/stiletto/swatches)",
+          "info": "每行添加一种颜色。输入确切的变体选项名称，后跟冒号和十六进制代码。例如：“天蓝色：#87CEEB”。 [了解更多](http:\/\/fluorescent.co\/help\/stiletto\/swatches)",
           "label": "自定义样本颜色"
         },
         "enable_dynamic_product_options": {
@@ -3057,7 +3057,7 @@
           "label": "在悬停时显示第二张图片"
         },
         "show_swatches_and_chips": {
-          "info": "悬停时显示产品选项。要了解更多关于设置色板和变体按钮的信息，请查看我们的 [文档](https://fluorescent.co/help/spark/product-pages#set-up-product-chips).",
+          "info": "悬停时显示产品选项。要了解更多关于设置色板和变体按钮的信息，请查看我们的 [文档](https:\/\/fluorescent.co\/help\/spark\/product-pages#set-up-product-chips).",
           "label": "显示色板和变体按钮"
         }
       }
@@ -3083,43 +3083,43 @@
           "content": "帐户链接"
         },
         "social_facebook_link": {
-          "info": "https://facebook.com/shopify",
+          "info": "https:\/\/facebook.com\/shopify",
           "label": "脸书链接"
         },
         "social_instagram_link": {
-          "info": "https://www.instagram.com/shopify/",
+          "info": "https:\/\/www.instagram.com\/shopify\/",
           "label": "Instagram链接"
         },
         "social_linkedin_link": {
-          "info": "https://linkedin.com/company/shopify",
+          "info": "https:\/\/linkedin.com\/company\/shopify",
           "label": "LinkedIn链接"
         },
         "social_pinterest_link": {
-          "info": "https://pinterest.com/shopify",
+          "info": "https:\/\/pinterest.com\/shopify",
           "label": "Pinterest链接"
         },
         "social_snapchat_link": {
-          "info": "https://snapchat.com/add/shopify",
+          "info": "https:\/\/snapchat.com\/add\/shopify",
           "label": "Snapchat链接"
         },
         "social_tiktok_link": {
-          "info": "https://tiktok.com/@shopify",
+          "info": "https:\/\/tiktok.com\/@shopify",
           "label": "TikTok链接"
         },
         "social_tumblr_link": {
-          "info": "https://shopify.tumblr.com",
+          "info": "https:\/\/shopify.tumblr.com",
           "label": "Tumblr链接"
         },
         "social_twitter_link": {
-          "info": "https://twitter.com/shopify",
+          "info": "https:\/\/twitter.com\/shopify",
           "label": "Twitter链接"
         },
         "social_vimeo_link": {
-          "info": "https://vimeo.com/shopify",
+          "info": "https:\/\/vimeo.com\/shopify",
           "label": "Vimeo链接"
         },
         "social_youtube_link": {
-          "info": "https://youtube.com/shopify",
+          "info": "https:\/\/youtube.com\/shopify",
           "label": "Youtube链接"
         }
       }
@@ -3419,11 +3419,11 @@
         },
         "header__country": {
           "content": "国家选择器",
-          "info": "要添加国家/地区，请转到您的 [市场设置]。(/admin/settings/markets)"
+          "info": "要添加国家\/地区，请转到您的 [市场设置]。(\/admin\/settings\/markets)"
         },
         "header__language": {
           "content": "语言选择器",
-          "info": "要添加语言，请转到您的 [语言设置](/admin/settings/languages)"
+          "info": "要添加语言，请转到您的 [语言设置](\/admin\/settings\/languages)"
         }
       },
       "header__color": {

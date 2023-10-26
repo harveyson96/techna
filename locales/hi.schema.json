@@ -256,7 +256,7 @@
       },
       "settings": {
         "access_token": {
-          "info": "अपना [एक्सेस टोकन यहां] (https://www.eventbrite.com/platform/) प्राप्त करने के लिए अपने Eventbrite खाते में लॉग इन करें।",
+          "info": "अपना [एक्सेस टोकन यहां] (https:\/\/www.eventbrite.com\/platform\/) प्राप्त करने के लिए अपने Eventbrite खाते में लॉग इन करें।",
           "label": "एक्सेस टोकन"
         },
         "aspect_ratio": {
@@ -414,7 +414,7 @@
           "name": "बटन खरीदें",
           "settings": {
             "show_dynamic_checkout": {
-              "info": "अपने स्टोर पर उपलब्ध भुगतान पद्धतियों का प्रयोग करना, ग्राहकों को उनकी वरीयता अनुसार विकल्प दिखते हैं, जैसे PayPal या Apple Pay [अधिक जानें](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)",
+              "info": "अपने स्टोर पर उपलब्ध भुगतान पद्धतियों का प्रयोग करना, ग्राहकों को उनकी वरीयता अनुसार विकल्प दिखते हैं, जैसे PayPal या Apple Pay [अधिक जानें](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)",
               "label": "डायनामिक चेकआउट बटन दिखाएँ"
             }
           }
@@ -440,11 +440,11 @@
           "name": "इन्वेंटरी काउंटर",
           "settings": {
             "inventory_max": {
-              "info": "अपनी उत्पाद इन्वेंट्री की शुरुआती मात्रा डालें। अनेक उत्पादों के लिए भिन्न मात्राओं का चयन करने के लिए एक \"गतिशील स्रोत\" जोड़ें। [अधिक जानें](https://fluorescent.co/help/spark/product-pages#stock-level-indicator).",
+              "info": "अपनी उत्पाद इन्वेंट्री की शुरुआती मात्रा डालें। अनेक उत्पादों के लिए भिन्न मात्राओं का चयन करने के लिए एक \"गतिशील स्रोत\" जोड़ें। [अधिक जानें](https:\/\/fluorescent.co\/help\/spark\/product-pages#stock-level-indicator).",
               "label": "स्टॉक की आधार मात्रा"
             },
             "low_inventory_threshold": {
-              "info": "उत्पाद मात्रा स्तर का चयन करें जो कम मात्रा के संदेश को ट्रिगर करेगा। अनेक उत्पादों के लिए भिन्न मात्राओं का चयन करने के लिए एक \"गतिशील स्रोत\" जोड़ें। [अधिक जानें](https://fluorescent.co/help/spark/product-pages#stock-level-indicator).",
+              "info": "उत्पाद मात्रा स्तर का चयन करें जो कम मात्रा के संदेश को ट्रिगर करेगा। अनेक उत्पादों के लिए भिन्न मात्राओं का चयन करने के लिए एक \"गतिशील स्रोत\" जोड़ें। [अधिक जानें](https:\/\/fluorescent.co\/help\/spark\/product-pages#stock-level-indicator).",
               "label": "कम इन्वेंट्री थ्रेशोल्ड"
             },
             "show_labels": {
@@ -470,10 +470,10 @@
           "name": "साझा करें",
           "settings": {
             "paragraph__1": {
-              "content": "अगर आप सोशल मीडिया का लिंक जोड़ते हैं, तो लिंक की फीचर की हुई इमेज प्री व्यू इमेज के रूप में दिखाई जाएगी। [अधिक जानें](https://help.shopify.com/en/manual/online-store/images/showing-social-media-thumbnail-images)."
+              "content": "अगर आप सोशल मीडिया का लिंक जोड़ते हैं, तो लिंक की फीचर की हुई इमेज प्री व्यू इमेज के रूप में दिखाई जाएगी। [अधिक जानें](https:\/\/help.shopify.com\/en\/manual\/online-store\/images\/showing-social-media-thumbnail-images)."
             },
             "paragraph__2": {
-              "content": "प्रीव्यू इमेज में स्टोर का शीर्षक और विवरण भी शामिल होंगे। [अधिक जानें](https://help.shopify.com/en/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)."
+              "content": "प्रीव्यू इमेज में स्टोर का शीर्षक और विवरण भी शामिल होंगे। [अधिक जानें](https:\/\/help.shopify.com\/en\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)."
             }
           }
         },
@@ -524,7 +524,7 @@
       },
       "settings": {
         "enable_payment_button": {
-          "info": "ग्राहक को परिचित भुगतान पद्धति का प्रयोग करके इसे आज़माने का मौका दें। [अधिक जानें](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)",
+          "info": "ग्राहक को परिचित भुगतान पद्धति का प्रयोग करके इसे आज़माने का मौका दें। [अधिक जानें](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)",
           "label": "डायनैमिक चेकआउट बटन दिखाएं"
         },
         "enable_product_lightbox": {
@@ -537,7 +537,7 @@
           "content": "मीडिया"
         },
         "media__paragraph": {
-          "content": "[मीडिया प्रकारों](https://help.shopify.com/en/manual/products/product-media) के बारे में अधिक जानें"
+          "content": "[मीडिया प्रकारों](https:\/\/help.shopify.com\/en\/manual\/products\/product-media) के बारे में अधिक जानें"
         },
         "product": {
           "label": "उत्पाद"
@@ -623,11 +623,11 @@
       "settings": {
         "currency__header": {
           "content": "करेंसी चयन",
-          "info": "करेंसी जोड़ने के लिए [भुगतान सेटिंग्स](/admin/settings/payments) में जाएँ।"
+          "info": "करेंसी जोड़ने के लिए [भुगतान सेटिंग्स](\/admin\/settings\/payments) में जाएँ।"
         },
         "language__header": {
           "content": "भाषा चयनr",
-          "info": "भाषा जोड़ने के लिए, अपनी [भाषा सेटिंग्स](/admin/settings/languages) में जाएं"
+          "info": "भाषा जोड़ने के लिए, अपनी [भाषा सेटिंग्स](\/admin\/settings\/languages) में जाएं"
         },
         "payment__header": {
           "content": "भुगतान के प्रकार",
@@ -763,8 +763,8 @@
         },
         "image_width": {
           "label": "इमेज की चौड़ाई",
-          "options__1": "1/2",
-          "options__2": "2/3"
+          "options__1": "1\/2",
+          "options__2": "2\/3"
         },
         "section_contrast": {
           "label": "अन्य सेक्शन के रंग का प्रयोग करें"
@@ -843,8 +843,8 @@
         },
         "image_width": {
           "label": "इमेज की चौड़ाई",
-          "options__1": "1/2",
-          "options__2": "2/3"
+          "options__1": "1\/2",
+          "options__2": "2\/3"
         },
         "section_contrast": {
           "label": "अन्य सेक्शन के रंग का प्रयोग करें"
@@ -1135,7 +1135,7 @@
       "name": "पृष्ठ",
       "settings": {
         "content_max_width": {
-          "info": "लेख की अधिकतम सामग्री चौड़ाई समायोजित करें। [पृष्ठों के बारे में और जानें](https://help.shopify.com/en/manual/online-store/pages)।",
+          "info": "लेख की अधिकतम सामग्री चौड़ाई समायोजित करें। [पृष्ठों के बारे में और जानें](https:\/\/help.shopify.com\/en\/manual\/online-store\/pages)।",
           "label": "अधिकतम सामग्री चौड़ाई"
         }
       }
@@ -1149,7 +1149,7 @@
               "label": "इमेज"
             },
             "video_url": {
-              "info": "एक .mp4 वीडियो फाइल से सीधे लिंक का प्रयोग करें [यहाँ अधिक जानें](https://fluorescent.co/help/spark/video-hero#add-a-video).",
+              "info": "एक .mp4 वीडियो फाइल से सीधे लिंक का प्रयोग करें [यहाँ अधिक जानें](https:\/\/fluorescent.co\/help\/spark\/video-hero#add-a-video).",
               "label": "वीडियो का लिंक"
             }
           }
@@ -1158,7 +1158,7 @@
       "name": "पृष्ठ के बारे में",
       "settings": {
         "content_max_width": {
-          "info": "लेख की अधिकतम सामग्री चौड़ाई समायोजित करें। [पृष्ठों के बारे में और जानें](https://help.shopify.com/en/manual/online-store/pages)।",
+          "info": "लेख की अधिकतम सामग्री चौड़ाई समायोजित करें। [पृष्ठों के बारे में और जानें](https:\/\/help.shopify.com\/en\/manual\/online-store\/pages)।",
           "label": "अधिकतम सामग्री चौड़ाई"
         },
         "intro": {
@@ -1317,7 +1317,7 @@
               "options__5": "शिपिंग"
             },
             "show_estimator": {
-              "info": "शिपिंग अनुमानक केवल तभी दिखाई देगा जब शिपिंग दरें मौजूद हों [अधिक जानें](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/setting-up-shipping-rates).",
+              "info": "शिपिंग अनुमानक केवल तभी दिखाई देगा जब शिपिंग दरें मौजूद हों [अधिक जानें](https:\/\/help.shopify.com\/en\/manual\/shipping\/setting-up-and-managing-your-shipping\/setting-up-shipping-rates).",
               "label": "शिपिंग अनुमान दिखाएँ"
             },
             "text": {
@@ -1362,7 +1362,7 @@
           "name": "बटन खरीदें",
           "settings": {
             "show_dynamic_checkout": {
-              "info": "अपने स्टोर पर उपलब्ध भुगतान पद्धतियों का प्रयोग करना, ग्राहकों को उनकी वरीयता अनुसार विकल्प दिखते हैं, जैसे PayPal या Apple Pay [अधिक जानें](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)",
+              "info": "अपने स्टोर पर उपलब्ध भुगतान पद्धतियों का प्रयोग करना, ग्राहकों को उनकी वरीयता अनुसार विकल्प दिखते हैं, जैसे PayPal या Apple Pay [अधिक जानें](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)",
               "label": "डायनामिक चेकआउट बटन दिखाएँ"
             }
           }
@@ -1410,13 +1410,13 @@
               "label": "दिखाने के लिए अधिकतम उत्पाद"
             },
             "product_source": {
-              "info": "पूरक उत्पादों का चयन करने के लिए, खोज और डिस्कवरी एप जोड़ें। [ज़्यादा जानें](https://help.shopify.com/en/manual/online-store/search-and-discovery/product-recommendations)",
+              "info": "पूरक उत्पादों का चयन करने के लिए, खोज और डिस्कवरी एप जोड़ें। [ज़्यादा जानें](https:\/\/help.shopify.com\/en\/manual\/online-store\/search-and-discovery\/product-recommendations)",
               "label": "दिखाने के लिए उत्पाद",
               "option_app_recommendations": "खोज और डिस्कवरी ऐप अनुशंसाएं",
               "option_custom_product_list": "कस्टम उत्पाद सूची"
             },
             "products_list": {
-              "info": "प्रत्येक उत्पाद के लिए अलग-अलग आइटम सेट करने के लिए [उत्पाद संदर्भ](/व्यवस्थापक/मेटाफ़ील्ड/उत्पाद/निर्माण) (उत्पादों की सूची) मेटाफ़ील्ड जोड़ें",
+              "info": "प्रत्येक उत्पाद के लिए अलग-अलग आइटम सेट करने के लिए [उत्पाद संदर्भ](\/व्यवस्थापक\/मेटाफ़ील्ड\/उत्पाद\/निर्माण) (उत्पादों की सूची) मेटाफ़ील्ड जोड़ें",
               "label": "कस्टम उत्पाद सूची"
             }
           }
@@ -1425,7 +1425,7 @@
           "name": "कस्टम टेक्स्ट फ़ील्ड",
           "settings": {
             "line_properties__paragraph": {
-              "content": "[लाइन आइटम प्रॉपर्टीज](https://shopify.dev/themes/architecture/templates/product#line-item-properties) के बारे में और जानें।"
+              "content": "[लाइन आइटम प्रॉपर्टीज](https:\/\/shopify.dev\/themes\/architecture\/templates\/product#line-item-properties) के बारे में और जानें।"
             },
             "placeholder": {
               "label": "फील्ड प्लेसहोल्डर"
@@ -1457,11 +1457,11 @@
           "name": "इन्वेंटरी काउंटर",
           "settings": {
             "inventory_max": {
-              "info": "अपनी उत्पाद इन्वेंट्री की शुरुआती मात्रा डालें। अनेक उत्पादों के लिए भिन्न मात्राओं का चयन करने के लिए एक \"गतिशील स्रोत\" जोड़ें। [अधिक जानें](https://fluorescent.co/help/spark/product-pages#stock-level-indicator)",
+              "info": "अपनी उत्पाद इन्वेंट्री की शुरुआती मात्रा डालें। अनेक उत्पादों के लिए भिन्न मात्राओं का चयन करने के लिए एक \"गतिशील स्रोत\" जोड़ें। [अधिक जानें](https:\/\/fluorescent.co\/help\/spark\/product-pages#stock-level-indicator)",
               "label": "स्टॉक की आधार मात्रा"
             },
             "low_inventory_threshold": {
-              "info": "उत्पाद मात्रा स्तर का चयन करें जो कम मात्रा के संदेश को ट्रिगर करेगा। अनेक उत्पादों के लिए भिन्न मात्राओं का चयन करने के लिए एक \"गतिशील स्रोत\" जोड़ें। [अधिक जानें](https://fluorescent.co/help/spark/product-pages#stock-level-indicator)",
+              "info": "उत्पाद मात्रा स्तर का चयन करें जो कम मात्रा के संदेश को ट्रिगर करेगा। अनेक उत्पादों के लिए भिन्न मात्राओं का चयन करने के लिए एक \"गतिशील स्रोत\" जोड़ें। [अधिक जानें](https:\/\/fluorescent.co\/help\/spark\/product-pages#stock-level-indicator)",
               "label": "कम इन्वेंट्री थ्रेशोल्ड"
             },
             "show_labels": {
@@ -1548,10 +1548,10 @@
           "name": "साझा करें",
           "settings": {
             "paragraph__1": {
-              "content": "अगर आप सोशल मीडिया का लिंक जोड़ते हैं, तो लिंक की फीचर की हुई इमेज प्री व्यू इमेज के रूप में दिखाई जाएगी। [अधिक जानें](https://help.shopify.com/en/manual/online-store/images/showing-social-media-thumbnail-images)."
+              "content": "अगर आप सोशल मीडिया का लिंक जोड़ते हैं, तो लिंक की फीचर की हुई इमेज प्री व्यू इमेज के रूप में दिखाई जाएगी। [अधिक जानें](https:\/\/help.shopify.com\/en\/manual\/online-store\/images\/showing-social-media-thumbnail-images)."
             },
             "paragraph__2": {
-              "content": "प्रीव्यू इमेज में स्टोर का शीर्षक और विवरण भी शामिल होंगे। [अधिक जानें](https://help.shopify.com/en/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)."
+              "content": "प्रीव्यू इमेज में स्टोर का शीर्षक और विवरण भी शामिल होंगे। [अधिक जानें](https:\/\/help.shopify.com\/en\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)."
             }
           }
         },
@@ -1572,7 +1572,7 @@
               "options__5": "शिपिंग"
             },
             "show_estimator": {
-              "info": "Estimator will appear only if shipping rates exist [learn more](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/setting-up-shipping-rates).",
+              "info": "Estimator will appear only if shipping rates exist [learn more](https:\/\/help.shopify.com\/en\/manual\/shipping\/setting-up-and-managing-your-shipping\/setting-up-shipping-rates).",
               "label": "शिपिंग अनुमान दिखाएँ"
             },
             "style": {
@@ -1607,7 +1607,7 @@
           "settings": {
             "header__siblings": {
               "content": "सहोदर उत्पाद नमूने",
-              "info": "समान उत्पादों को नमूने के रूप में प्रदर्शित करें। मेटाफ़ील्ड का उपयोग करके अलग-अलग प्रकार के उत्पादों को समूहीकृत करने के लिए \"सिबलिंग\" संग्रह सेट अप करें। [अधिक जानें](http://fluorescent.co/help/stiletto/sibling-product-swatches)"
+              "info": "समान उत्पादों को नमूने के रूप में प्रदर्शित करें। मेटाफ़ील्ड का उपयोग करके अलग-अलग प्रकार के उत्पादों को समूहीकृत करने के लिए \"सिबलिंग\" संग्रह सेट अप करें। [अधिक जानें](http:\/\/fluorescent.co\/help\/stiletto\/sibling-product-swatches)"
             },
             "popup__header": {
               "content": "सूचना पॉप-अप",
@@ -1676,7 +1676,7 @@
           "content": "मीडिया"
         },
         "media__paragraph": {
-          "content": "[मीडिया प्रकारों](https://help.shopify.com/en/manual/products/product-media) के बारे में अधिक जानें"
+          "content": "[मीडिया प्रकारों](https:\/\/help.shopify.com\/en\/manual\/products\/product-media) के बारे में अधिक जानें"
         },
         "mobile_gallery_style": {
           "label": "मोबाइल गैलरी शैली",
@@ -1703,7 +1703,7 @@
       "name": "खोज पृष्ठ",
       "settings": {
         "enable_filtering": {
-          "info": "अनुकूलित करें [फ़िल्टर](/admin/menus)",
+          "info": "अनुकूलित करें [फ़िल्टर](\/admin\/menus)",
           "label": "फ़िल्टरिंग सक्षम करें"
         },
         "enable_sorting": {
@@ -1742,7 +1742,7 @@
       },
       "settings": {
         "api_key": {
-          "info": "नक्शा दिखाने के लिए गूगल मैप्स API Key का पंजीकरण करें। [गूगल मैप्स API Key का पंजीकरण](https://help.shopify.com/en/manual/online-store/themes/os/customize/map-section-api-key) के बारें में जानें",
+          "info": "नक्शा दिखाने के लिए गूगल मैप्स API Key का पंजीकरण करें। [गूगल मैप्स API Key का पंजीकरण](https:\/\/help.shopify.com\/en\/manual\/online-store\/themes\/os\/customize\/map-section-api-key) के बारें में जानें",
           "label": "गूगल मैप्स API Key"
         },
         "header": {
@@ -1758,7 +1758,7 @@
           "label": "मैप  पर पता"
         },
         "map_json": {
-          "info": "(वैकल्पिक) कुछ कस्टम [मैप स्टाइल](https://mapstyle.withgoogle.com/) जोड़ें",
+          "info": "(वैकल्पिक) कुछ कस्टम [मैप स्टाइल](https:\/\/mapstyle.withgoogle.com\/) जोड़ें",
           "label": "कस्टम मैप JSON"
         },
         "section_contrast": {
@@ -1863,7 +1863,7 @@
               "label": "हेडिंग"
             },
             "video_url": {
-              "info": "एक .mp4 वीडियो फाइल से सीधे लिंक का प्रयोग करें [यहाँ अधिक जानें](https://fluorescent.co/help/spark/video-hero#add-a-video).",
+              "info": "एक .mp4 वीडियो फाइल से सीधे लिंक का प्रयोग करें [यहाँ अधिक जानें](https:\/\/fluorescent.co\/help\/spark\/video-hero#add-a-video).",
               "label": "वीडियो का लिंक"
             }
           }
@@ -1898,7 +1898,7 @@
       },
       "settings": {
         "paragraph": {
-          "content": "सबस्क्राइब करने वाले ग्राहकों के ईमेल पते को मार्केटिंग स्वीकार है [ग्राहक सूची] की सूची में जोड़ा जाएगा (/admin/customers?query=&accepts_marketing=1)."
+          "content": "सबस्क्राइब करने वाले ग्राहकों के ईमेल पते को मार्केटिंग स्वीकार है [ग्राहक सूची] की सूची में जोड़ा जाएगा (\/admin\/customers?query=&accepts_marketing=1)."
         },
         "section_contrast": {
           "label": "अन्य सेक्शन के रंग का प्रयोग करें"
@@ -2011,10 +2011,10 @@
           "label": "अधिकतम उत्पाद"
         },
         "paragraph__customization": {
-          "content": "पूरक उत्पादों का चयन करने के लिए, खोज और खोज ऐप जोड़ें। [ज़्यादा जानें](https://help.shopify.com/en/manual/online-store/search-and-discovery/product-recommendations)"
+          "content": "पूरक उत्पादों का चयन करने के लिए, खोज और खोज ऐप जोड़ें। [ज़्यादा जानें](https:\/\/help.shopify.com\/en\/manual\/online-store\/search-and-discovery\/product-recommendations)"
         },
         "paragraph__intro": {
-          "content": "गतिशील अनुशंसाएं समय के साथ बदलने और सुधारने के लिए ऑर्डर और उत्पाद जानकारी का उपयोग करती हैं। [ज़्यादा जानें](https://shopify.dev/themes/product-merchandising/recommendations)"
+          "content": "गतिशील अनुशंसाएं समय के साथ बदलने और सुधारने के लिए ऑर्डर और उत्पाद जानकारी का उपयोग करती हैं। [ज़्यादा जानें](https:\/\/shopify.dev\/themes\/product-merchandising\/recommendations)"
         },
         "section_contrast": {
           "label": "अन्य सेक्शन के रंग का प्रयोग करें"
@@ -2192,8 +2192,8 @@
         },
         "image_width": {
           "label": "इमेज की चौड़ाई",
-          "options__1": "1/2",
-          "options__2": "2/3"
+          "options__1": "1\/2",
+          "options__2": "2\/3"
         },
         "link": {
           "label": "बटन लिंक"
@@ -2480,7 +2480,7 @@
               "label": "इमेज"
             },
             "likes": {
-              "info": "फर्जी नंबर देकर गुमराह करने वाले ग्राहक [एफ़टीसी एक्ट](https://ca.practicallaw.thomsonreuters.com/w-007-7584) के अंतर्गत ‘अनुचित और धोखाधड़ी वाले कृत्य और अभ्यास’ के अंतर्गत आएंगे ",
+              "info": "फर्जी नंबर देकर गुमराह करने वाले ग्राहक [एफ़टीसी एक्ट](https:\/\/ca.practicallaw.thomsonreuters.com\/w-007-7584) के अंतर्गत ‘अनुचित और धोखाधड़ी वाले कृत्य और अभ्यास’ के अंतर्गत आएंगे ",
               "label": "लाइक्स की संख्या"
             },
             "link": {
@@ -2783,7 +2783,7 @@
           "option_2": "मूल"
         },
         "video_url": {
-          "info": "एक .mp4 वीडियो फाइल से सीधे लिंक का प्रयोग करें [यहाँ अधिक जानें](https://fluorescent.co/help/spark/video-hero#add-a-video).",
+          "info": "एक .mp4 वीडियो फाइल से सीधे लिंक का प्रयोग करें [यहाँ अधिक जानें](https:\/\/fluorescent.co\/help\/spark\/video-hero#add-a-video).",
           "label": "वीडियो का लिंक"
         }
       }
@@ -3008,7 +3008,7 @@
           "label": "चिप्स के लिए प्रकारों के विकल्प"
         },
         "custom_swatch_colors": {
-          "info": "प्रति पंक्ति एक रंग जोड़ें। कोलन और हेक्स कोड के बाद बिल्कुल वैरिएंट विकल्प नाम दर्ज करें। उदा: \"स्काई ब्लू: #87CEEB\"। [अधिक जानें](http://fluorescent.co/help/stiletto/swatches)",
+          "info": "प्रति पंक्ति एक रंग जोड़ें। कोलन और हेक्स कोड के बाद बिल्कुल वैरिएंट विकल्प नाम दर्ज करें। उदा: \"स्काई ब्लू: #87CEEB\"। [अधिक जानें](http:\/\/fluorescent.co\/help\/stiletto\/swatches)",
           "label": "कस्टम नमूना रंग"
         },
         "enable_dynamic_product_options": {
@@ -3057,7 +3057,7 @@
           "label": "होवर पर द्वितीयक छवि दिखाएं"
         },
         "show_swatches_and_chips": {
-          "info": "कर्सर घुमाने पर उत्पाद के विकल्प दिखाएँ। स्वाच और चिप्स सेट-अप करने के बारे में अधिक जानने के लिए, हमारे [दस्तावेज़](https://fluorescent.co/help/spark/product-pages#set-up-product-chips) देखें।",
+          "info": "कर्सर घुमाने पर उत्पाद के विकल्प दिखाएँ। स्वाच और चिप्स सेट-अप करने के बारे में अधिक जानने के लिए, हमारे [दस्तावेज़](https:\/\/fluorescent.co\/help\/spark\/product-pages#set-up-product-chips) देखें।",
           "label": "स्वाच और चिप्स दिखाएँ"
         }
       }
@@ -3083,43 +3083,43 @@
           "content": "खाता लिंक"
         },
         "social_facebook_link": {
-          "info": "https://facebook.com/shopify",
+          "info": "https:\/\/facebook.com\/shopify",
           "label": "फेसबुक लिंक"
         },
         "social_instagram_link": {
-          "info": "https://www.instagram.com/shopify/",
+          "info": "https:\/\/www.instagram.com\/shopify\/",
           "label": "Instagram लिंक"
         },
         "social_linkedin_link": {
-          "info": "https://linkedin.com/company/shopify",
+          "info": "https:\/\/linkedin.com\/company\/shopify",
           "label": "लिंक्डइन लिंक"
         },
         "social_pinterest_link": {
-          "info": "https://pinterest.com/shopify",
+          "info": "https:\/\/pinterest.com\/shopify",
           "label": "पिन्टेरेस्ट लिंक"
         },
         "social_snapchat_link": {
-          "info": "https://snapchat.com/add/shopify",
+          "info": "https:\/\/snapchat.com\/add\/shopify",
           "label": "स्नैपचैट लिंक"
         },
         "social_tiktok_link": {
-          "info": "https://tiktok.com/@shopify",
+          "info": "https:\/\/tiktok.com\/@shopify",
           "label": "टिकटॉक लिंक"
         },
         "social_tumblr_link": {
-          "info": "https://shopify.tumblr.com",
+          "info": "https:\/\/shopify.tumblr.com",
           "label": "टम्बलर लिंक"
         },
         "social_twitter_link": {
-          "info": "https://twitter.com/shopify",
+          "info": "https:\/\/twitter.com\/shopify",
           "label": "ट्विटर लिंक"
         },
         "social_vimeo_link": {
-          "info": "https://vimeo.com/shopify",
+          "info": "https:\/\/vimeo.com\/shopify",
           "label": "वीमियो लिंक"
         },
         "social_youtube_link": {
-          "info": "https://youtube.com/shopify",
+          "info": "https:\/\/youtube.com\/shopify",
           "label": "यूट्यूब लिंक"
         }
       }
@@ -3419,11 +3419,11 @@
         },
         "header__country": {
           "content": "देश चयनकर्ता",
-          "info": "किसी देश को जोड़ने के लिए, अपनी [बाजार सेटिंग] (/व्यवस्थापक/सेटिंग्स/बाजार) पर जाएं।"
+          "info": "किसी देश को जोड़ने के लिए, अपनी [बाजार सेटिंग] (\/व्यवस्थापक\/सेटिंग्स\/बाजार) पर जाएं।"
         },
         "header__language": {
           "content": "भाषा चयनकर्ता",
-          "info": "कोई भाषा जोड़ने के लिए, अपनी [भाषा सेटिंग] (/व्यवस्थापक/सेटिंग्स/भाषाएं) पर जाएं।"
+          "info": "कोई भाषा जोड़ने के लिए, अपनी [भाषा सेटिंग] (\/व्यवस्थापक\/सेटिंग्स\/भाषाएं) पर जाएं।"
         }
       },
       "header__color": {

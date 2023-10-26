@@ -1,1 +1,606 @@
-{"sections":{"bffda630-a0d6-46aa-aa3f-7f49a17541b9":{"type":"video-hero","blocks":{"template--16189917036712__bffda630-a0d6-46aa-aa3f-7f49a17541b9-heading-1":{"type":"heading","settings":{"title":"Next-gen Furniture","heading_text_size":48,"text_max_width":60}},"template--16189917036712__bffda630-a0d6-46aa-aa3f-7f49a17541b9-subheading-1":{"type":"subheading","settings":{"subheading":"<p>Crafted with Precision, Inspired by Tomorrow<\/p>","text_max_width":40}}},"block_order":["template--16189917036712__bffda630-a0d6-46aa-aa3f-7f49a17541b9-heading-1","template--16189917036712__bffda630-a0d6-46aa-aa3f-7f49a17541b9-subheading-1"],"custom_css":["@media screen and (max-width: 768px) {.video-hero__video-wrapper {display: none; }}"],"settings":{"video_aspect":"custom","desktop_height":100,"mobile_height":90,"video_url":"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/f2e96c2f02b8451393628f949738863e.mp4","alignment":"left_center","overlay_shadow":20,"color_text":"#ffffff","color_background_button":"#ffffff","color_text_button":"#181818","color_overlay":"#000000","color_overlay_gradient":"","overlay_opacity":30,"enable_animation":true}},"3a8ef3e1-78ca-487e-b869-d31023c345ce":{"type":"video-hero","blocks":{"92abf2c4-6f5f-4158-98a3-8d4783f2f77b":{"type":"heading","settings":{"title":"Next-gen Furniture","heading_text_size":48,"text_max_width":60}},"fb8b8cd6-2aee-4379-9435-d8778fa8eed5":{"type":"subheading","settings":{"subheading":"<p>Crafted with Precision, Inspired by Tomorrow<\/p>","text_max_width":40}}},"block_order":["92abf2c4-6f5f-4158-98a3-8d4783f2f77b","fb8b8cd6-2aee-4379-9435-d8778fa8eed5"],"custom_css":["@media screen and (min-width: 768px) {.video-hero__video-wrapper {display: none; }}"],"settings":{"video_aspect":"custom","desktop_height":100,"mobile_height":100,"video_url":"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/82480b9fae754ada9feebec802ab242a.mp4","alignment":"left_center","overlay_shadow":20,"color_text":"#ffffff","color_background_button":"#ffffff","color_text_button":"#181818","color_overlay":"#000000","color_overlay_gradient":"","overlay_opacity":30,"enable_animation":true}},"22b38c6c-128c-4a91-b4e1-8854bfb7bad0":{"type":"collection-list","blocks":{"template--16189917036712__22b38c6c-128c-4a91-b4e1-8854bfb7bad0-collection-1":{"type":"collection","settings":{"collection":"techna-value","subheading":"","text_max_width":42}},"template--16189917036712__22b38c6c-128c-4a91-b4e1-8854bfb7bad0-collection-2":{"type":"collection","settings":{"collection":"techna-enhanced","subheading":"","text_max_width":42}},"template--16189917036712__22b38c6c-128c-4a91-b4e1-8854bfb7bad0-collection-3":{"type":"collection","settings":{"collection":"techna-galaxy","subheading":"","text_max_width":42}}},"block_order":["template--16189917036712__22b38c6c-128c-4a91-b4e1-8854bfb7bad0-collection-1","template--16189917036712__22b38c6c-128c-4a91-b4e1-8854bfb7bad0-collection-2","template--16189917036712__22b38c6c-128c-4a91-b4e1-8854bfb7bad0-collection-3"],"custom_css":["a {font-size: var(--font-size-heading-2-base);}",".hover .image img {transition: none; transform: none;}"],"settings":{"columns":3,"title":"","subheading":"","text_max_width":30,"aspect_ratio":"natural","enable_animation":true,"section_contrast":false,"section_padding":"section--vertical-padding-top-bottom","padding_amount":"0.5"}},"14623fde-2497-4af8-8e57-d140999eea7f":{"type":"inline-features","blocks":{"template--16189917036712__14623fde-2497-4af8-8e57-d140999eea7f-feature-1":{"type":"feature","settings":{"show_image":true,"image":"shopify:\/\/shop_images\/custom.png","heading":"Customization","subheading":"<p>Material, color, layout and way beyond.<\/p>","text_max_width":42}},"template--16189917036712__14623fde-2497-4af8-8e57-d140999eea7f-feature-2":{"type":"feature","settings":{"show_image":true,"image":"shopify:\/\/shop_images\/next-gen.png","heading":"Next-gen Tech","subheading":"<p>Cutting-edge elements at your fingertip<\/p>","text_max_width":42}},"template--16189917036712__14623fde-2497-4af8-8e57-d140999eea7f-feature-3":{"type":"feature","settings":{"show_image":true,"image":"shopify:\/\/shop_images\/package.png","heading":"Order Care","subheading":"<p>Ensuring a seamless journey for every order<\/p>","text_max_width":42}}},"block_order":["template--16189917036712__14623fde-2497-4af8-8e57-d140999eea7f-feature-1","template--16189917036712__14623fde-2497-4af8-8e57-d140999eea7f-feature-2","template--16189917036712__14623fde-2497-4af8-8e57-d140999eea7f-feature-3"],"settings":{"columns":3,"image_shape":"square","text_alignment":"left","enable_animation":true,"section_contrast":true,"section_padding":"section--vertical-padding-top-bottom","padding_amount":"0.5"}},"9eff5816-f397-44f9-86f5-9a63c5bf114b":{"type":"rich-text","blocks":{"template--16189917036712__9eff5816-f397-44f9-86f5-9a63c5bf114b-heading-1":{"type":"heading","settings":{"title":"Next-Gen Furniture - Redefining Comfort and Technology.","text_max_width":48}}},"block_order":["template--16189917036712__9eff5816-f397-44f9-86f5-9a63c5bf114b-heading-1"],"settings":{"enable_animation":true,"section_contrast":false,"section_padding":"section--vertical-padding-top-bottom","padding_amount":"1.0"}},"text-columns-with-images":{"type":"text-columns-with-images","blocks":{"column-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/leather_and_wood_3.png","heading":"Top-tier Material","subheading":"<p>Unparalleled quality for exceptional performance<\/p>","text_max_width":24,"link":"","link_text":"Read more"}},"column-2":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/wood-carving_2.png","heading":"Expertise Handmade","subheading":"<p>Meticulously crafted by skilled artisans for perfection<\/p>","text_max_width":42,"link":"","link_text":"Read more"}},"column-3":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/customer-care_2.png","heading":"Worry-free Support","subheading":"<p>Seamless support always here to help<\/p>","text_max_width":42,"link":"","link_text":"Read more"}},"column-4":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/truck_2.png","heading":"Shipping Nationwide","subheading":"<p>Flat rate shipping over 48 states<\/p>","text_max_width":42,"link":"","link_text":"Read more"}}},"block_order":["column-1","column-2","column-3","column-4"],"custom_css":[".text-columns-with-images__item-image.animation-fade-up-reveal.animation-initialized {width: 64px; height: 64px;}"],"settings":{"columns":4,"image_shape":"square","text_alignment":"center","enable_animation":true,"section_contrast":true,"section_padding":"section--vertical-padding-top-bottom","padding_amount":"0.5"}},"f487009f-6800-4a92-9239-c79db91e8ac1":{"type":"image-with-text","blocks":{"template--16189917036712__f487009f-6800-4a92-9239-c79db91e8ac1-1688060369bdcd8129-0":{"type":"heading","settings":{"title":"Ready to Ship","text_max_width":32}},"template--16189917036712__f487009f-6800-4a92-9239-c79db91e8ac1-1688060369bdcd8129-1":{"type":"subheading","settings":{"subheading":"<p> Immediately available. Less waiting time.<\/p>","text_max_width":32}},"9a33b333-471f-481d-b4eb-1310780c8af0":{"type":"button","settings":{"link":"shopify:\/\/collections\/ready-to-ship","link_text":"Shop Now"}}},"block_order":["template--16189917036712__f487009f-6800-4a92-9239-c79db91e8ac1-1688060369bdcd8129-0","template--16189917036712__f487009f-6800-4a92-9239-c79db91e8ac1-1688060369bdcd8129-1","9a33b333-471f-481d-b4eb-1310780c8af0"],"settings":{"image_1":"shopify:\/\/shop_images\/19_14c36919-7955-40b3-a182-694d394c74b1.jpg","image_position":"right","image_width":"half","aspect_ratio":"natural","text_alignment":"left","enable_animation":true,"section_contrast":false,"section_padding":"section--vertical-padding-top-bottom","padding_amount":"0.5"}},"0bf6e9ac-5c88-4df8-8c52-f670b56704f2":{"type":"image-with-text","blocks":{"template--16189917036712__0bf6e9ac-5c88-4df8-8c52-f670b56704f2-1688060369bdcd8129-0":{"type":"heading","settings":{"title":"Make to Order","text_max_width":32}},"template--16189917036712__0bf6e9ac-5c88-4df8-8c52-f670b56704f2-1688060369bdcd8129-1":{"type":"subheading","settings":{"subheading":"<p>Customized products crafted upon your dream.<\/p>","text_max_width":32}},"e2e7e321-242d-4d1d-a271-e47c53e1c9a7":{"type":"button","settings":{"link":"shopify:\/\/pages\/make-to-order","link_text":"Design Now"}}},"block_order":["template--16189917036712__0bf6e9ac-5c88-4df8-8c52-f670b56704f2-1688060369bdcd8129-0","template--16189917036712__0bf6e9ac-5c88-4df8-8c52-f670b56704f2-1688060369bdcd8129-1","e2e7e321-242d-4d1d-a271-e47c53e1c9a7"],"settings":{"image_1":"shopify:\/\/shop_images\/13_c4f757c0-73b3-4278-8f0d-839dbe2e1e2e.jpg","image_position":"left","image_width":"half","aspect_ratio":"natural","text_alignment":"left","enable_animation":true,"section_contrast":false,"section_padding":"section--vertical-padding-top-bottom","padding_amount":"0.5"}},"235be5f1-53c1-48d7-ad85-f440910c6aa6":{"type":"slideshow","blocks":{"template--16260115136680__235be5f1-53c1-48d7-ad85-f440910c6aa6-slide-2":{"type":"slide","settings":{"desktop_image":"shopify:\/\/shop_images\/inspriation_slide.png","focal_point":"image_presentation","mobile_focal_point":"image_presentation","title":"Techna Idea","subheading":"<p>See our ideas in next-gen sectionals<\/p>","heading_text_size":64,"overlay_shadow":10,"max_width_subheading":40,"link_text":"EXPLORE","link":"shopify:\/\/blogs\/space-inspiration","alignment":"center_top","color_text":"#ffffff","color_text_button":"#181818","color_background_button":"#ffffff","color_overlay":"#000000","color_overlay_gradient":"","overlay_opacity":0}}},"block_order":["template--16260115136680__235be5f1-53c1-48d7-ad85-f440910c6aa6-slide-2"],"settings":{"image_aspect":"custom","desktop_height":100,"mobile_height":100,"duration_autoplay":6,"color_dot":"#ffffff","enable_animation":true}},"862e7ad1-6951-4e99-8784-1c537d1cd02a":{"type":"questions","blocks":{"template--16189917036712__862e7ad1-6951-4e99-8784-1c537d1cd02a-1688577187b5aff2b2-0":{"type":"question","settings":{"title":"What is next-gen furniture?","answer":"<p>Next-gen furniture, as envisioned by Techna, represents the pinnacle of ultramodern design, offering unparalleled customization options and cutting-edge features. It embodies a seamless fusion of sophistication and technology, allowing customers to tailor their furniture to their unique preferences and elevate their living spaces to the future of comfort and style.<\/p>","author":""}},"template--16189917036712__862e7ad1-6951-4e99-8784-1c537d1cd02a-1688577187b5aff2b2-1":{"type":"question","settings":{"title":"How can I custom my sectionals?","answer":"<p>Customizing your sectionals is a breeze with Techna! Simply explore our 'Make to Order' collection and select your desired sectional. From there, you can personalize every aspect, including layout, material, colors, and additional features, tailoring your sectional to suit your unique style and preferences. Our expert design team is also available to assist you in creating a sectional that truly reflects your vision. Transform your home with personalized luxury – start customizing your sectionals today!<\/p>","author":""}},"template--16189917036712__862e7ad1-6951-4e99-8784-1c537d1cd02a-1688577187b5aff2b2-2":{"type":"question","settings":{"title":"What is the shipping time?","answer":"<p>Custom orders take about 8–12 weeks to arrive at our warehouse and 2–4 weeks for delivery from the date they are picked up by the carrier. In-stock orders take around 5–14 business days for processing and 2–4 weeks for delivery from the date that they are shipped out from our warehouse.<\/p>","author":""}},"template--16189917036712__862e7ad1-6951-4e99-8784-1c537d1cd02a-1688577187b5aff2b2-3":{"type":"question","settings":{"title":"Does TECHNA have showroom?","answer":"<p>Our showroom is located in Las Vegas, Nevada.<\/p>","author":""}}},"block_order":["template--16189917036712__862e7ad1-6951-4e99-8784-1c537d1cd02a-1688577187b5aff2b2-0","template--16189917036712__862e7ad1-6951-4e99-8784-1c537d1cd02a-1688577187b5aff2b2-1","template--16189917036712__862e7ad1-6951-4e99-8784-1c537d1cd02a-1688577187b5aff2b2-2","template--16189917036712__862e7ad1-6951-4e99-8784-1c537d1cd02a-1688577187b5aff2b2-3"],"settings":{"section_title":"Questions","subheading":"","enable_animation":true,"section_contrast":true,"section_padding":"section--vertical-padding-top-bottom","padding_amount":"0.5"}},"d4ba04f2-004d-49fe-89f7-8af749e511c1":{"type":"rich-text","blocks":{"template--16260115136680__d4ba04f2-004d-49fe-89f7-8af749e511c1-heading-1":{"type":"heading","settings":{"title":"Customer Love","text_max_width":42}}},"block_order":["template--16260115136680__d4ba04f2-004d-49fe-89f7-8af749e511c1-heading-1"],"settings":{"enable_animation":true,"section_contrast":false,"section_padding":"section--vertical-padding-top-bottom","padding_amount":"1.0"}},"08162d92-e15f-4e89-b8c8-1d57130df531":{"type":"custom-liquid","settings":{"custom_liquid":"<div class=\"robin-pro\" id=\"8465b889-c211-470e-b32e-38c7c746adc6\"><\/div>"}},"be7a9b53-33f3-475f-ab4c-8f3af3927feb":{"type":"mosaic-grid","blocks":{"template--16189917036712__be7a9b53-33f3-475f-ab4c-8f3af3927feb-medium_square-1":{"type":"medium_square","settings":{"image":"shopify:\/\/shop_images\/Bayard_Black_White.jpg","video_url":"","media_fit":"cover","focal_point":"image_presentation","title":"","subheading":"","text_max_width":32,"link_text":"","link":"shopify:\/\/pages\/customer-gallery","text_position":"center_center","background_color":"","color_text":"#ffffff","color_text_button":"#181818","color_background_button":"#ffffff","color_text_container":"","overlay_color":"#000000","color_overlay_gradient":"","overlay_opacity":0}},"template--16189917036712__be7a9b53-33f3-475f-ab4c-8f3af3927feb-small_square-1":{"type":"small_square","settings":{"image":"shopify:\/\/shop_images\/Sahara_White_Black.jpg","video_url":"","media_fit":"cover","focal_point":"image_presentation","background_color":"","overlay_color":"#000000","color_overlay_gradient":"","overlay_opacity":0}},"template--16189917036712__be7a9b53-33f3-475f-ab4c-8f3af3927feb-medium_vertical_rect-1":{"type":"medium_vertical_rect","settings":{"image":"shopify:\/\/shop_images\/Lisa_White_Black.jpg","video_url":"","media_fit":"cover","focal_point":"image_presentation","title":"","subheading":"","text_max_width":24,"link_text":"View Customer Gallery","link":"shopify:\/\/pages\/customer-gallery","text_position":"center_center","background_color":"","color_text":"#ffffff","color_text_button":"#181818","color_background_button":"#ffffff","color_text_container":"","overlay_color":"#000000","color_overlay_gradient":"","overlay_opacity":0}},"template--16189917036712__be7a9b53-33f3-475f-ab4c-8f3af3927feb-medium_horizontal_rect-1":{"type":"medium_horizontal_rect","settings":{"image":"shopify:\/\/shop_images\/Keenan_Grey_White.jpg","video_url":"","media_fit":"cover","focal_point":"image_presentation","title":"","subheading":"","text_max_width":28,"link_text":"","link":"","text_position":"center_center","background_color":"","color_text":"#ffffff","color_text_button":"#181818","color_background_button":"#ffffff","color_text_container":"","overlay_color":"#000000","color_overlay_gradient":"","overlay_opacity":0}}},"block_order":["template--16189917036712__be7a9b53-33f3-475f-ab4c-8f3af3927feb-medium_square-1","template--16189917036712__be7a9b53-33f3-475f-ab4c-8f3af3927feb-small_square-1","template--16189917036712__be7a9b53-33f3-475f-ab4c-8f3af3927feb-medium_vertical_rect-1","template--16189917036712__be7a9b53-33f3-475f-ab4c-8f3af3927feb-medium_horizontal_rect-1"],"disabled":true,"settings":{"title":"Customer Love","subheading":"","text_max_width":42,"enable_animation":true,"section_contrast":false,"section_padding":"section--vertical-padding-top-bottom","padding_amount":"1.0"}},"1c653ceb-12ad-4753-b43a-89c4dc78fb6f":{"type":"testimonials","blocks":{"template--16189917036712__1c653ceb-12ad-4753-b43a-89c4dc78fb6f-1688060858cf8b40e2-1":{"type":"testimonial","settings":{"heading":"","testimonial":"<p>\"The attention to detail and quality of craftsmanship is outstanding. Techna Sofa truly delivers on their promise of creating unique, modern furniture.\" <\/p>","author":"David T.","text_max_width":48}},"template--16189917036712__1c653ceb-12ad-4753-b43a-89c4dc78fb6f-1688060858cf8b40e2-0":{"type":"testimonial","settings":{"heading":"","testimonial":"<p>\"Absolutely love my customized Techna Sofa sectional! The futuristic design and added features have exceeded my expectations.\" <\/p>","author":"Sarah H.","text_max_width":48}},"template--16189917036712__1c653ceb-12ad-4753-b43a-89c4dc78fb6f-1688060858cf8b40e2-2":{"type":"testimonial","settings":{"heading":"","testimonial":"<p>\"I'm in awe of my Techna Sofa sectional! The futuristic design perfectly complements my modern living room. The Cup Holders and USB Ports add a touch of convenience that I can't live without.\"<\/p>","author":"Emily T.","text_max_width":48}}},"block_order":["template--16189917036712__1c653ceb-12ad-4753-b43a-89c4dc78fb6f-1688060858cf8b40e2-1","template--16189917036712__1c653ceb-12ad-4753-b43a-89c4dc78fb6f-1688060858cf8b40e2-0","template--16189917036712__1c653ceb-12ad-4753-b43a-89c4dc78fb6f-1688060858cf8b40e2-2"],"settings":{"columns":3,"title":"Discover what our satisfied customers say","subheading":"","text_alignment":"left","enable_animation":true,"section_contrast":true,"section_padding":"section--vertical-padding-top-bottom","padding_amount":"0.5"}},"5082c769-d4d0-4e36-a3a0-1e4f9f1019ee":{"type":"custom-liquid","settings":{"custom_liquid":""}}},"order":["bffda630-a0d6-46aa-aa3f-7f49a17541b9","3a8ef3e1-78ca-487e-b869-d31023c345ce","22b38c6c-128c-4a91-b4e1-8854bfb7bad0","14623fde-2497-4af8-8e57-d140999eea7f","9eff5816-f397-44f9-86f5-9a63c5bf114b","text-columns-with-images","f487009f-6800-4a92-9239-c79db91e8ac1","0bf6e9ac-5c88-4df8-8c52-f670b56704f2","235be5f1-53c1-48d7-ad85-f440910c6aa6","862e7ad1-6951-4e99-8784-1c537d1cd02a","d4ba04f2-004d-49fe-89f7-8af749e511c1","08162d92-e15f-4e89-b8c8-1d57130df531","be7a9b53-33f3-475f-ab4c-8f3af3927feb","1c653ceb-12ad-4753-b43a-89c4dc78fb6f","5082c769-d4d0-4e36-a3a0-1e4f9f1019ee"]}
+{
+  "sections": {
+    "6af3d1ae-bb9c-4521-b194-ed0bd885e950": {
+      "type": "video-hero2",
+      "blocks": {
+        "template--16341897773224__6af3d1ae-bb9c-4521-b194-ed0bd885e950-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Techna Galaxy",
+            "heading_text_size": 64,
+            "text_max_width": 40
+          }
+        },
+        "template--16341897773224__6af3d1ae-bb9c-4521-b194-ed0bd885e950-subheading-1": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<p>High-tech sectionals starting from $3000<\/p>",
+            "text_max_width": 40
+          }
+        },
+        "81fef43b-857b-4485-8343-92903ed540be": {
+          "type": "button",
+          "settings": {
+            "link_text": "Shop Now",
+            "link": "shopify:\/\/collections\/techna-galaxy",
+            "link_text2": "View Gallery",
+            "link2": "shopify:\/\/pages\/techna-galaxy"
+          }
+        }
+      },
+      "block_order": [
+        "template--16341897773224__6af3d1ae-bb9c-4521-b194-ed0bd885e950-heading-1",
+        "template--16341897773224__6af3d1ae-bb9c-4521-b194-ed0bd885e950-subheading-1",
+        "81fef43b-857b-4485-8343-92903ed540be"
+      ],
+      "settings": {
+        "video_aspect": "custom",
+        "desktop_height": 100,
+        "mobile_height": 100,
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/f2e96c2f02b8451393628f949738863e.mp4",
+        "video_url2": "",
+        "color_text": "#ffffff",
+        "overlay_opacity": 30,
+        "enable_animation": true
+      }
+    },
+    "22b38c6c-128c-4a91-b4e1-8854bfb7bad0": {
+      "type": "collection-list",
+      "blocks": {
+        "template--16189917036712__22b38c6c-128c-4a91-b4e1-8854bfb7bad0-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "techna-value",
+            "subheading": "",
+            "text_max_width": 42
+          }
+        },
+        "template--16189917036712__22b38c6c-128c-4a91-b4e1-8854bfb7bad0-collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "techna-enhanced",
+            "subheading": "",
+            "text_max_width": 42
+          }
+        },
+        "template--16189917036712__22b38c6c-128c-4a91-b4e1-8854bfb7bad0-collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "techna-galaxy",
+            "subheading": "",
+            "text_max_width": 42
+          }
+        }
+      },
+      "block_order": [
+        "template--16189917036712__22b38c6c-128c-4a91-b4e1-8854bfb7bad0-collection-1",
+        "template--16189917036712__22b38c6c-128c-4a91-b4e1-8854bfb7bad0-collection-2",
+        "template--16189917036712__22b38c6c-128c-4a91-b4e1-8854bfb7bad0-collection-3"
+      ],
+      "custom_css": [
+        "a {font-size: var(--font-size-heading-2-base);}",
+        ".hover .image img {transition: none; transform: none;}"
+      ],
+      "settings": {
+        "columns": 3,
+        "title": "",
+        "subheading": "",
+        "text_max_width": 30,
+        "aspect_ratio": "natural",
+        "enable_animation": true,
+        "section_contrast": false,
+        "section_padding": "section--vertical-padding-top-bottom",
+        "padding_amount": "0.5"
+      }
+    },
+    "14623fde-2497-4af8-8e57-d140999eea7f": {
+      "type": "inline-features",
+      "blocks": {
+        "template--16189917036712__14623fde-2497-4af8-8e57-d140999eea7f-feature-1": {
+          "type": "feature",
+          "settings": {
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/custom.png",
+            "heading": "Customization",
+            "subheading": "<p>Material, color, layout and way beyond.<\/p>",
+            "text_max_width": 42
+          }
+        },
+        "template--16189917036712__14623fde-2497-4af8-8e57-d140999eea7f-feature-2": {
+          "type": "feature",
+          "settings": {
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/next-gen.png",
+            "heading": "Next-gen Tech",
+            "subheading": "<p>Cutting-edge elements at your fingertip<\/p>",
+            "text_max_width": 42
+          }
+        },
+        "template--16189917036712__14623fde-2497-4af8-8e57-d140999eea7f-feature-3": {
+          "type": "feature",
+          "settings": {
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/package.png",
+            "heading": "Order Care",
+            "subheading": "<p>Ensuring a seamless journey for every order<\/p>",
+            "text_max_width": 42
+          }
+        }
+      },
+      "block_order": [
+        "template--16189917036712__14623fde-2497-4af8-8e57-d140999eea7f-feature-1",
+        "template--16189917036712__14623fde-2497-4af8-8e57-d140999eea7f-feature-2",
+        "template--16189917036712__14623fde-2497-4af8-8e57-d140999eea7f-feature-3"
+      ],
+      "settings": {
+        "columns": 3,
+        "image_shape": "square",
+        "text_alignment": "left",
+        "enable_animation": true,
+        "section_contrast": true,
+        "section_padding": "section--vertical-padding-top-bottom",
+        "padding_amount": "0.5"
+      }
+    },
+    "9eff5816-f397-44f9-86f5-9a63c5bf114b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16189917036712__9eff5816-f397-44f9-86f5-9a63c5bf114b-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Next-Gen Furniture - Redefining Comfort and Technology.",
+            "text_max_width": 48
+          }
+        }
+      },
+      "block_order": [
+        "template--16189917036712__9eff5816-f397-44f9-86f5-9a63c5bf114b-heading-1"
+      ],
+      "settings": {
+        "enable_animation": true,
+        "section_contrast": false,
+        "section_padding": "section--vertical-padding-top-bottom",
+        "padding_amount": "1.0"
+      }
+    },
+    "text-columns-with-images": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/leather_and_wood_3.png",
+            "heading": "Top-tier Material",
+            "subheading": "<p>Unparalleled quality for exceptional performance<\/p>",
+            "text_max_width": 24,
+            "link": "",
+            "link_text": "Read more"
+          }
+        },
+        "column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/wood-carving_2.png",
+            "heading": "Expertise Handmade",
+            "subheading": "<p>Meticulously crafted by skilled artisans for perfection<\/p>",
+            "text_max_width": 42,
+            "link": "",
+            "link_text": "Read more"
+          }
+        },
+        "column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/customer-care_2.png",
+            "heading": "Worry-free Support",
+            "subheading": "<p>Seamless support always here to help<\/p>",
+            "text_max_width": 42,
+            "link": "",
+            "link_text": "Read more"
+          }
+        },
+        "column-4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/truck_2.png",
+            "heading": "Shipping Nationwide",
+            "subheading": "<p>Flat rate shipping over 48 states<\/p>",
+            "text_max_width": 42,
+            "link": "",
+            "link_text": "Read more"
+          }
+        }
+      },
+      "block_order": [
+        "column-1",
+        "column-2",
+        "column-3",
+        "column-4"
+      ],
+      "custom_css": [
+        ".text-columns-with-images__item-image.animation-fade-up-reveal.animation-initialized {width: 64px; height: 64px;}"
+      ],
+      "settings": {
+        "columns": 4,
+        "image_shape": "square",
+        "text_alignment": "center",
+        "enable_animation": true,
+        "section_contrast": true,
+        "section_padding": "section--vertical-padding-top-bottom",
+        "padding_amount": "0.5"
+      }
+    },
+    "f487009f-6800-4a92-9239-c79db91e8ac1": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16189917036712__f487009f-6800-4a92-9239-c79db91e8ac1-1688060369bdcd8129-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Ready to Ship",
+            "text_max_width": 32
+          }
+        },
+        "template--16189917036712__f487009f-6800-4a92-9239-c79db91e8ac1-1688060369bdcd8129-1": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<p> Immediately available. Less waiting time.<\/p>",
+            "text_max_width": 32
+          }
+        },
+        "9a33b333-471f-481d-b4eb-1310780c8af0": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/collections\/ready-to-ship",
+            "link_text": "Shop Now"
+          }
+        }
+      },
+      "block_order": [
+        "template--16189917036712__f487009f-6800-4a92-9239-c79db91e8ac1-1688060369bdcd8129-0",
+        "template--16189917036712__f487009f-6800-4a92-9239-c79db91e8ac1-1688060369bdcd8129-1",
+        "9a33b333-471f-481d-b4eb-1310780c8af0"
+      ],
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/19_14c36919-7955-40b3-a182-694d394c74b1.jpg",
+        "image_position": "right",
+        "image_width": "half",
+        "aspect_ratio": "natural",
+        "text_alignment": "left",
+        "enable_animation": true,
+        "section_contrast": false,
+        "section_padding": "section--vertical-padding-top-bottom",
+        "padding_amount": "0.5"
+      }
+    },
+    "0bf6e9ac-5c88-4df8-8c52-f670b56704f2": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16189917036712__0bf6e9ac-5c88-4df8-8c52-f670b56704f2-1688060369bdcd8129-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Make to Order",
+            "text_max_width": 32
+          }
+        },
+        "template--16189917036712__0bf6e9ac-5c88-4df8-8c52-f670b56704f2-1688060369bdcd8129-1": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<p>Customized products crafted upon your dream.<\/p>",
+            "text_max_width": 32
+          }
+        },
+        "e2e7e321-242d-4d1d-a271-e47c53e1c9a7": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/pages\/make-to-order",
+            "link_text": "Design Now"
+          }
+        }
+      },
+      "block_order": [
+        "template--16189917036712__0bf6e9ac-5c88-4df8-8c52-f670b56704f2-1688060369bdcd8129-0",
+        "template--16189917036712__0bf6e9ac-5c88-4df8-8c52-f670b56704f2-1688060369bdcd8129-1",
+        "e2e7e321-242d-4d1d-a271-e47c53e1c9a7"
+      ],
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/13_c4f757c0-73b3-4278-8f0d-839dbe2e1e2e.jpg",
+        "image_position": "left",
+        "image_width": "half",
+        "aspect_ratio": "natural",
+        "text_alignment": "left",
+        "enable_animation": true,
+        "section_contrast": false,
+        "section_padding": "section--vertical-padding-top-bottom",
+        "padding_amount": "0.5"
+      }
+    },
+    "235be5f1-53c1-48d7-ad85-f440910c6aa6": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16260115136680__235be5f1-53c1-48d7-ad85-f440910c6aa6-slide-2": {
+          "type": "slide",
+          "settings": {
+            "desktop_image": "shopify:\/\/shop_images\/inspriation_slide.png",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "title": "Techna Idea",
+            "subheading": "<p>See our ideas in next-gen sectionals<\/p>",
+            "heading_text_size": 64,
+            "overlay_shadow": 10,
+            "max_width_subheading": 40,
+            "link_text": "EXPLORE",
+            "link": "shopify:\/\/blogs\/space-inspiration",
+            "alignment": "center_top",
+            "color_text": "#ffffff",
+            "color_text_button": "#181818",
+            "color_background_button": "#ffffff",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--16260115136680__235be5f1-53c1-48d7-ad85-f440910c6aa6-slide-2"
+      ],
+      "settings": {
+        "image_aspect": "custom",
+        "desktop_height": 100,
+        "mobile_height": 100,
+        "duration_autoplay": 6,
+        "color_dot": "#ffffff",
+        "enable_animation": true
+      }
+    },
+    "862e7ad1-6951-4e99-8784-1c537d1cd02a": {
+      "type": "questions",
+      "blocks": {
+        "template--16189917036712__862e7ad1-6951-4e99-8784-1c537d1cd02a-1688577187b5aff2b2-0": {
+          "type": "question",
+          "settings": {
+            "title": "What is next-gen furniture?",
+            "answer": "<p>Next-gen furniture, as envisioned by Techna, represents the pinnacle of ultramodern design, offering unparalleled customization options and cutting-edge features. It embodies a seamless fusion of sophistication and technology, allowing customers to tailor their furniture to their unique preferences and elevate their living spaces to the future of comfort and style.<\/p>",
+            "author": ""
+          }
+        },
+        "template--16189917036712__862e7ad1-6951-4e99-8784-1c537d1cd02a-1688577187b5aff2b2-1": {
+          "type": "question",
+          "settings": {
+            "title": "How can I custom my sectionals?",
+            "answer": "<p>Customizing your sectionals is a breeze with Techna! Simply explore our 'Make to Order' collection and select your desired sectional. From there, you can personalize every aspect, including layout, material, colors, and additional features, tailoring your sectional to suit your unique style and preferences. Our expert design team is also available to assist you in creating a sectional that truly reflects your vision. Transform your home with personalized luxury – start customizing your sectionals today!<\/p>",
+            "author": ""
+          }
+        },
+        "template--16189917036712__862e7ad1-6951-4e99-8784-1c537d1cd02a-1688577187b5aff2b2-2": {
+          "type": "question",
+          "settings": {
+            "title": "What is the shipping time?",
+            "answer": "<p>Custom orders take about 8–12 weeks to arrive at our warehouse and 2–4 weeks for delivery from the date they are picked up by the carrier. In-stock orders take around 5–14 business days for processing and 2–4 weeks for delivery from the date that they are shipped out from our warehouse.<\/p>",
+            "author": ""
+          }
+        },
+        "template--16189917036712__862e7ad1-6951-4e99-8784-1c537d1cd02a-1688577187b5aff2b2-3": {
+          "type": "question",
+          "settings": {
+            "title": "Does TECHNA have showroom?",
+            "answer": "<p>Our showroom is located in Las Vegas, Nevada.<\/p>",
+            "author": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16189917036712__862e7ad1-6951-4e99-8784-1c537d1cd02a-1688577187b5aff2b2-0",
+        "template--16189917036712__862e7ad1-6951-4e99-8784-1c537d1cd02a-1688577187b5aff2b2-1",
+        "template--16189917036712__862e7ad1-6951-4e99-8784-1c537d1cd02a-1688577187b5aff2b2-2",
+        "template--16189917036712__862e7ad1-6951-4e99-8784-1c537d1cd02a-1688577187b5aff2b2-3"
+      ],
+      "settings": {
+        "section_title": "Questions",
+        "subheading": "",
+        "enable_animation": true,
+        "section_contrast": true,
+        "section_padding": "section--vertical-padding-top-bottom",
+        "padding_amount": "0.5"
+      }
+    },
+    "d4ba04f2-004d-49fe-89f7-8af749e511c1": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16260115136680__d4ba04f2-004d-49fe-89f7-8af749e511c1-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Customer Love",
+            "text_max_width": 42
+          }
+        }
+      },
+      "block_order": [
+        "template--16260115136680__d4ba04f2-004d-49fe-89f7-8af749e511c1-heading-1"
+      ],
+      "settings": {
+        "enable_animation": true,
+        "section_contrast": false,
+        "section_padding": "section--vertical-padding-top-bottom",
+        "padding_amount": "1.0"
+      }
+    },
+    "08162d92-e15f-4e89-b8c8-1d57130df531": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"robin-pro\" id=\"8465b889-c211-470e-b32e-38c7c746adc6\"><\/div>"
+      }
+    },
+    "be7a9b53-33f3-475f-ab4c-8f3af3927feb": {
+      "type": "mosaic-grid",
+      "blocks": {
+        "template--16189917036712__be7a9b53-33f3-475f-ab4c-8f3af3927feb-medium_square-1": {
+          "type": "medium_square",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bayard_Black_White.jpg",
+            "video_url": "",
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "title": "",
+            "subheading": "",
+            "text_max_width": 32,
+            "link_text": "",
+            "link": "shopify:\/\/pages\/customer-gallery",
+            "text_position": "center_center",
+            "background_color": "",
+            "color_text": "#ffffff",
+            "color_text_button": "#181818",
+            "color_background_button": "#ffffff",
+            "color_text_container": "",
+            "overlay_color": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        },
+        "template--16189917036712__be7a9b53-33f3-475f-ab4c-8f3af3927feb-small_square-1": {
+          "type": "small_square",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sahara_White_Black.jpg",
+            "video_url": "",
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "background_color": "",
+            "overlay_color": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        },
+        "template--16189917036712__be7a9b53-33f3-475f-ab4c-8f3af3927feb-medium_vertical_rect-1": {
+          "type": "medium_vertical_rect",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Lisa_White_Black.jpg",
+            "video_url": "",
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "title": "",
+            "subheading": "",
+            "text_max_width": 24,
+            "link_text": "View Customer Gallery",
+            "link": "shopify:\/\/pages\/customer-gallery",
+            "text_position": "center_center",
+            "background_color": "",
+            "color_text": "#ffffff",
+            "color_text_button": "#181818",
+            "color_background_button": "#ffffff",
+            "color_text_container": "",
+            "overlay_color": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        },
+        "template--16189917036712__be7a9b53-33f3-475f-ab4c-8f3af3927feb-medium_horizontal_rect-1": {
+          "type": "medium_horizontal_rect",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Keenan_Grey_White.jpg",
+            "video_url": "",
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "title": "",
+            "subheading": "",
+            "text_max_width": 28,
+            "link_text": "",
+            "link": "",
+            "text_position": "center_center",
+            "background_color": "",
+            "color_text": "#ffffff",
+            "color_text_button": "#181818",
+            "color_background_button": "#ffffff",
+            "color_text_container": "",
+            "overlay_color": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--16189917036712__be7a9b53-33f3-475f-ab4c-8f3af3927feb-medium_square-1",
+        "template--16189917036712__be7a9b53-33f3-475f-ab4c-8f3af3927feb-small_square-1",
+        "template--16189917036712__be7a9b53-33f3-475f-ab4c-8f3af3927feb-medium_vertical_rect-1",
+        "template--16189917036712__be7a9b53-33f3-475f-ab4c-8f3af3927feb-medium_horizontal_rect-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Customer Love",
+        "subheading": "",
+        "text_max_width": 42,
+        "enable_animation": true,
+        "section_contrast": false,
+        "section_padding": "section--vertical-padding-top-bottom",
+        "padding_amount": "1.0"
+      }
+    },
+    "1c653ceb-12ad-4753-b43a-89c4dc78fb6f": {
+      "type": "testimonials",
+      "blocks": {
+        "template--16189917036712__1c653ceb-12ad-4753-b43a-89c4dc78fb6f-1688060858cf8b40e2-1": {
+          "type": "testimonial",
+          "settings": {
+            "heading": "",
+            "testimonial": "<p>\"The attention to detail and quality of craftsmanship is outstanding. Techna Sofa truly delivers on their promise of creating unique, modern furniture.\" <\/p>",
+            "author": "David T.",
+            "text_max_width": 48
+          }
+        },
+        "template--16189917036712__1c653ceb-12ad-4753-b43a-89c4dc78fb6f-1688060858cf8b40e2-0": {
+          "type": "testimonial",
+          "settings": {
+            "heading": "",
+            "testimonial": "<p>\"Absolutely love my customized Techna Sofa sectional! The futuristic design and added features have exceeded my expectations.\" <\/p>",
+            "author": "Sarah H.",
+            "text_max_width": 48
+          }
+        },
+        "template--16189917036712__1c653ceb-12ad-4753-b43a-89c4dc78fb6f-1688060858cf8b40e2-2": {
+          "type": "testimonial",
+          "settings": {
+            "heading": "",
+            "testimonial": "<p>\"I'm in awe of my Techna Sofa sectional! The futuristic design perfectly complements my modern living room. The Cup Holders and USB Ports add a touch of convenience that I can't live without.\"<\/p>",
+            "author": "Emily T.",
+            "text_max_width": 48
+          }
+        }
+      },
+      "block_order": [
+        "template--16189917036712__1c653ceb-12ad-4753-b43a-89c4dc78fb6f-1688060858cf8b40e2-1",
+        "template--16189917036712__1c653ceb-12ad-4753-b43a-89c4dc78fb6f-1688060858cf8b40e2-0",
+        "template--16189917036712__1c653ceb-12ad-4753-b43a-89c4dc78fb6f-1688060858cf8b40e2-2"
+      ],
+      "settings": {
+        "columns": 3,
+        "title": "Discover what our satisfied customers say",
+        "subheading": "",
+        "text_alignment": "left",
+        "enable_animation": true,
+        "section_contrast": true,
+        "section_padding": "section--vertical-padding-top-bottom",
+        "padding_amount": "0.5"
+      }
+    },
+    "5082c769-d4d0-4e36-a3a0-1e4f9f1019ee": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": ""
+      }
+    }
+  },
+  "order": [
+    "6af3d1ae-bb9c-4521-b194-ed0bd885e950",
+    "22b38c6c-128c-4a91-b4e1-8854bfb7bad0",
+    "14623fde-2497-4af8-8e57-d140999eea7f",
+    "9eff5816-f397-44f9-86f5-9a63c5bf114b",
+    "text-columns-with-images",
+    "f487009f-6800-4a92-9239-c79db91e8ac1",
+    "0bf6e9ac-5c88-4df8-8c52-f670b56704f2",
+    "235be5f1-53c1-48d7-ad85-f440910c6aa6",
+    "862e7ad1-6951-4e99-8784-1c537d1cd02a",
+    "d4ba04f2-004d-49fe-89f7-8af749e511c1",
+    "08162d92-e15f-4e89-b8c8-1d57130df531",
+    "be7a9b53-33f3-475f-ab4c-8f3af3927feb",
+    "1c653ceb-12ad-4753-b43a-89c4dc78fb6f",
+    "5082c769-d4d0-4e36-a3a0-1e4f9f1019ee"
+  ]
+}

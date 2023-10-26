@@ -26,6 +26,12 @@
   endif
 -%}
 <style>
+  //
+  @media (min-width: 45em){ 
+    .video-hero--video-aspect-custom .video-hero__video-wrapper {
+      padding-top: calc(var(--desktop-height));
+  }
+  }
   .video-hero__content-inner-newDesign{
     display:flex;
     flex-direction: column;

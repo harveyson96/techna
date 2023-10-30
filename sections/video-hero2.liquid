@@ -28,6 +28,10 @@
   endif
 -%}
 <style>
+    section:not(.visible) .content {
+     opacity: 0;
+  }
+
   @media (min-width: 45em){ 
     .video-hero__video-wrapper {
       padding-top: calc(var(--desktop-height)) !important;

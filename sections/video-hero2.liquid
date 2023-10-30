@@ -28,6 +28,22 @@
   endif
 -%}
 <style>
+    section {
+     min-height: 100vh;
+     scroll-snap-align: start;
+     background-size: cover;
+     background-position: center;
+     display: flex;
+     padding: calc(3rem + 10vh) 1.5rem 5rem;
+  }
+  
+  section .video-hero {
+     flex-grow: 1;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     transition: opacity .8s .3s;
+  }
     section:not(.visible) .video-hero {
      opacity: 0;
   }

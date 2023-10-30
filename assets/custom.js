@@ -1,6 +1,6 @@
 
 // Scroll animation
-// let sections = document.querySelectorAll('.main section');
+let sections = document.querySelectorAll('.main section');
 console.log('get in custom.js')
 function callback(entries) {
    entries.forEach(entry => {

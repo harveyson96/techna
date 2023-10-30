@@ -16,7 +16,7 @@ function callback(entries) {
 if (window.IntersectionObserver) {
     var observer = new IntersectionObserver(callback, {
       root: null,
-      rootMargin: '-50% 0px -50% 0px',
+      threshold: [0.5, 1],
    });
 
    sections.forEach(section => observer.observe(section));

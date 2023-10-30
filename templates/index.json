@@ -77,6 +77,7 @@
         "376023b6-cd6e-4d66-9e8b-ac8d8f666a5b",
         "3759061a-0300-4808-b638-a906a95e43f4"
       ],
+      "disabled": true,
       "settings": {
         "video_aspect": "custom",
         "desktop_height": 100,

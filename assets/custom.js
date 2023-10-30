@@ -1,7 +1,6 @@
 
 // Scroll animation
 var sections = document.querySelectorAll('.main section');
-console.log('get in custom.js')
 function callback(entries) {
    entries.forEach(entry => {
       if (entry.isIntersecting) {
@@ -16,7 +15,7 @@ function callback(entries) {
 
 if (window.IntersectionObserver) {
     var observer = new IntersectionObserver(callback, {
-      root: document.querySelector('.main'),
+      root: null,
       rootMargin: '-50% 0px -50% 0px',
    });
 

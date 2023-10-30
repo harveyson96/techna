@@ -1,7 +1,7 @@
 
 // Scroll animation
 const sections = document.querySelectorAll('.main section');
-
+console.log('get in custom.js')
 function callback(entries) {
    entries.forEach(entry => {
       if (entry.isIntersecting) {

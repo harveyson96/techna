@@ -1,6 +1,6 @@
 
 // Scroll animation
-const sections = document.querySelectorAll('.container section');
+const sections = document.querySelectorAll('.main section');
 
 function callback(entries) {
    entries.forEach(entry => {
@@ -14,7 +14,7 @@ function callback(entries) {
 
 if (window.IntersectionObserver) {
    const observer = new IntersectionObserver(callback, {
-      root: document.querySelector('.container'),
+      root: document.querySelector('.main'),
       rootMargin: '-50% 0px -50% 0px',
    });
 

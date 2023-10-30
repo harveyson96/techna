@@ -6,8 +6,10 @@ function callback(entries) {
    entries.forEach(entry => {
       if (entry.isIntersecting) {
          entry.target.classList.add('visible');
+        console.log('visible')
       } else {
          entry.target.classList.remove('visible');
+         console.log('invisible')
       }
    });
 }

@@ -123,7 +123,7 @@
 
       ],
       "settings": {
-        "custom_liquid": "{% if product.metafields.custom.gallery%}\n\n<div class=\"section\">\n<h2 style=\"text-align:center\">Customer Gallery<\/h2>\n<div class=\"section__inner\"\n{{product.metafields.custom.gallery}}\n<\/div>\n<div style=\"text-align:center\"> More pictures coming up <\/div>\n<\/div>\n\n{% endif %}"
+        "custom_liquid": "{% if product.metafields.custom.gallery%}\n\n<div class=\"section\">\n<h2 style=\"text-align:center\">Customer Gallery<\/h2>\n<div class=\"section__inner\">\n{{product.metafields.custom.gallery}}\n<\/div>\n<div style=\"text-align:center\"> More pictures coming up <\/div>\n<\/div>\n\n{% endif %}"
       }
     },
     "8df888c0-0fc0-410b-8df7-e1e492471566": {

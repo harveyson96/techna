@@ -111,6 +111,12 @@
         "enable_gift_card_recipient": true
       }
     },
+    "22c00209-f5a7-44dd-b682-1e3f4b8853d1": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "{% if product.metafields.custom.gallery%}\n\n<div class=\"section\">\n<h2 style=\"text-align:center\">Customer Gallery<\/h2>\n<div class=\"section__inner\"\n{{product.metafields.custom.gallery}}\n<\/div>\n<div style=\"text-align:center\"> More pictures coming up <\/div>\n<\/div>\n\n{% endif %}"
+      }
+    },
     "323ae60f-9647-4d0e-9078-144d9c30c904": {
       "type": "video-hero",
       "blocks": {
@@ -418,23 +424,17 @@
         "section_padding": "section--vertical-padding-top-bottom",
         "padding_amount": "1.0"
       }
-    },
-    "22c00209-f5a7-44dd-b682-1e3f4b8853d1": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "{% if product.metafields.custom.gallery%}\n\n<div class=\"section\">\n<h2 style=\"text-align:center\">Customer Gallery<\/h2>\n<div class=\"section__inner\"\n{{product.metafields.custom.gallery}}\n<\/div>\n<div style=\"text-align:center\"> More pictures coming up <\/div>\n<\/div>\n\n{% endif %}"
-      }
     }
   },
   "order": [
     "main",
+    "22c00209-f5a7-44dd-b682-1e3f4b8853d1",
     "323ae60f-9647-4d0e-9078-144d9c30c904",
     "3df5f21e-7990-4d2b-9a2e-0e726e036cf2",
     "502e8181-1cf0-45c5-9bb2-a47f09c53144",
     "5d42cb8b-ad63-4b47-85a3-13d0352e768d",
     "b9b5de34-16d5-4e6f-99ed-19cd87f7e051",
     "55f9b3c0-1a3a-4b68-b93f-5e8caa9d68b8",
-    "144db840-98d3-49f6-9502-6eb04ba475e2",
-    "22c00209-f5a7-44dd-b682-1e3f4b8853d1"
+    "144db840-98d3-49f6-9502-6eb04ba475e2"
   ]
 }

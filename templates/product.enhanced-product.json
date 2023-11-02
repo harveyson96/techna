@@ -102,7 +102,7 @@
         "enable_quick_purchase_bar": true,
         "show_share_buttons": true,
         "image_aspect_ratio": "landscape",
-        "gallery_style": "list",
+        "gallery_style": "thumbnails",
         "mobile_gallery_style": "slider",
         "gallery_size": "large",
         "enable_product_lightbox": true,

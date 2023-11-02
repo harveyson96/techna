@@ -26,11 +26,11 @@
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
-            "show_labels": true,
+            "show_labels": false,
             "variant_popup_option": "Size",
             "variant_popup_text": "Size guide",
             "variant_popup_page": "",
-            "siblings_show_product_image": true,
+            "siblings_show_product_image": false,
             "siblings_option_name": "Color"
           }
         },

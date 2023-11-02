@@ -21,7 +21,7 @@
         "bfac48c6-6f5c-4977-8656-02082859b952": {
           "type": "text",
           "settings": {
-            "text": "{{ product.metafields.custom.functions | metafield_tag }}<p>{{ product.metafields.custom.in_stock_notes | metafield_tag }}<\/p>"
+            "text": "{{ product.metafields.custom.functions | metafield_tag }}<p>{{ product.metafields.custom.function_notes.value }}<\/p>"
           }
         },
         "border": {

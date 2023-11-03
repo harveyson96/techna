@@ -94,6 +94,9 @@
         "payment_widget",
         "shipping_widget"
       ],
+      "custom_css": [
+        ".product__price > .fs-heading-4-base {font-size: 24px;}"
+      ],
       "settings": {
         "show_breadcrumbs": true,
         "show_navigation_buttons": false,

@@ -93,6 +93,9 @@
         "shipping_widget",
         "5425d8f3-3a7a-482c-8741-49d93c0e2258"
       ],
+      "custom_css": [
+        ".product__price > .fs-heading-4-base {font-size: 24px;}"
+      ],
       "settings": {
         "show_breadcrumbs": false,
         "show_navigation_buttons": false,

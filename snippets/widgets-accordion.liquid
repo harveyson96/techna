@@ -26,7 +26,7 @@
       {%- endif -%}
       {% if block.settings.show_description == true %}
         <div class="widgets-accordion__item-text rte ff-body fs-body-small">{{ product.description }}</div>
-      {%- else if block.settings.text != blank -%}
+      {%- elsif block.settings.text != blank -%}
         <div class="widgets-accordion__item-text rte ff-body fs-body-small">{{ block.settings.text }}</div>
       {%- endif -%}
 

@@ -1673,6 +1673,27 @@
             }
           }
         },
+        "description_widget": {
+          "name": "Description accordion",
+          "settings": {
+            "column": {
+              "label": "Column",
+              "options__1": "Left",
+              "options__2": "Right"
+            },
+            "style": {
+              "label": "Style",
+              "options__1": "Open",
+              "options__2": "Closed"
+            },
+            "text": {
+              "label": "Text"
+            },
+            "title": {
+              "label": "Title"
+            }
+          }
+        },
         "sku": {
           "name": "SKU"
         },

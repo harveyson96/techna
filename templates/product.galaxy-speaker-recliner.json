@@ -84,6 +84,17 @@
           "type": "border",
           "settings": {
           }
+        },
+        "08b86f61-51fd-4cc5-ab6e-7b30ad6ebd25": {
+          "type": "description_widget",
+          "settings": {
+            "column": "left",
+            "style": "closed",
+            "title": "Description",
+            "text": "<p>Product Description<\/p>",
+            "icon": "chat",
+            "show_description": true
+          }
         }
       },
       "block_order": [
@@ -98,7 +109,8 @@
         "description",
         "payment_widget",
         "shipping_widget",
-        "5425d8f3-3a7a-482c-8741-49d93c0e2258"
+        "5425d8f3-3a7a-482c-8741-49d93c0e2258",
+        "08b86f61-51fd-4cc5-ab6e-7b30ad6ebd25"
       ],
       "custom_css": [
         ".product__price > .fs-heading-4-base {font-size: 24px;}"

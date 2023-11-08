@@ -52,12 +52,6 @@
             "show_dynamic_checkout": true
           }
         },
-        "description": {
-          "type": "description",
-          "settings": {
-            "style": "closed"
-          }
-        },
         "payment_widget": {
           "type": "payment_widget",
           "settings": {
@@ -106,7 +100,6 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "description",
         "payment_widget",
         "shipping_widget",
         "5425d8f3-3a7a-482c-8741-49d93c0e2258",

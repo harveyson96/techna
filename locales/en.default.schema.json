@@ -1401,17 +1401,6 @@
               "label": "Title"
             }
           }
-        },
-        "description_widget": {
-          "name": "Description widget",
-          "settings": {
-            "text": {
-              "label": "Text"
-            },
-            "title": {
-              "label": "Title"
-            }
-          }
         }
       },
       "name": "Product details"

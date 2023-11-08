@@ -265,6 +265,14 @@
                 classes: 'product__block animation-fade-up-reveal product__block--small product--column-left'
               %}
             {%- endif -%}
+          {%- when 'description_widget' -%}
+            {%- if block.settings.column == 'left' -%}
+              {% render 'widgets-accordion' with block,
+                block: block,
+                style: block.settings.style,
+                classes: 'product__block animation-fade-up-reveal product__block--small product--column-left'
+              %}
+            {%- endif -%}
           {%- when 'complementary_products' -%}
             {%- if block.settings.column == 'left' -%}
               {% render 'complementary-products',
@@ -782,27 +790,14 @@
                   classes: 'product__block animation-fade-up-reveal product__block--small',
                 %}
               {%- endif -%}
-            {%- when 'description' -%}
-              {%- if block.settings.style == 'paragraph' -%}
-                <div class="product__description product__block animation-fade-up-reveal product__block--medium">
-                  <div class="product__description-content rte rte--product ff-body fs-body-small" data-description>
-                    {{ product.description }}
-                  </div>
-                </div>
-              {%- else -%}
-                {%- liquid
-                  assign accordion_class = accordion_base_class | append: ' accordion--' | append: block.settings.style | append: ' accordion--product product__block animation-fade-up-reveal product__block--small'
-                -%}
-
-                {%-
-                  render 'accordion-block' with
-                  block: block,
-                  classes: accordion_class,
-                  small_text: true,
-                  heading: description_title,
-                  content: product.description
-                -%}
-              {%- endif -%}
+            {%- when 'description_widget' -%}
+              {%- if block.settings.column == 'left' -%}
+              {% render 'widgets-accordion' with block,
+                block: block,
+                style: block.settings.style,
+                classes: 'product__block animation-fade-up-reveal product__block--small product--column-left'
+              %}
+            {%- endif -%}
             {%- when 'complementary_products' -%}
               {%- if block.settings.column == 'right' -%}
                 {%
@@ -1764,6 +1759,57 @@
           "label": "t:sections.main_product_overview.blocks.shipping_widget.settings.show_estimator.label",
           "info": "t:sections.main_product_overview.blocks.shipping_widget.settings.show_estimator.info",
           "default": true
+        }
+      ]
+    },
+    {
+      "type": "description_widget",
+      "name": "t:sections.main_product_overview.blocks.description_widget.name",
+      "limit": 1,
+      "settings": [
+        {
+          "type": "select",
+          "id": "column",
+          "label": "t:sections.main_product_overview.blocks.description_widget.settings.column.label",
+          "default": "left",
+          "options": [
+            {
+              "value": "left",
+              "label": "t:sections.main_product_overview.blocks.description_widget.settings.column.options__1"
+            },
+            {
+              "value": "right",
+              "label": "t:sections.main_product_overview.blocks.description_widget.settings.column.options__2"
+            }
+          ]
+        },
+        {
+          "id": "style",
+          "label": "t:sections.main_product_overview.blocks.description_widget.settings.style.label",
+          "type": "select",
+          "default": "closed",
+          "options": [
+            {
+              "value": "open",
+              "label": "t:sections.main_product_overview.blocks.description_widget.settings.style.options__1"
+            },
+            {
+              "value": "closed",
+              "label": "t:sections.main_product_overview.blocks.description_widget.settings.style.options__2"
+            }
+          ]
+        },
+        {
+          "id": "title",
+          "type": "text",
+          "label": "t:sections.main_product_overview.blocks.description_widget.settings.title.label",
+          "default": "Description"
+        },
+        {
+          "id": "text",
+          "type": "richtext",
+          "label": "t:sections.main_product_overview.blocks.description_widget.settings.text.label",
+          "default": "<p>Product Description</p>"
         }
       ]
     }

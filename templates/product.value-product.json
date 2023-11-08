@@ -85,7 +85,9 @@
             "column": "left",
             "style": "closed",
             "title": "Description",
-            "text": "<p>Product Description<\/p>"
+            "text": "<p>Product Description<\/p>",
+            "icon": "chat",
+            "show_description": true
           }
         }
       },

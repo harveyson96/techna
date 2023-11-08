@@ -1681,6 +1681,14 @@
             "title": {
               "label": "Title"
             },
+            "icon": {
+              "label": "Icon",
+              "options__1": "None",
+              "options__2": "Chat",
+              "options__3": "Payment",
+              "options__4": "Security",
+              "options__5": "Shipping"
+            },
             "show_description": {
               "label": "Apply Description",
               "info": "Apply the product description in product page"

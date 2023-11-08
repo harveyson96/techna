@@ -1682,7 +1682,8 @@
               "label": "Title"
             },
             "show_description": {
-              "label": "Apply Description"
+              "label": "Apply Description",
+              "info": "Apply the product description in product page"
             }
           }
         },

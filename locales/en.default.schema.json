@@ -1680,6 +1680,9 @@
             },
             "title": {
               "label": "Title"
+            },
+            "show_description": {
+              "label": "Apply Description"
             }
           }
         },

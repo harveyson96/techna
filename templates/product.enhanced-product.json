@@ -256,52 +256,6 @@
         "padding_amount": "1.0"
       }
     },
-    "5d42cb8b-ad63-4b47-85a3-13d0352e768d": {
-      "type": "video-with-features",
-      "blocks": {
-        "template--16297113387176__5d42cb8b-ad63-4b47-85a3-13d0352e768d-heading-1": {
-          "type": "heading",
-          "settings": {
-            "title": "Reveal the details",
-            "text_max_width": 32
-          }
-        },
-        "template--16297113387176__5d42cb8b-ad63-4b47-85a3-13d0352e768d-feature-1": {
-          "type": "feature",
-          "settings": {
-            "image_shape": "round",
-            "heading": "",
-            "subheading": "<p>Use these small paragraph blocks to feature various aspects about a product. You can add up to three of these blocks and each can have an image associated with them.<\/p>",
-            "text_max_width": 32
-          }
-        },
-        "template--16297113387176__5d42cb8b-ad63-4b47-85a3-13d0352e768d-feature-2": {
-          "type": "feature",
-          "settings": {
-            "image_shape": "round",
-            "heading": "Example heading",
-            "subheading": "<p>Use these small paragraph blocks to feature various aspects about a product. You can add up to three of these blocks and each can have an image associated with them.<\/p>",
-            "text_max_width": 32
-          }
-        }
-      },
-      "block_order": [
-        "template--16297113387176__5d42cb8b-ad63-4b47-85a3-13d0352e768d-heading-1",
-        "template--16297113387176__5d42cb8b-ad63-4b47-85a3-13d0352e768d-feature-1",
-        "template--16297113387176__5d42cb8b-ad63-4b47-85a3-13d0352e768d-feature-2"
-      ],
-      "settings": {
-        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/dc8366da0b3247d6b73a8b28410b62d4.mp4",
-        "video_width": "half",
-        "aspect_ratio": "landscape",
-        "text_position": "left",
-        "text_alignment": "left",
-        "enable_animation": true,
-        "section_contrast": false,
-        "section_padding": "section--vertical-padding-top-bottom",
-        "padding_amount": "1.0"
-      }
-    },
     "b9b5de34-16d5-4e6f-99ed-19cd87f7e051": {
       "type": "rich-text",
       "blocks": {
@@ -440,7 +394,6 @@
     "323ae60f-9647-4d0e-9078-144d9c30c904",
     "3df5f21e-7990-4d2b-9a2e-0e726e036cf2",
     "502e8181-1cf0-45c5-9bb2-a47f09c53144",
-    "5d42cb8b-ad63-4b47-85a3-13d0352e768d",
     "b9b5de34-16d5-4e6f-99ed-19cd87f7e051",
     "55f9b3c0-1a3a-4b68-b93f-5e8caa9d68b8",
     "144db840-98d3-49f6-9502-6eb04ba475e2"

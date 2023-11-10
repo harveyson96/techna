@@ -3874,7 +3874,7 @@ html:not(.no-js) body.template-index .header--transparent-home:not(.is-sticky).h
   width:100%;
   flex-shrink:0;
   padding-left:var(--spacing-medium);
-  white-space:nowrap;
+  /* white-space:nowrap; */
   overflow:hidden;
   text-overflow:ellipsis
 }

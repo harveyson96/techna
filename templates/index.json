@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "6af3d1ae-bb9c-4521-b194-ed0bd885e950": {
@@ -14,7 +23,7 @@
         "template--16341897773224__6af3d1ae-bb9c-4521-b194-ed0bd885e950-subheading-1": {
           "type": "subheading",
           "settings": {
-            "subheading": "<p>High-tech sectionals starting from $3000<\/p>",
+            "subheading": "<p>High-tech sectionals starting from $3000</p>",
             "text_max_width": 40
           }
         },
@@ -22,9 +31,9 @@
           "type": "button",
           "settings": {
             "link_text": "Shop Now",
-            "link": "shopify:\/\/collections\/techna-galaxy",
+            "link": "shopify://collections/techna-galaxy",
             "link_text2": "View Gallery",
-            "link2": "shopify:\/\/pages\/techna-galaxy"
+            "link2": "shopify://pages/techna-galaxy"
           }
         }
       },
@@ -37,8 +46,8 @@
         "video_aspect": "custom",
         "desktop_height": 100,
         "mobile_height": 100,
-        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/f2e96c2f02b8451393628f949738863e.mp4",
-        "video_url2": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/82480b9fae754ada9feebec802ab242a.mp4",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/f2e96c2f02b8451393628f949738863e.mp4",
+        "video_url2": "https://cdn.shopify.com/videos/c/o/v/82480b9fae754ada9feebec802ab242a.mp4",
         "color_text": "#ffffff",
         "overlay_opacity": 30,
         "enable_animation": true
@@ -100,9 +109,9 @@
           "type": "feature",
           "settings": {
             "show_image": true,
-            "image": "shopify:\/\/shop_images\/custom.png",
+            "image": "shopify://shop_images/custom.png",
             "heading": "Customization",
-            "subheading": "<p>Material, color, layout and way beyond.<\/p>",
+            "subheading": "<p>Material, color, layout and way beyond.</p>",
             "text_max_width": 42
           }
         },
@@ -110,9 +119,9 @@
           "type": "feature",
           "settings": {
             "show_image": true,
-            "image": "shopify:\/\/shop_images\/next-gen.png",
+            "image": "shopify://shop_images/next-gen.png",
             "heading": "Next-gen Tech",
-            "subheading": "<p>Cutting-edge elements at your fingertip<\/p>",
+            "subheading": "<p>Cutting-edge elements at your fingertip</p>",
             "text_max_width": 42
           }
         },
@@ -120,9 +129,9 @@
           "type": "feature",
           "settings": {
             "show_image": true,
-            "image": "shopify:\/\/shop_images\/package.png",
+            "image": "shopify://shop_images/package.png",
             "heading": "Order Care",
-            "subheading": "<p>Ensuring a seamless journey for every order<\/p>",
+            "subheading": "<p>Ensuring a seamless journey for every order</p>",
             "text_max_width": 42
           }
         }
@@ -169,9 +178,9 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/leather_and_wood_3.png",
+            "image": "shopify://shop_images/leather_and_wood_3.png",
             "heading": "Top-tier Material",
-            "subheading": "<p>Unparalleled quality for exceptional performance<\/p>",
+            "subheading": "<p>Unparalleled quality for exceptional performance</p>",
             "text_max_width": 24,
             "link": "",
             "link_text": "Read more"
@@ -180,9 +189,9 @@
         "column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/wood-carving_2.png",
+            "image": "shopify://shop_images/wood-carving_2.png",
             "heading": "Expertise Handmade",
-            "subheading": "<p>Meticulously crafted by skilled artisans for perfection<\/p>",
+            "subheading": "<p>Meticulously crafted by skilled artisans for perfection</p>",
             "text_max_width": 42,
             "link": "",
             "link_text": "Read more"
@@ -191,20 +200,9 @@
         "column-3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/customer-care_2.png",
+            "image": "shopify://shop_images/customer-care_2.png",
             "heading": "Worry-free Support",
-            "subheading": "<p>Seamless support always here to help<\/p>",
-            "text_max_width": 42,
-            "link": "",
-            "link_text": "Read more"
-          }
-        },
-        "column-4": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/truck_2.png",
-            "heading": "Shipping Nationwide",
-            "subheading": "<p>Flat rate shipping over 48 states<\/p>",
+            "subheading": "<p>Seamless support always here to help</p>",
             "text_max_width": 42,
             "link": "",
             "link_text": "Read more"
@@ -214,15 +212,14 @@
       "block_order": [
         "column-1",
         "column-2",
-        "column-3",
-        "column-4"
+        "column-3"
       ],
       "custom_css": [
         ".text-columns-with-images__item-image.animation-fade-up-reveal.animation-initialized {width: 64px; height: 64px;}"
       ],
       "settings": {
-        "columns": 4,
-        "image_shape": "square",
+        "columns": 3,
+        "image_shape": "round",
         "text_alignment": "center",
         "enable_animation": true,
         "section_contrast": true,
@@ -243,14 +240,14 @@
         "template--16189917036712__f487009f-6800-4a92-9239-c79db91e8ac1-1688060369bdcd8129-1": {
           "type": "subheading",
           "settings": {
-            "subheading": "<p> Immediately available. Less waiting time.<\/p>",
+            "subheading": "<p> Immediately available. Less waiting time.</p>",
             "text_max_width": 32
           }
         },
         "9a33b333-471f-481d-b4eb-1310780c8af0": {
           "type": "button",
           "settings": {
-            "link": "shopify:\/\/collections\/ready-to-ship",
+            "link": "shopify://collections/ready-to-ship",
             "link_text": "Shop Now"
           }
         }
@@ -261,7 +258,7 @@
         "9a33b333-471f-481d-b4eb-1310780c8af0"
       ],
       "settings": {
-        "image_1": "shopify:\/\/shop_images\/19_14c36919-7955-40b3-a182-694d394c74b1.jpg",
+        "image_1": "shopify://shop_images/19_14c36919-7955-40b3-a182-694d394c74b1.jpg",
         "image_position": "right",
         "image_width": "half",
         "aspect_ratio": "natural",
@@ -285,14 +282,14 @@
         "template--16189917036712__0bf6e9ac-5c88-4df8-8c52-f670b56704f2-1688060369bdcd8129-1": {
           "type": "subheading",
           "settings": {
-            "subheading": "<p>Customized products crafted upon your dream.<\/p>",
+            "subheading": "<p>Customized products crafted upon your dream.</p>",
             "text_max_width": 32
           }
         },
         "e2e7e321-242d-4d1d-a271-e47c53e1c9a7": {
           "type": "button",
           "settings": {
-            "link": "shopify:\/\/pages\/make-to-order",
+            "link": "shopify://pages/make-to-order",
             "link_text": "Design Now"
           }
         }
@@ -303,7 +300,7 @@
         "e2e7e321-242d-4d1d-a271-e47c53e1c9a7"
       ],
       "settings": {
-        "image_1": "shopify:\/\/shop_images\/13_c4f757c0-73b3-4278-8f0d-839dbe2e1e2e.jpg",
+        "image_1": "shopify://shop_images/13_c4f757c0-73b3-4278-8f0d-839dbe2e1e2e.jpg",
         "image_position": "left",
         "image_width": "half",
         "aspect_ratio": "natural",
@@ -320,16 +317,16 @@
         "template--16260115136680__235be5f1-53c1-48d7-ad85-f440910c6aa6-slide-2": {
           "type": "slide",
           "settings": {
-            "desktop_image": "shopify:\/\/shop_images\/inspriation_slide.png",
+            "desktop_image": "shopify://shop_images/inspriation_slide.png",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
             "title": "Techna Idea",
-            "subheading": "<p>See our ideas in next-gen sectionals<\/p>",
+            "subheading": "<p>See our ideas in next-gen sectionals</p>",
             "heading_text_size": 64,
             "overlay_shadow": 10,
             "max_width_subheading": 40,
             "link_text": "EXPLORE",
-            "link": "shopify:\/\/blogs\/space-inspiration",
+            "link": "shopify://blogs/space-inspiration",
             "alignment": "center_top",
             "color_text": "#ffffff",
             "color_text_button": "#181818",
@@ -359,7 +356,7 @@
           "type": "question",
           "settings": {
             "title": "What is next-gen furniture?",
-            "answer": "<p>Next-gen furniture, as envisioned by Techna, represents the pinnacle of ultramodern design, offering unparalleled customization options and cutting-edge features. It embodies a seamless fusion of sophistication and technology, allowing customers to tailor their furniture to their unique preferences and elevate their living spaces to the future of comfort and style.<\/p>",
+            "answer": "<p>Next-gen furniture, as envisioned by Techna, represents the pinnacle of ultramodern design, offering unparalleled customization options and cutting-edge features. It embodies a seamless fusion of sophistication and technology, allowing customers to tailor their furniture to their unique preferences and elevate their living spaces to the future of comfort and style.</p>",
             "author": ""
           }
         },
@@ -367,7 +364,7 @@
           "type": "question",
           "settings": {
             "title": "How can I custom my sectionals?",
-            "answer": "<p>Customizing your sectionals is a breeze with Techna! Simply explore our 'Make to Order' collection and select your desired sectional. From there, you can personalize every aspect, including layout, material, colors, and additional features, tailoring your sectional to suit your unique style and preferences. Our expert design team is also available to assist you in creating a sectional that truly reflects your vision. Transform your home with personalized luxury – start customizing your sectionals today!<\/p>",
+            "answer": "<p>Customizing your sectionals is a breeze with Techna! Simply explore our 'Make to Order' collection and select your desired sectional. From there, you can personalize every aspect, including layout, material, colors, and additional features, tailoring your sectional to suit your unique style and preferences. Our expert design team is also available to assist you in creating a sectional that truly reflects your vision. Transform your home with personalized luxury – start customizing your sectionals today!</p>",
             "author": ""
           }
         },
@@ -375,7 +372,7 @@
           "type": "question",
           "settings": {
             "title": "What is the shipping time?",
-            "answer": "<p>Custom orders take about 8–12 weeks to arrive at our warehouse and 2–4 weeks for delivery from the date they are picked up by the carrier. In-stock orders take around 5–14 business days for processing and 2–4 weeks for delivery from the date that they are shipped out from our warehouse.<\/p>",
+            "answer": "<p>Custom orders take about 8–12 weeks to arrive at our warehouse and 2–4 weeks for delivery from the date they are picked up by the carrier. In-stock orders take around 5–14 business days for processing and 2–4 weeks for delivery from the date that they are shipped out from our warehouse.</p>",
             "author": ""
           }
         },
@@ -383,7 +380,7 @@
           "type": "question",
           "settings": {
             "title": "Does TECHNA have showroom?",
-            "answer": "<p>Our showroom is located in Las Vegas, Nevada.<\/p>",
+            "answer": "<p>Our showroom is located in Las Vegas, Nevada.</p>",
             "author": ""
           }
         }
@@ -427,7 +424,7 @@
     "08162d92-e15f-4e89-b8c8-1d57130df531": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"robin-pro\" id=\"8465b889-c211-470e-b32e-38c7c746adc6\"><\/div>"
+        "custom_liquid": "<div class=\"robin-pro\" id=\"8465b889-c211-470e-b32e-38c7c746adc6\"></div>"
       }
     },
     "be7a9b53-33f3-475f-ab4c-8f3af3927feb": {
@@ -436,7 +433,7 @@
         "template--16189917036712__be7a9b53-33f3-475f-ab4c-8f3af3927feb-medium_square-1": {
           "type": "medium_square",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Bayard_Black_White.jpg",
+            "image": "shopify://shop_images/Bayard_Black_White.jpg",
             "video_url": "",
             "media_fit": "cover",
             "focal_point": "image_presentation",
@@ -444,7 +441,7 @@
             "subheading": "",
             "text_max_width": 32,
             "link_text": "",
-            "link": "shopify:\/\/pages\/customer-gallery",
+            "link": "shopify://pages/customer-gallery",
             "text_position": "center_center",
             "background_color": "",
             "color_text": "#ffffff",
@@ -459,7 +456,7 @@
         "template--16189917036712__be7a9b53-33f3-475f-ab4c-8f3af3927feb-small_square-1": {
           "type": "small_square",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Sahara_White_Black.jpg",
+            "image": "shopify://shop_images/Sahara_White_Black.jpg",
             "video_url": "",
             "media_fit": "cover",
             "focal_point": "image_presentation",
@@ -472,7 +469,7 @@
         "template--16189917036712__be7a9b53-33f3-475f-ab4c-8f3af3927feb-medium_vertical_rect-1": {
           "type": "medium_vertical_rect",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Lisa_White_Black.jpg",
+            "image": "shopify://shop_images/Lisa_White_Black.jpg",
             "video_url": "",
             "media_fit": "cover",
             "focal_point": "image_presentation",
@@ -480,7 +477,7 @@
             "subheading": "",
             "text_max_width": 24,
             "link_text": "View Customer Gallery",
-            "link": "shopify:\/\/pages\/customer-gallery",
+            "link": "shopify://pages/customer-gallery",
             "text_position": "center_center",
             "background_color": "",
             "color_text": "#ffffff",
@@ -495,7 +492,7 @@
         "template--16189917036712__be7a9b53-33f3-475f-ab4c-8f3af3927feb-medium_horizontal_rect-1": {
           "type": "medium_horizontal_rect",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Keenan_Grey_White.jpg",
+            "image": "shopify://shop_images/Keenan_Grey_White.jpg",
             "video_url": "",
             "media_fit": "cover",
             "focal_point": "image_presentation",
@@ -540,7 +537,7 @@
           "type": "testimonial",
           "settings": {
             "heading": "",
-            "testimonial": "<p>\"The attention to detail and quality of craftsmanship is outstanding. Techna Sofa truly delivers on their promise of creating unique, modern furniture.\" <\/p>",
+            "testimonial": "<p>\"The attention to detail and quality of craftsmanship is outstanding. Techna Sofa truly delivers on their promise of creating unique, modern furniture.\" </p>",
             "author": "David T.",
             "text_max_width": 48
           }
@@ -549,7 +546,7 @@
           "type": "testimonial",
           "settings": {
             "heading": "",
-            "testimonial": "<p>\"Absolutely love my customized Techna Sofa sectional! The futuristic design and added features have exceeded my expectations.\" <\/p>",
+            "testimonial": "<p>\"Absolutely love my customized Techna Sofa sectional! The futuristic design and added features have exceeded my expectations.\" </p>",
             "author": "Sarah H.",
             "text_max_width": 48
           }
@@ -558,7 +555,7 @@
           "type": "testimonial",
           "settings": {
             "heading": "",
-            "testimonial": "<p>\"I'm in awe of my Techna Sofa sectional! The futuristic design perfectly complements my modern living room. The Cup Holders and USB Ports add a touch of convenience that I can't live without.\"<\/p>",
+            "testimonial": "<p>\"I'm in awe of my Techna Sofa sectional! The futuristic design perfectly complements my modern living room. The Cup Holders and USB Ports add a touch of convenience that I can't live without.\"</p>",
             "author": "Emily T.",
             "text_max_width": 48
           }

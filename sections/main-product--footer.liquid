@@ -21,33 +21,13 @@
       {%- for block in section.blocks -%}
         {%- case block.type -%}
           {%- when 'payment_widget' -%}
-            {%
-              render 'widgets' with
-              block: block,
-              current_variant: current_variant,
-              display_on_desktop: true
-            %}
+            {% render 'widgets' with block, block: block, current_variant: current_variant, display_on_desktop: true %}
           {%- when 'security_widget' -%}
-            {%
-              render 'widgets' with
-              block: block,
-              current_variant: current_variant,
-              display_on_desktop: true
-            %}
+            {% render 'widgets' with block, block: block, current_variant: current_variant, display_on_desktop: true %}
           {%- when 'shipping_widget' -%}
-            {%
-              render 'widgets' with
-              block: block,
-              current_variant: current_variant,
-              display_on_desktop: true
-            %}
+            {% render 'widgets' with block, block: block, current_variant: current_variant, display_on_desktop: true %}
           {%- when 'custom_widget' -%}
-            {%
-              render 'widgets' with
-              block: block,
-              current_variant: current_variant,
-              display_on_desktop: true
-            %}
+            {% render 'widgets' with block, block: block, current_variant: current_variant, display_on_desktop: true %}
         {%- endcase -%}
       {%- endfor -%}
     </div>
@@ -71,26 +51,14 @@
                 assign accordion_class = accordion_base_class | append: ' accordion--' | append: block.settings.style
               -%}
 
-              {%-
-                render 'accordion-block' with
-                block: block,
-                classes: accordion_class,
-                heading: description_title,
-                content: product.description
-              -%}
+              {%- render 'accordion-block' with block, block: block, classes: accordion_class, heading: description_title, content: product.description -%}
             {%- endif -%}
           {%- when 'accordion' -%}
             {%- liquid
               assign accordion_class = accordion_base_class | append: ' accordion--' | append: block.settings.style
             -%}
 
-            {%-
-              render 'accordion-block' with
-              block: block,
-              classes: accordion_class,
-              heading: block.settings.heading,
-              content: block.settings.content
-            -%}
+            {%- render 'accordion-block' with block, block: block, classes: accordion_class, heading: block.settings.heading, content: block.settings.content -%}
         {%- endcase -%}
       {%- endfor -%}
     </div>
@@ -114,26 +82,14 @@
                 assign accordion_class = accordion_base_class | append: ' accordion--' | append: block.settings.style
               -%}
 
-              {%-
-                render 'accordion-block' with
-                block: block,
-                classes: accordion_class,
-                heading: description_title,
-                content: product.description
-              -%}
+              {%- render 'accordion-block' with block, block: block, classes: accordion_class, heading: description_title, content: product.description -%}
             {%- endif -%}
           {%- when 'accordion' -%}
             {%- liquid
               assign accordion_class = accordion_base_class | append: ' accordion--' | append: block.settings.style
             -%}
 
-            {%-
-              render 'accordion-block' with
-              block: block,
-              classes: accordion_class,
-              heading: block.settings.heading,
-              content: block.settings.content
-            -%}
+            {%- render 'accordion-block' with block, block: block, classes: accordion_class, heading: block.settings.heading, content: block.settings.content -%}
         {%- endcase -%}
       {%- endfor -%}
     </div>
@@ -142,33 +98,13 @@
       {%- for block in section.blocks -%}
         {%- case block.type -%}
           {%- when 'payment_widget' -%}
-            {%
-              render 'widgets' with
-              block: block,
-              current_variant: current_variant,
-              display_on_desktop: true
-            %}
+            {% render 'widgets' with block, block: block, current_variant: current_variant, display_on_desktop: true %}
           {%- when 'security_widget' -%}
-            {%
-              render 'widgets' with
-              block: block,
-              current_variant: current_variant,
-              display_on_desktop: true
-            %}
+            {% render 'widgets' with block, block: block, current_variant: current_variant, display_on_desktop: true %}
           {%- when 'shipping_widget' -%}
-            {%
-              render 'widgets' with
-              block: block,
-              current_variant: current_variant,
-              display_on_desktop: true
-            %}
+            {% render 'widgets' with block, block: block, current_variant: current_variant, display_on_desktop: true %}
           {%- when 'custom_widget' -%}
-            {%
-              render 'widgets' with
-              block: block,
-              current_variant: current_variant,
-              display_on_desktop: true
-            %}
+            {% render 'widgets' with block, block: block, current_variant: current_variant, display_on_desktop: true %}
         {%- endcase -%}
       {%- endfor -%}
     </div>
@@ -445,3 +381,82 @@
   ]
 }
 {% endschema %}
+{% comment %}
+
+This file has been rewritten to preserve the original behavior.
+
+---
+Changes:
+- from: "{%\r\n              render 'widgets' with\r\n              block: block,\r\n
+    \             current_variant: current_variant,\r\n              display_on_desktop:
+    true\r\n            %}"
+  to: "{% render 'widgets' with block, block: block, current_variant: current_variant,
+    display_on_desktop: true %}"
+  position: 841..948
+- from: "{%\r\n              render 'widgets' with\r\n              block: block,\r\n
+    \             current_variant: current_variant,\r\n              display_on_desktop:
+    true\r\n            %}"
+  to: "{% render 'widgets' with block, block: block, current_variant: current_variant,
+    display_on_desktop: true %}"
+  position: 1004..1111
+- from: "{%\r\n              render 'widgets' with\r\n              block: block,\r\n
+    \             current_variant: current_variant,\r\n              display_on_desktop:
+    true\r\n            %}"
+  to: "{% render 'widgets' with block, block: block, current_variant: current_variant,
+    display_on_desktop: true %}"
+  position: 1167..1274
+- from: "{%\r\n              render 'widgets' with\r\n              block: block,\r\n
+    \             current_variant: current_variant,\r\n              display_on_desktop:
+    true\r\n            %}"
+  to: "{% render 'widgets' with block, block: block, current_variant: current_variant,
+    display_on_desktop: true %}"
+  position: 1328..1435
+- from: "{%-\r\n                render 'accordion-block' with\r\n                block:
+    block,\r\n                classes: accordion_class,\r\n                heading:
+    description_title,\r\n                content: product.description\r\n              -%}"
+  to: "{%- render 'accordion-block' with block, block: block, classes: accordion_class,
+    heading: description_title, content: product.description -%}"
+  position: 2374..2515
+- from: "{%-\r\n              render 'accordion-block' with\r\n              block:
+    block,\r\n              classes: accordion_class,\r\n              heading: block.settings.heading,\r\n
+    \             content: block.settings.content\r\n            -%}"
+  to: "{%- render 'accordion-block' with block, block: block, classes: accordion_class,
+    heading: block.settings.heading, content: block.settings.content -%}"
+  position: 2752..2901
+- from: "{%-\r\n                render 'accordion-block' with\r\n                block:
+    block,\r\n                classes: accordion_class,\r\n                heading:
+    description_title,\r\n                content: product.description\r\n              -%}"
+  to: "{%- render 'accordion-block' with block, block: block, classes: accordion_class,
+    heading: description_title, content: product.description -%}"
+  position: 3853..3994
+- from: "{%-\r\n              render 'accordion-block' with\r\n              block:
+    block,\r\n              classes: accordion_class,\r\n              heading: block.settings.heading,\r\n
+    \             content: block.settings.content\r\n            -%}"
+  to: "{%- render 'accordion-block' with block, block: block, classes: accordion_class,
+    heading: block.settings.heading, content: block.settings.content -%}"
+  position: 4231..4380
+- from: "{%\r\n              render 'widgets' with\r\n              block: block,\r\n
+    \             current_variant: current_variant,\r\n              display_on_desktop:
+    true\r\n            %}"
+  to: "{% render 'widgets' with block, block: block, current_variant: current_variant,
+    display_on_desktop: true %}"
+  position: 4637..4744
+- from: "{%\r\n              render 'widgets' with\r\n              block: block,\r\n
+    \             current_variant: current_variant,\r\n              display_on_desktop:
+    true\r\n            %}"
+  to: "{% render 'widgets' with block, block: block, current_variant: current_variant,
+    display_on_desktop: true %}"
+  position: 4800..4907
+- from: "{%\r\n              render 'widgets' with\r\n              block: block,\r\n
+    \             current_variant: current_variant,\r\n              display_on_desktop:
+    true\r\n            %}"
+  to: "{% render 'widgets' with block, block: block, current_variant: current_variant,
+    display_on_desktop: true %}"
+  position: 4963..5070
+- from: "{%\r\n              render 'widgets' with\r\n              block: block,\r\n
+    \             current_variant: current_variant,\r\n              display_on_desktop:
+    true\r\n            %}"
+  to: "{% render 'widgets' with block, block: block, current_variant: current_variant,
+    display_on_desktop: true %}"
+  position: 5124..5231
+{% endcomment %}

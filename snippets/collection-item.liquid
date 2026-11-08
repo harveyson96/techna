@@ -29,14 +29,7 @@
       aria-label="{{ collection.title }}"
     >
       {%- if image_object -%}
-        {%
-          render 'image' with
-          image: image_object,
-          id: image_id,
-          wrapper_class: 'collection-item__image',
-          disable_style: image_is_constrained,
-          has_reveal_container: true
-        %}
+        {% render 'image' with image, image: image_object, id: image_id, wrapper_class: 'collection-item__image', disable_style: image_is_constrained, has_reveal_container: true %}
       {%- else -%}
         <div class="placeholder-image">
           {{ 'collection-' | append: current | placeholder_svg_tag: 'placeholder-svg' }}
@@ -71,3 +64,18 @@
     {%- endif -%}
   </div>
 </div>
+{% comment %}
+
+This file has been rewritten to preserve the original behavior.
+
+---
+Changes:
+- from: "{%\r\n          render 'image' with\r\n          image: image_object,\r\n
+    \         id: image_id,\r\n          wrapper_class: 'collection-item__image',\r\n
+    \         disable_style: image_is_constrained,\r\n          has_reveal_container:
+    true\r\n        %}"
+  to: "{% render 'image' with image, image: image_object, id: image_id, wrapper_class:
+    'collection-item__image', disable_style: image_is_constrained, has_reveal_container:
+    true %}"
+  position: 1093..1265
+{% endcomment %}

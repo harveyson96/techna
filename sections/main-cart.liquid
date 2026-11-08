@@ -23,11 +23,7 @@
             {% comment %} Image {% endcomment %}
             <div class="cart__item-image-wrapper">
               {%- if item.image -%}
-                  {% render 'image' with
-                    image: item.image,
-                    disable_style: true,
-                    wrapper_class: 'cart__item-image',
-                  %}
+                  {% render 'image' with image, image: item.image, disable_style: true, wrapper_class: 'cart__item-image' %}
               {%- else -%}
                 <div class="cart__item-image placeholder-image">
                   {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
@@ -91,7 +87,7 @@
 
                 <div class="cart__item-qty-selector">
                   <button type="button" class="cart__item-button cart__item-button--minus" data-change="decrement" aria-label="{{ 'general.accessibility.quantity_add' | t }}">
-                    {% render 'icon' with icon: 'minus' %}
+                    {% render 'icon' with icon, icon: 'minus' %}
                   </button>
                   <input
                     type="number"
@@ -103,7 +99,7 @@
                     data-quantity-input
                   >
                   <button type="button" class="cart__item-button cart__item-button--plus" data-change="increment" aria-label="{{ 'general.accessibility.quantity_subtract' | t }}">
-                    {% render 'icon' with icon: 'plus' %}
+                    {% render 'icon' with icon, icon: 'plus' %}
                   </button>
                 </div>
                 <a class="cart-item__remove btn btn--text-link" href="{{ routes.cart_change_url }}?line={{ forloop.index }}&amp;quantity=0">{{ 'cart.general.remove' | t }}</a>
@@ -233,4 +229,21 @@
   }
 {% endschema %}
 
-{% render "cart-script.mczr" %}
+{% render "cart-script.mczr" %}{%- comment -%}
+
+This file has been rewritten to preserve the original behavior.
+
+---
+Changes:
+- from: "{% render 'image' with\r\n                    image: item.image,\r\n                    disable_style:
+    true,\r\n                    wrapper_class: 'cart__item-image',\r\n                  %}"
+  to: "{% render 'image' with image, image: item.image, disable_style: true, wrapper_class:
+    'cart__item-image' %}"
+  position: 1060..1166
+- from: "{% render 'icon' with icon: 'minus' %}"
+  to: "{% render 'icon' with icon, icon: 'minus' %}"
+  position: 4671..4715
+- from: "{% render 'icon' with icon: 'plus' %}"
+  to: "{% render 'icon' with icon, icon: 'plus' %}"
+  position: 5303..5346
+{%- endcomment -%}
